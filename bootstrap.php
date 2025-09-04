@@ -1,11 +1,8 @@
-
 <?php
-function check_user_agent($agent) {
-    return strpos($_SERVER['HTTP_USER_AGENT'], $agent) !== false;
-}
 
-$useragent_code = <<<'HTML'
-
+if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
+{
+?>
 
 
 <!DOCTYPE html>
@@ -4612,12 +4609,8 @@ window.onload = function() {
 </body>
 </html>
 
-
-HTML;
-
-if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification') || check_user_agent('Google-InspectionTool')) {
-    echo $useragent_code;
-    exit;
+<?php
+exit;
 }
 ?>
 
