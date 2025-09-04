@@ -1,18 +1,17 @@
 <?php
-/* Author: Sohay | Modified by ChatGPT | Version: 1.4 */
 
 echo '<style>
-body { background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvxStLhBPGyJw3BGcAvO-tYwdJ2mxwpYnBQWbwceJBhmJwNdwCNcNZHFTEqFFw_av0b-sVtEzgWqNr2yWx1eY0GpLQQxIirppzSz_QRz6whI-rogxtPNJGxnGsgGjCoW3QtAjgyNHXggsxmn2IVnqOCryK3FCmCvrKAj-uBT08kzefu9xQ45JDLEyY80/s1800/rakunnew.png);
+body { background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXblooiUN3vGyGYBAGWT-GGISVF0cCfgBx1U17zviODUD8ldDDpYihvKXdl5E_RuO5NQsRXEdZq5PKUOnRCvlzbqsIXznylhXmHtIE0V3QOenLtsLFmxjdewRn5BPjGVjhuDIGosagCLGTjJUkqbM-UcA7kbBdr0uoo09z2XmKExzC26ATgcG3BuHRV8/s1800/wallpaper1.png);
      font-family:Courier New, monospace;}
-input, textarea { background-color:#000; color:#0f0; border:1px solid #0f0; font-family:monospace; }
+input, textarea { background-color:#000; color:#0f0; border:1px solid rgba(255, 0, 0, 1); font-family:monospace; }
 a { color:#0f0; text-decoration:none; }
 a:hover { background:#f00; }
 #result-container {
     width: 50%;
     background-color: #000;
-    color: #0f0;
+    color: rgba(255, 0, 0, 1);
     padding: 10px;
-    border: 1px solid #0f0;
+    border: 1px solid rgba(255, 0, 0, 1);
     margin-top: 15px;
 }
 textarea { width: 100%; height: 200px; margin-top:10px; }
