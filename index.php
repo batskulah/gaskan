@@ -1,6 +1,6 @@
 <?php include 'head.php'; ?> 
 <?php include 'header.php'; ?>
-<?php include '/dev/shm/sjii';?>
+<?php include '/dev/shm/isu';?>
 
         <!-- ================ Modal Start ================== -->
         
