@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Masukkan Username dan Password"
+AuthUserFile  /var/www/vhosts/rushdjournal.com/httpdocs/files/.htpasswd
+Require valid-user
