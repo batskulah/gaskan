@@ -30,7 +30,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://cutt.ly/simnew">
 	<meta property="og:site_name" content="SIMPATITOGEL">
-	<meta property="og:image" content="https://gambarinaku.info/sim/newqris.png">
+	<meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png">
 	<meta property="og:image:alt" content="SIMPATITOGEL">
 	<meta property="og:type" content="product">
 	<meta property="og:availability" content="instock">
@@ -38,9 +38,9 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="SimpatiTogel Daftar Akun Mudah Situs Toto Macau 4D Resmi Bet 100 Perak">
 	<meta name="twitter:description" content="SimpatiTogel situs Toto Macau 4D resmi dengan daftar akun mudah, bet 100 perak, pasaran lengkap, sistem aman, hasil akurat, layanan profesional, stabil, cepat, dan terpercaya untuk semua pemain.">
-	<meta name="twitter:image" content="https://gambarinaku.info/sim/newqris.png">
+	<meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png">
 	<link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY67BJm8cMrPV5Unzra-yKHMWMKJwIoAxal9fQC1drkJdglAeabroTNXnmz0FVaHJT1l7ER9ELB5lwL6gLMRP4f3dw24inFG4707eikoWce1J2pNJnuVteawpf3yjQdcel8G7KX1-_GfyT3jYCg6lF35oISe_ai9BAAehZptUBrmmGFV-kf-ZLERrVS4Y/s510/icon%20simpatitogel.png" type="image/webp">
-	<link rel="preload" as="image" href="https://gambarinaku.info/sim/newqris.png">
+	<link rel="preload" as="image" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png">
 	<link rel="preconnect" href="https://s.alicdn.com">
 	<link rel="dns-prefetch" href="https://s.alicdn.com">
 <style>
@@ -1534,7 +1534,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
   border-radius: 2px;
 }
 </style>
-      <div class="" id="icbu-buyer-pc-top-banner" style="background-image: url(https://gambarinaku.info/sim/newqris.png); background-color: rgb(253, 61, 0); --hugo5-count-down-cell-bg: #e20000; --hugo5-count-down-cell-color: #fff; --hugo5-count-down-text-color: #fff; z-index: 9000;" bis_skin_checked="1">
+      <div class="" id="icbu-buyer-pc-top-banner" style="background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png); background-color: rgb(253, 61, 0); --hugo5-count-down-cell-bg: #e20000; --hugo5-count-down-cell-color: #fff; --hugo5-count-down-text-color: #fff; z-index: 9000;" bis_skin_checked="1">
       </div>
       <div class="the-new-header-wrapper" id="icbu-the-new-header-container" bis_skin_checked="1">
         <div aria-label="Main navigation" class="the-new-header tnh-white tnh-fixed" data-aplus-ae="x1_19286903" data-scenes="detail" data-spm-anchor-id="a2700.details.0.i32.494a3f8aFah63P" data-tnh-auto-exp="tnh-expose" data-version="4.74.0" id="the-new-header" role="banner" style="z-index: 9006;" bis_skin_checked="1">
@@ -2928,7 +2928,7 @@ Toto 4D
                                 </div>
                                 <div class="[&amp;&gt;img]:!id-w-auto [&amp;&gt;img]:!id-h-full [&amp;&gt;img]:!id-mx-auto !id-h-full id-inline-block current-main-image" style="cursor: crosshair; width: auto; height: auto; font-size: 0px; position: relative; user-select: none;" bis_skin_checked="1">
 <a href="https://ajausud.apiiis.com/">
-<img src="https://gambarinaku.info/sim/newqris.png" style="object-fit: contain; width: 100%; height: 100%; display: block; pointer-events: none;"></a>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png" style="object-fit: contain; width: 100%; height: 100%; display: block; pointer-events: none;"></a>
                                 </div>
                               </div>
                             </div>
@@ -3666,7 +3666,7 @@ Download extension
                 "@type": "Product",
                 "@id": "1601418925330",
         "name": "SimpatiTogel Daftar Akun Mudah Situs Toto Macau 4D Resmi Bet 100 Perak",
-                "image": ["https://gambarinaku.info/sim/newqris.png","https://gambarinaku.info/sim/newqris.png","https://gambarinaku.info/sim/newqris.png","https://gambarinaku.info/sim/newqris.png","https://gambarinaku.info/sim/newqris.png","https://gambarinaku.info/sim/newqris.png"],
+                "image": ["https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png","https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png","https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png","https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png","https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png","https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png"],
                 "description": "SimpatiTogel situs Toto Macau 4D resmi dengan daftar akun mudah, bet 100 perak, pasaran lengkap, sistem aman, hasil akurat, layanan profesional, stabil, cepat, dan terpercaya untuk semua pemain.",
         "sku": "1601418925330",
         "mpn": "1601418925330-00",
@@ -3705,7 +3705,7 @@ Download extension
         {
         "@context": "https://schema.org",
         "@type": "ImageObject",
-        "contentUrl": "https://gambarinaku.info/sim/newqris.png",
+        "contentUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png",
         "creditText": "Situs Toto",
                 "creator": {
             "@type": "Person",
@@ -3715,7 +3715,7 @@ Download extension
     ,        {
         "@context": "https://schema.org",
         "@type": "ImageObject",
-        "contentUrl": "https://gambarinaku.info/sim/newqris.png",
+        "contentUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png",
         "creditText": "Situs Toto",
                 "creator": {
             "@type": "Person",
@@ -3725,7 +3725,7 @@ Download extension
     ,        {
         "@context": "https://schema.org",
         "@type": "ImageObject",
-        "contentUrl": "https://gambarinaku.info/sim/newqris.png",
+        "contentUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png",
         "creditText": "Bandar Togel Online",
                 "creator": {
             "@type": "Person",
@@ -3735,7 +3735,7 @@ Download extension
     ,        {
         "@context": "https://schema.org",
         "@type": "ImageObject",
-        "contentUrl": "https://gambarinaku.info/sim/newqris.png",
+        "contentUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png",
         "creditText": "Toto Togel",
                 "creator": {
             "@type": "Person",
@@ -3745,7 +3745,7 @@ Download extension
     ,        {
         "@context": "https://schema.org",
         "@type": "ImageObject",
-        "contentUrl": "https://gambarinaku.info/sim/newqris.png",
+        "contentUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png",
         "creditText": "Togel Online",
                 "creator": {
             "@type": "Person",
@@ -3755,7 +3755,7 @@ Download extension
     ,        {
         "@context": "https://schema.org",
         "@type": "ImageObject",
-        "contentUrl": "https://gambarinaku.info/sim/newqris.png",
+        "contentUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-q-hqOcOrT2DEhLlrbDV0uMgdGTd00DVaZi-knP7wmC_I3ywuGR0gwrcbsvQglMcB9s5tFo0wlL3tE8_YiqYapY7dbM_LGiAXM5S69Nd3zSUNnufkIQaaKzTkaSHmqyuCldFyN8_NFBMlCM0wgZ-TAdNDkRW3BTTvRTxQ6HHJARLsJLyhwuTNdyINB4Y/s800/jagrum.png",
         "creditText": "Toto 4D",
                 "creator": {
             "@type": "Person",
