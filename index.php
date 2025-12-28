@@ -1,3 +1,11 @@
+
+ 
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 
@@ -89,7 +97,8 @@
                             window.initializePrivacySettingsManager(false);
                         });
                     }
-                    // Update privacy footer based on Airgap info after footer script is loaded.waitForElm("#footer-script-loaded").then(() => {
+                    // Update privacy footer based on Airgap info after footer script is loaded.
+                    waitForElm("#footer-script-loaded").then(() => {
                         window.updatePrivacySettingsFooterTextBasedOnRegime();
                     });
 
@@ -126,9 +135,9 @@
 
 
 
-    <title>SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026</title>
+    <title>Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026</title>
     <meta name="description"
-        content="SitusJitu adalah situs Toto 4D resmi yang menyediakan special link aman dan terpercaya untuk para pemain. Dengan bet mulai 100 perak, SitusJitu jadi pilihan tepat buat yang mau main hemat tapi tetap maksimal.">
+        content="Angkasa17 merupakan special link alternatif Toto 4D resmi yang dirancang agar tetap stabil dan aman diakses kapan saja. Sistem terpercaya, permainan fair, dan layanan responsif menjadikan Angkasa17 pilihan paling paten untuk semua pemain.">
 
     <meta name="robots" content="max-image-preview:large">
 
@@ -138,16 +147,16 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://revistas.peruvianscience.org/",
-  "name": "SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026",
+  "url": "https://revistas.educaidscientific.com/",
+  "name": "Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026",
   "sku": "4302118744",
-  "description": "SitusJitu adalah situs Toto 4D resmi yang menyediakan special link aman dan terpercaya untuk para pemain. Dengan bet mulai 100 perak, SitusJitu jadi pilihan tepat buat yang mau main hemat tapi tetap maksimal.",
+  "description": "Angkasa17 merupakan special link alternatif Toto 4D resmi yang dirancang agar tetap stabil dan aman diakses kapan saja. Sistem terpercaya, permainan fair, dan layanan responsif menjadikan Angkasa17 pilihan paling paten untuk semua pemain.",
   "image": [
     {
       "@type": "ImageObject",
       "author": "Toto 4D",
-      "contentUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png",
-      "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+      "contentUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png",
+      "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
     }
   ],
   "category": "Android Game < Toto 4D < Toto 4D",
@@ -155,7 +164,7 @@
     "@type": "Brand",
     "name": "Toto 4D"
   },
-  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTbGPxzK_hycK1QY-kZaIYv-odsSG2FSFdRUGo0ZH-Lshg9VsqM5CXvYK751plSeaMj8xMOMKO3Pt89dFL5w2RnbtVH0-UKhwTU2-JprwGLSuLFdzeH9DQmNmE38yMg_yqZxFsHsg4kKVbr0ggGLFwQoO0WJjq2RuTsQ3wOfCoZD9YEa2odt92aRiJmAE/s210/logositus.png",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjndOfqdE7SHteav4n6zsTlMWztL5O60ULIIxerjYvjLGDlCAwUF0taop2qSiRWeK2-qFKwt6S4NonKApqi89LAP3DcfzYtQxC254dv6JbZfB6_SpDTLzxOqgeH-xpXtq_MUk3GiD9DVFIPE4mL1iw_07kjdZvTVR1-QkeNTIG3pFMLo6-GS8EYbRaIxRU/s500/angkasakulagi.png",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 5,
@@ -181,14 +190,14 @@
       "@type": "Review",
       "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
       "datePublished": "2025-09-09",
-      "reviewBody": "Pertama kali coba, langsung pecah gila-gilaan di Situsjitu",
+      "reviewBody": "Pertama kali coba, langsung pecah gila-gilaan di Angkasa17",
       "author": { "@type": "Person", "name": "Emma" }
     },
     {
       "@type": "Review",
       "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
       "datePublished": "2025-09-07",
-      "reviewBody": "Asli gacor, bukan tipu-tipu! Di Situsjitu, cukup isi saldo sekali, kamu langsung dapat jaminan bermain lagi gratis!",
+      "reviewBody": "Asli gacor, bukan tipu-tipu! Di Angkasa17, cukup isi saldo sekali, kamu langsung dapat jaminan bermain lagi gratis!",
       "author": { "@type": "Person", "name": "Aji Rio Santo" }
     },
     {
@@ -202,7 +211,7 @@
       "@type": "Review",
       "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
       "datePublished": "2025-09-07",
-      "reviewBody": "Lebih puas main Togel paka apk Situsjitu, lebih makin lancar, puas, dan bebas lemot!",
+      "reviewBody": "Lebih puas main Togel paka apk Angkasa17, lebih makin lancar, puas, dan bebas lemot!",
       "author": { "@type": "Person", "name": "Wiwi" }
     }
   ]
@@ -213,11 +222,11 @@
 {
   "@context": "https://schema.org",
   "@type": "VideoObject",
-  "name": "SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026",
-  "description": "SitusJitu adalah situs Toto 4D resmi yang menyediakan special link aman dan terpercaya untuk para pemain. Dengan bet mulai 100 perak, SitusJitu jadi pilihan tepat buat yang mau main hemat tapi tetap maksimal.",
+  "name": "Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026",
+  "description": "Angkasa17 merupakan special link alternatif Toto 4D resmi yang dirancang agar tetap stabil dan aman diakses kapan saja. Sistem terpercaya, permainan fair, dan layanan responsif menjadikan Angkasa17 pilihan paling paten untuk semua pemain.",
   "thumbnailUrl": [
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png",
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
   ],
   "uploadDate": "2024-09-28T04:19:10-04:00",
   "duration": "PT18S",
@@ -234,7 +243,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://revistas.peruvianscience.org/"
+      "item": "https://revistas.educaidscientific.com/"
     }
   ]
 }
@@ -246,31 +255,31 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://revistas.peruvianscience.org/#org",
+      "@id": "https://revistas.educaidscientific.com/#org",
       "name": "Toto 4D",
-      "url": "https://revistas.peruvianscience.org/",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+      "url": "https://revistas.educaidscientific.com/",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://revistas.peruvianscience.org/#website",
-      "url": "https://revistas.peruvianscience.org/",
+      "@id": "https://revistas.educaidscientific.com/#website",
+      "url": "https://revistas.educaidscientific.com/",
       "name": "Toto 4D",
-      "publisher": { "@id": "https://revistas.peruvianscience.org/#org" },
+      "publisher": { "@id": "https://revistas.educaidscientific.com/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://revistas.peruvianscience.org/?s={search_term_string}",
+        "target": "https://revistas.educaidscientific.com/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://revistas.peruvianscience.org/#app",
+      "@id": "https://revistas.educaidscientific.com/#app",
       "name": "Toto 4D",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
-      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR"},
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR" },
       "aggregateRating": { "@type": "AggregateRating", "ratingValue": 5, "ratingCount": 14282456 }
     }
   ]
@@ -288,13 +297,13 @@
     <meta name="twitter:app:name:googleplay" content="Toto 4D" value="" />
     <meta name="twitter:app:url:googleplay" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" />
     <meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
-    <meta property="og:title" content="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026" />
+    <meta property="og:title" content="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026" />
     <meta property="og:description"
-        content="SitusJitu adalah situs Toto 4D resmi yang menyediakan special link aman dan terpercaya untuk para pemain. Dengan bet mulai 100 perak, SitusJitu jadi pilihan tepat buat yang mau main hemat tapi tetap maksimal." />
+        content="Angkasa17 merupakan special link alternatif Toto 4D resmi yang dirancang agar tetap stabil dan aman diakses kapan saja. Sistem terpercaya, permainan fair, dan layanan responsif menjadikan Angkasa17 pilihan paling paten untuk semua pemain." />
     <meta property="og:type" content="product" />
     <meta property="og:url"
-        content="https://revistas.peruvianscience.org/" />
-    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+        content="https://revistas.educaidscientific.com/" />
+    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
     <meta property="product:price:amount" content="22.50" />
     <meta property="product:price:currency" content="777" />
 
@@ -311,7 +320,7 @@
     <link rel="preconnect" href="//i.etsystatic.com" />
     <link rel="preconnect" href="//v.etsystatic.com" />
     <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
-    <link rel="preload" as="image" imagesrcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" fetchpriority="high" />
+    <link rel="preload" as="image" imagesrcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" fetchpriority="high" />
 
     <meta name="robots" content="index, follow">
     <meta name="rating" content="general">
@@ -324,48 +333,48 @@
     <meta name="webcrawlers" content="all" />
     <meta name="spiders" content="all" />
     <meta name="google-site-verification" content="GAs57Ozv-af1eXn3AlSKhUefsxZxlS-kvuD7-u2ocNo" />
-    <link rel="canonical" href="https://revistas.peruvianscience.org/" />
-    <link rel="amphtml" href="https://amp-revistaspru.pages.dev/" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/" hreflang="en" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/fi-en/" hreflang="en-FI" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/au/" hreflang="en-AU" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/ca/" hreflang="en-CA" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/dk-en/" hreflang="en-DK" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/hk-en/" hreflang="en-HK" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/ie/" hreflang="en-IE" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/il-en/" hreflang="en-IL" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/in-en/" hreflang="en-IN" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/nz/" hreflang="en-NZ" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/no-en/" hreflang="en-NO" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/se-en/" hreflang="en-SE" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/sg-en/" hreflang="en-SG" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/uk/" hreflang="en-GB" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/de/" hreflang="de" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/at/" hreflang="de-AT" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/ch/" hreflang="de-CH" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/fr/" hreflang="fr" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/ca-fr/" hreflang="fr-CA" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/nl/" hreflang="nl" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/be/" hreflang="nl-BE" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/it/" hreflang="it" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/es/" hreflang="es" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/mx/" hreflang="es-MX" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/jp/" hreflang="ja" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/pl/" hreflang="pl" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/pt/" hreflang="pt" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/" hreflang="x-default" />
-    <link rel="alternate" href="https://revistas.peruvianscience.org/" hreflang="en-US" />
+    <link rel="canonical" href="https://revistas.educaidscientific.com/" />
+    <link rel="amphtml" href="https://bek-panik.pages.dev/" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/" hreflang="en" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/fi-en/" hreflang="en-FI" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/au/" hreflang="en-AU" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/ca/" hreflang="en-CA" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/dk-en/" hreflang="en-DK" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/hk-en/" hreflang="en-HK" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/ie/" hreflang="en-IE" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/il-en/" hreflang="en-IL" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/in-en/" hreflang="en-IN" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/nz/" hreflang="en-NZ" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/no-en/" hreflang="en-NO" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/se-en/" hreflang="en-SE" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/sg-en/" hreflang="en-SG" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/uk/" hreflang="en-GB" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/de/" hreflang="de" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/at/" hreflang="de-AT" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/ch/" hreflang="de-CH" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/fr/" hreflang="fr" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/ca-fr/" hreflang="fr-CA" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/nl/" hreflang="nl" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/be/" hreflang="nl-BE" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/it/" hreflang="it" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/es/" hreflang="es" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/mx/" hreflang="es-MX" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/jp/" hreflang="ja" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/pl/" hreflang="pl" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/pt/" hreflang="pt" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/" hreflang="x-default" />
+    <link rel="alternate" href="https://revistas.educaidscientific.com/" hreflang="en-US" />
 
     <script
         nonce="+gWSoSeB7oJ/5IB7H6o53UJw">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";</script>
 
-    <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESpwpE91AJpAKz1iuYxfielbFGW5cyj_SD68OuuNaZ_XgTiZhF-41NlcItVJ0xS4VAAxdpHu4-SWy0Q7H3Y3M_vy9lFsisK3xvoNXaG0DJ0TqofsLrfF1YwrXc5TzbPZqE0QE1k-ihbzgUBbq9mVsJlOwchT5OgA5nlsS3JWQLQrgFcCcUcOPpmbnnNI/s500/pavicon%20situsjt.png" />
-    <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESpwpE91AJpAKz1iuYxfielbFGW5cyj_SD68OuuNaZ_XgTiZhF-41NlcItVJ0xS4VAAxdpHu4-SWy0Q7H3Y3M_vy9lFsisK3xvoNXaG0DJ0TqofsLrfF1YwrXc5TzbPZqE0QE1k-ihbzgUBbq9mVsJlOwchT5OgA5nlsS3JWQLQrgFcCcUcOPpmbnnNI/s500/pavicon%20situsjt.png" type="image/webp" sizes="32x32" />
-    <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESpwpE91AJpAKz1iuYxfielbFGW5cyj_SD68OuuNaZ_XgTiZhF-41NlcItVJ0xS4VAAxdpHu4-SWy0Q7H3Y3M_vy9lFsisK3xvoNXaG0DJ0TqofsLrfF1YwrXc5TzbPZqE0QE1k-ihbzgUBbq9mVsJlOwchT5OgA5nlsS3JWQLQrgFcCcUcOPpmbnnNI/s500/pavicon%20situsjt.png" type="image/webp" sizes="16x16" />
-    <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESpwpE91AJpAKz1iuYxfielbFGW5cyj_SD68OuuNaZ_XgTiZhF-41NlcItVJ0xS4VAAxdpHu4-SWy0Q7H3Y3M_vy9lFsisK3xvoNXaG0DJ0TqofsLrfF1YwrXc5TzbPZqE0QE1k-ihbzgUBbq9mVsJlOwchT5OgA5nlsS3JWQLQrgFcCcUcOPpmbnnNI/s500/pavicon%20situsjt.png" sizes="180x180" />
+    <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png" />
+    <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png" type="image/webp" sizes="32x32" />
+    <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png" type="image/webp" sizes="16x16" />
+    <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png" sizes="180x180" />
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="rgb(241, 100, 30)" />
     <link rel="manifest" href="/site.webmanifest" />
-    <metaname="apple-mobile-web-app-title" content="Toto 4D" />
+    <meta name="apple-mobile-web-app-title" content="Toto 4D" />
     <meta name="application-name" content="Toto 4D" />
     <meta name="msapplication-TileColor" content="#F1641E" />
     <meta name="theme-color" content="rgb(255, 255, 255)" />
@@ -436,8 +445,8 @@
                 <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
                     <a href="/?ref=lgo" elementtiming="ux-global-nav">
                         <span class="wt-screen-reader-only">Toto 4D</span>
-                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTbGPxzK_hycK1QY-kZaIYv-odsSG2FSFdRUGo0ZH-Lshg9VsqM5CXvYK751plSeaMj8xMOMKO3Pt89dFL5w2RnbtVH0-UKhwTU2-JprwGLSuLFdzeH9DQmNmE38yMg_yqZxFsHsg4kKVbr0ggGLFwQoO0WJjq2RuTsQ3wOfCoZD9YEa2odt92aRiJmAE/s210/logositus.png"
-                            alt="Toto 4D" width="120" height="62" style="object-fit: contain;"></a>
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjndOfqdE7SHteav4n6zsTlMWztL5O60ULIIxerjYvjLGDlCAwUF0taop2qSiRWeK2-qFKwt6S4NonKApqi89LAP3DcfzYtQxC254dv6JbZfB6_SpDTLzxOqgeH-xpXtq_MUk3GiD9DVFIPE4mL1iw_07kjdZvTVR1-QkeNTIG3pFMLo6-GS8EYbRaIxRU/s500/angkasakulagi.png"
+                            alt="Toto 4D" width="120" height="60" style="object-fit: contain;"></a>
                 </div>
                 <nav class="wt-hide-xs wt-show-lg">
                     <div data-clg-id="WtMenu"
@@ -503,7 +512,8 @@
                             data-trending-searches="1">
 
                             <label for="global-enhancements-search-query" class="wt-label wt-screen-reader-only">
-                                Search for items or shops</label>
+                                Search for items or shops
+                            </label>
                             <div class="search-container" data-id="search-bar">
                                 <div class="wt-input-btn-group global-enhancements-search-input-btn-group emphasized_search_bar emphasized_search_bar_grey_bg search-bar-container"
                                     data-id="search-suggestions-trigger">
@@ -571,7 +581,7 @@
                         <ul
                             class="wt-display-flex-xs wt-justify-content-space-between wt-list-unstyled wt-m-xs-0 wt-align-items-center">
                             <li>
-                                <a class="login" href="https://amp-revistaspru.pages.dev/"
+                                <a class="login" href="https://bek-panik.pages.dev/"
                                     rel="nofollow noreferrer">
                                     DAFTAR - LOGIN
                                 </a>
@@ -617,7 +627,7 @@
                             <li data-ge-nav-menu="cart" data-ge-hover-event-name="gnav_hover_cart_menu">
                                 <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch"
                                     data-wt-tooltip data-header-cart-button>
-                                    <a aria-label="Cart" href="https://revistas.peruvianscience.org/cart?ref=hdr-cart"
+                                    <a aria-label="Cart" href="https://revistas.educaidscientific.com/cart?ref=hdr-cart"
                                         class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
                                         <span
                                             class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right"
@@ -652,7 +662,7 @@
                             data-menu-ui="menubar" data-ui="top-nav-category-list">
 
                             <li class="wt-mr-xs-3">
-                                <a href="https://revistas.peruvianscience.org/"
+                                <a href="https://revistas.educaidscientific.com/"
                                     class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem"
                                     data-ui="top-nav-category-link" data-node-id="-10">
                                     <span class="wt-icon wt-icon--smaller-xs wt-nudge-b-1 wt-nudge-r-3"><svg
@@ -661,36 +671,36 @@
                                             <path fill-rule="evenodd" clip-rule="evenodd"
                                                 d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7zm9.466 0H13V5a2 2 0 1 1 2.001 2M11 5a2 2 0 1 0-2.001 2H11zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.98 4.98 0 0 0 3-1v3H4V9zM13 11c.836.628 1.874 1 3 1v-2a3 3 0 0 1-2.236-1H20v5h-7zm-8 5v4h6v-4zm8 4v-4h6v4z" />
                                         </svg></span><span>
-                                        Situsjitu
+                                        Angkasa17
                                     </span>
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://revistas.peruvianscience.org/"
+                                <a href="https://revistas.educaidscientific.com/"
                                     class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem"
                                     data-ui="top-nav-category-link">
-                                    Situsjitu Login
+                                    Angkasa17 Login
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://revistas.peruvianscience.org/"
+                                <a href="https://revistas.educaidscientific.com/"
                                     class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem"
                                     data-ui="top-nav-category-link" data-node-id="2">
-                                    Situsjitu Daftar
+                                    Angkasa17 Daftar
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://revistas.peruvianscience.org/"
+                                <a href="https://revistas.educaidscientific.com/"
                                     class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem"
                                     data-ui="top-nav-category-link" data-node-id="3">
                                     Game Online
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://revistas.peruvianscience.org/"
+                                <a href="https://revistas.educaidscientific.com/"
                                     class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem"
                                     data-ui="top-nav-category-link">
-                                    Situsjitu depo 10rb
+                                    Angkasa17 depo 10rb
                                 </a>
                             </li>
 
@@ -721,7 +731,7 @@
 
 
     <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
-        var webVitals = function (e) { "use strict"; var t, n, i, r, o, a = function () { return window.performance && performance.getEntriesByType && performance.getEntriesByType("navigation")[0] }, u = function (e) { if ("loading" === document.readyState) return "loading"; var t = a(); if (t) { if (e < t.domInteractive) return "loading"; if (0 === t.domContentLoadedEventStart || e < t.domContentLoadedEventStart) return "dom-interactive"; if (0 === t.domComplete || e < t.domComplete) return "dom-content-loaded" } return "complete" }, c = function (e) { var t = e.nodeName; return 1 === e.nodeType ? t.toLowerCase() : t.toUpperCase().replace(/^#/, "") }, s = function (e, t) { var n = ""; try { for (; e && 9 !== e.nodeType;) { var i = e, r = i.id ? "#" + i.id : c(i) + (i.classList && i.classList.value && i.classList.value.trim() && i.classList.value.trim().length ? "." + i.classList.value.trim().replace(/\s+/g, ".") : ""); if (n.length + r.length > (t || 100) - 1) return n || r; if (n = n ? r + ">" + n : r, i.id) break; e = i.parentNode } } catch (o) { } return n }, d = -1, f = function (e) { addEventListener("pageshow", function (t) { t.persisted && (d = t.timeStamp, e(t)) }, !0) }, l = function () { var e = a(); return e && e.activationStart || 0 }, p = function (e, t) {var n = a(), i = "navigate"; return d >= 0 ? i = "back-forward-cache" : n && (document.prerendering || l() > 0 ? i = "prerender" : document.wasDiscarded ? i = "restore" : n.type && (i = n.type.replace(/_/g, "-"))), { name: e, value: void 0 === t ? -1 : t, rating: "good", delta: 0, entries: [], id: "v3-".concat(Date.now(), "-").concat(Math.floor(8999999999999 * Math.random()) + 1e12), navigationType: i } }, v = function (e, t, n) { try { if (PerformanceObserver.supportedEntryTypes.includes(e)) { var i = new PerformanceObserver(function (e) { Promise.resolve().then(function () { t(e.getEntries()) }) }); return i.observe(Object.assign({ type: e, buffered: !0 }, n || {})), i } } catch (r) { } }, $ = function (e, t, n, i) { var r, o; return function (a) { var u, c; t.value >= 0 && (a || i) && ((o = t.value - (r || 0)) || void 0 === r) && (r = t.value, t.delta = o, t.rating = (u = t.value, u > (c = n)[1] ? "poor" : u > c[0] ? "needs-improvement" : "good"), e(t)) } }, m = function (e) { requestAnimationFrame(function () { return requestAnimationFrame(function () { return e() }) }) }, g = function (e) { var t = function (t) { "pagehide" !== t.type && "hidden" !== document.visibilityState || e(t) }; addEventListener("visibilitychange", t, !0), addEventListener("pagehide", t, !0) }, y = function (e) { var t = !1; return function (n) { t || (e(n), t = !0) } }, h = -1, T = function () { return "hidden" !== document.visibilityState || document.prerendering ? 1 / 0 : 0 }, b = function (e) { "hidden" === document.visibilityState && h > -1 && (h = "visibilitychange" === e.type ? e.timeStamp : 0, S()) }, _ = function () { addEventListener("visibilitychange", b, !0), addEventListener("prerenderingchange", b, !0) }, S = function () { removeEventListener("visibilitychange", b, !0), removeEventListener("prerenderingchange", b, !0) }, E = function (e) { document.prerendering ? addEventListener("prerenderingchange", function () { return e() }, !0) : e() }, w = { passive: !0, capture: !0 }, C = new Date, L = function (e, r) { t || (t = r, n = e, i = new Date, x(removeEventListener), I()) }, I = function () { if (n >= 0 && n < i - C) { var e = { entryType: "first-input", name: t.type, target: t.target, cancelable: t.cancelable, startTime: t.timeStamp, processingStart: t.timeStamp + n }; r.forEach(function (t) { t(e) }), r = [] } }, k = function (e) { if (e.cancelable) { var t, n, i, r, o, a = (e.timeStamp > 1e12 ? new Date : performance.now()) - e.timeStamp; "pointerdown" == e.type ? (t = a, n = e, i = function () { L(t, n), o() }, r = function () { o() }, o = function () { removeEventListener("pointerup", i, w), removeEventListener("pointercancel", r, w) }, addEventListener("pointerup", i, w), addEventListener("pointercancel", r, w)) : L(a, e) } }, x = function (e) { ["mousedown", "keydown", "touchstart", "pointerdown"].forEach(function (t) { return e(t, k, w) }) }, P = 0, B = 1 / 0, D = 0, N = function (e) { e.forEach(function (e) { e.interactionId && (B = Math.min(B, e.interactionId), P = (D = Math.max(D, e.interactionId)) ? (D - B) / 7 + 1 : 0) }) }, R = function () { return o ? P : performance.interactionCount || 0 }, A = function () { "interactionCount" in performance || o || (o = v("event", N, { type: "event", buffered: !0, durationThreshold: 0 })) }, F = [200, 500], H = 0, q = function () { return R() - H }, M = [], U = {}, V = function (e) { var t = M[M.length - 1], n = U[e.interactionId]; if (n || M.length < 10 || e.duration > t.latency) { if (n) n.entries.push(e), n.latency = Math.max(n.latency, e.duration); else { var i = { id: e.interactionId, latency: e.duration, entries: [e] }; U[i.id] = i, M.push(i) } M.sort(function (e, t) { return t.latency - e.latency }), M.splice(10).forEach(function (e) { delete U[e.id] }) } }, j = function (e, t) { t = t || {}, E(function () { A(); var n, i, r = p("INP"), o = function (e) { e.forEach(function (e) { e.interactionId && V(e), "first-input" !== e.entryType || M.some(function (t) { return t.entries.some(function (t) { return e.duration === t.duration && e.startTime === t.startTime }) }) || V(e) }); var t, n = M[t = Math.min(M.length - 1, Math.floor(q() / 50))]; n && n.latency !== r.value && (r.value = n.latency, r.entries = n.entries, i()) }, a = v("event", o, { durationThreshold: null !== (n = t.durationThreshold) && void 0 !== n ? n : 40 }); i = $(e, r, F, t.reportAllChanges), a && ("interactionId" in PerformanceEventTiming.prototype && a.observe({ type: "first-input", buffered: !0 }), g(function () { o(a.takeRecords()), r.value < 0 && q() > 0 && (r.value = 0, r.entries = []), i(!0) }), f(function () { M = [], H = R(), r = p("INP"), i = $(e, r, F, t.reportAllChanges) })) }) }, z = [2500, 4e3], G = {}; return e.onINP = function (e, t) { j(function (t) { (function (e) { if (e.entries.length) { var t = e.entries.sort(function (e, t) { return t.duration - e.duration || t.processingEnd - t.processingStart - (e.processingEnd - e.processingStart) })[0]; e.attribution = { eventTarget: s(t.target), eventType: t.name, eventTime: t.startTime, eventEntry: t, loadState: u(t.startTime) } } else e.attribution = {} })(t), e(t) }, t) }, e.onLCP = function (e, t) { var n, i; n = function (t) { (function (e) { if (e.entries.length) { var t = a(); if (t) { var n = t.activationStart || 0, i = e.entries[e.entries.length - 1], r = i.url && performance.getEntriesByType("resource").filter(function (e) { return e.name === i.url })[0], o = Math.max(0, t.responseStart - n), u = Math.max(o, r ? (r.requestStart || r.startTime) - n : 0), c = Math.max(u, r ? r.responseEnd - n : 0), d = Math.max(c, i ? i.startTime - n : 0), f = { element: s(i.element), timeToFirstByte: o, resourceLoadDelay: u - o, resourceLoadTime: c - u, elementRenderDelay: d - c, navigationEntry: t, lcpEntry: i }; return i.url && (f.url = i.url), r && (f.lcpResourceEntry = r), void (e.attribution = f) } } e.attribution = { timeToFirstByte: 0, resourceLoadDelay: 0, resourceLoadTime: 0, elementRenderDelay: e.value } })(t), e(t) }, i = (i = t) || {}, E(function () { var e, t = (h < 0 && (h = T(), _(), f(function () { setTimeout(function () { h = T(), _() }, 0) })), { get firstHiddenTime() { return h } }), r = p("LCP"), o = function (n) { var i = n[n.length - 1]; i && i.startTime < t.firstHiddenTime && (r.value = Math.max(i.startTime - l(), 0), r.entries = [i], e()) }, a = v("largest-contentful-paint", o); if (a) { e = $(n, r, z, i.reportAllChanges); var u = y(function () { G[r.id] || (o(a.takeRecords()), a.disconnect(), G[r.id] = !0, e(!0)) });["keydown", "click"].forEach(function (e) { addEventListener(e, function () { return setTimeout(u, 0) }, !0) }), g(u), f(function (t) { r = p("LCP"), e = $(n, r, z, i.reportAllChanges), m(function () { r.value = performance.now() - t.timeStamp, G[r.id] = !0, e(!0) }) }) } }) }, Object.defineProperty(e, "__esModule", { value: !0 }), e }({});
+        var webVitals = function (e) { "use strict"; var t, n, i, r, o, a = function () { return window.performance && performance.getEntriesByType && performance.getEntriesByType("navigation")[0] }, u = function (e) { if ("loading" === document.readyState) return "loading"; var t = a(); if (t) { if (e < t.domInteractive) return "loading"; if (0 === t.domContentLoadedEventStart || e < t.domContentLoadedEventStart) return "dom-interactive"; if (0 === t.domComplete || e < t.domComplete) return "dom-content-loaded" } return "complete" }, c = function (e) { var t = e.nodeName; return 1 === e.nodeType ? t.toLowerCase() : t.toUpperCase().replace(/^#/, "") }, s = function (e, t) { var n = ""; try { for (; e && 9 !== e.nodeType;) { var i = e, r = i.id ? "#" + i.id : c(i) + (i.classList && i.classList.value && i.classList.value.trim() && i.classList.value.trim().length ? "." + i.classList.value.trim().replace(/\s+/g, ".") : ""); if (n.length + r.length > (t || 100) - 1) return n || r; if (n = n ? r + ">" + n : r, i.id) break; e = i.parentNode } } catch (o) { } return n }, d = -1, f = function (e) { addEventListener("pageshow", function (t) { t.persisted && (d = t.timeStamp, e(t)) }, !0) }, l = function () { var e = a(); return e && e.activationStart || 0 }, p = function (e, t) { var n = a(), i = "navigate"; return d >= 0 ? i = "back-forward-cache" : n && (document.prerendering || l() > 0 ? i = "prerender" : document.wasDiscarded ? i = "restore" : n.type && (i = n.type.replace(/_/g, "-"))), { name: e, value: void 0 === t ? -1 : t, rating: "good", delta: 0, entries: [], id: "v3-".concat(Date.now(), "-").concat(Math.floor(8999999999999 * Math.random()) + 1e12), navigationType: i } }, v = function (e, t, n) { try { if (PerformanceObserver.supportedEntryTypes.includes(e)) { var i = new PerformanceObserver(function (e) { Promise.resolve().then(function () { t(e.getEntries()) }) }); return i.observe(Object.assign({ type: e, buffered: !0 }, n || {})), i } } catch (r) { } }, $ = function (e, t, n, i) { var r, o; return function (a) { var u, c; t.value >= 0 && (a || i) && ((o = t.value - (r || 0)) || void 0 === r) && (r = t.value, t.delta = o, t.rating = (u = t.value, u > (c = n)[1] ? "poor" : u > c[0] ? "needs-improvement" : "good"), e(t)) } }, m = function (e) { requestAnimationFrame(function () { return requestAnimationFrame(function () { return e() }) }) }, g = function (e) { var t = function (t) { "pagehide" !== t.type && "hidden" !== document.visibilityState || e(t) }; addEventListener("visibilitychange", t, !0), addEventListener("pagehide", t, !0) }, y = function (e) { var t = !1; return function (n) { t || (e(n), t = !0) } }, h = -1, T = function () { return "hidden" !== document.visibilityState || document.prerendering ? 1 / 0 : 0 }, b = function (e) { "hidden" === document.visibilityState && h > -1 && (h = "visibilitychange" === e.type ? e.timeStamp : 0, S()) }, _ = function () { addEventListener("visibilitychange", b, !0), addEventListener("prerenderingchange", b, !0) }, S = function () { removeEventListener("visibilitychange", b, !0), removeEventListener("prerenderingchange", b, !0) }, E = function (e) { document.prerendering ? addEventListener("prerenderingchange", function () { return e() }, !0) : e() }, w = { passive: !0, capture: !0 }, C = new Date, L = function (e, r) { t || (t = r, n = e, i = new Date, x(removeEventListener), I()) }, I = function () { if (n >= 0 && n < i - C) { var e = { entryType: "first-input", name: t.type, target: t.target, cancelable: t.cancelable, startTime: t.timeStamp, processingStart: t.timeStamp + n }; r.forEach(function (t) { t(e) }), r = [] } }, k = function (e) { if (e.cancelable) { var t, n, i, r, o, a = (e.timeStamp > 1e12 ? new Date : performance.now()) - e.timeStamp; "pointerdown" == e.type ? (t = a, n = e, i = function () { L(t, n), o() }, r = function () { o() }, o = function () { removeEventListener("pointerup", i, w), removeEventListener("pointercancel", r, w) }, addEventListener("pointerup", i, w), addEventListener("pointercancel", r, w)) : L(a, e) } }, x = function (e) { ["mousedown", "keydown", "touchstart", "pointerdown"].forEach(function (t) { return e(t, k, w) }) }, P = 0, B = 1 / 0, D = 0, N = function (e) { e.forEach(function (e) { e.interactionId && (B = Math.min(B, e.interactionId), P = (D = Math.max(D, e.interactionId)) ? (D - B) / 7 + 1 : 0) }) }, R = function () { return o ? P : performance.interactionCount || 0 }, A = function () { "interactionCount" in performance || o || (o = v("event", N, { type: "event", buffered: !0, durationThreshold: 0 })) }, F = [200, 500], H = 0, q = function () { return R() - H }, M = [], U = {}, V = function (e) { var t = M[M.length - 1], n = U[e.interactionId]; if (n || M.length < 10 || e.duration > t.latency) { if (n) n.entries.push(e), n.latency = Math.max(n.latency, e.duration); else { var i = { id: e.interactionId, latency: e.duration, entries: [e] }; U[i.id] = i, M.push(i) } M.sort(function (e, t) { return t.latency - e.latency }), M.splice(10).forEach(function (e) { delete U[e.id] }) } }, j = function (e, t) { t = t || {}, E(function () { A(); var n, i, r = p("INP"), o = function (e) { e.forEach(function (e) { e.interactionId && V(e), "first-input" !== e.entryType || M.some(function (t) { return t.entries.some(function (t) { return e.duration === t.duration && e.startTime === t.startTime }) }) || V(e) }); var t, n = M[t = Math.min(M.length - 1, Math.floor(q() / 50))]; n && n.latency !== r.value && (r.value = n.latency, r.entries = n.entries, i()) }, a = v("event", o, { durationThreshold: null !== (n = t.durationThreshold) && void 0 !== n ? n : 40 }); i = $(e, r, F, t.reportAllChanges), a && ("interactionId" in PerformanceEventTiming.prototype && a.observe({ type: "first-input", buffered: !0 }), g(function () { o(a.takeRecords()), r.value < 0 && q() > 0 && (r.value = 0, r.entries = []), i(!0) }), f(function () { M = [], H = R(), r = p("INP"), i = $(e, r, F, t.reportAllChanges) })) }) }, z = [2500, 4e3], G = {}; return e.onINP = function (e, t) { j(function (t) { (function (e) { if (e.entries.length) { var t = e.entries.sort(function (e, t) { return t.duration - e.duration || t.processingEnd - t.processingStart - (e.processingEnd - e.processingStart) })[0]; e.attribution = { eventTarget: s(t.target), eventType: t.name, eventTime: t.startTime, eventEntry: t, loadState: u(t.startTime) } } else e.attribution = {} })(t), e(t) }, t) }, e.onLCP = function (e, t) { var n, i; n = function (t) { (function (e) { if (e.entries.length) { var t = a(); if (t) { var n = t.activationStart || 0, i = e.entries[e.entries.length - 1], r = i.url && performance.getEntriesByType("resource").filter(function (e) { return e.name === i.url })[0], o = Math.max(0, t.responseStart - n), u = Math.max(o, r ? (r.requestStart || r.startTime) - n : 0), c = Math.max(u, r ? r.responseEnd - n : 0), d = Math.max(c, i ? i.startTime - n : 0), f = { element: s(i.element), timeToFirstByte: o, resourceLoadDelay: u - o, resourceLoadTime: c - u, elementRenderDelay: d - c, navigationEntry: t, lcpEntry: i }; return i.url && (f.url = i.url), r && (f.lcpResourceEntry = r), void (e.attribution = f) } } e.attribution = { timeToFirstByte: 0, resourceLoadDelay: 0, resourceLoadTime: 0, elementRenderDelay: e.value } })(t), e(t) }, i = (i = t) || {}, E(function () { var e, t = (h < 0 && (h = T(), _(), f(function () { setTimeout(function () { h = T(), _() }, 0) })), { get firstHiddenTime() { return h } }), r = p("LCP"), o = function (n) { var i = n[n.length - 1]; i && i.startTime < t.firstHiddenTime && (r.value = Math.max(i.startTime - l(), 0), r.entries = [i], e()) }, a = v("largest-contentful-paint", o); if (a) { e = $(n, r, z, i.reportAllChanges); var u = y(function () { G[r.id] || (o(a.takeRecords()), a.disconnect(), G[r.id] = !0, e(!0)) });["keydown", "click"].forEach(function (e) { addEventListener(e, function () { return setTimeout(u, 0) }, !0) }), g(u), f(function (t) { r = p("LCP"), e = $(n, r, z, i.reportAllChanges), m(function () { r.value = performance.now() - t.timeStamp, G[r.id] = !0, e(!0) }) }) } }) }, Object.defineProperty(e, "__esModule", { value: !0 }), e }({});
     </script>
 
     <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
@@ -739,7 +749,7 @@
                 return out;
             }
             Toto 4D.Context.feature = assign(Toto 4D.Context.feature ? Toto 4D.Context.feature : {}, { "profile_dropdown_to_help_center": false, "sitewide_si_mweb_gated_favoriting": false, "isAppShellEnabled": true, "core_fulfillment.product_level_readiness_states": false, "design_systems.buybox_performance_web_components": false, "seller_platform_web.buyer_inquiry": false, "seller_platform_web.seller_local_time": false, "seller_platform_web.item_detail_overlay": false, "buyer_promise.issue_resolution.fee_avoidance_v2": false, "content_moderation.convo_safety.structured_convos": false, "risk_experience.buyer_email_verification": false });
-            Toto 4D.Context.data = assign(Toto 4D.Context.data? Toto 4D.Context.data : {}, { "is_mobile": false, "should_auto_redirect": false, "locale_settings": { "language": { "code": "en-US", "id": 0, "name": "English (US)", "translation": "English (US)", "is_detected": false, "is_default": true }, "currency": { "currency_id": 360, "code": "IDR", "name": "Indonesian Rupiah", "number_precision": 0, "symbol": "Rp", "listing_enabled": true, "browsing_enabled": true, "buyer_location_restricted": false, "rate_updates_enabled": true, "is_synthetic": true, "is_detected": false, "is_default": false, "append_currency_symbol": false }, "region": { "code": "ID", "country_id": 121, "name": "Indonesia", "translation": "Indonesia", "is_detected": false, "is_default": false, "is_EU_region": false }, "subdir_code": "" }, "neu_api_specs_sample_rate": null, "FB_GRAPHQL_VERSION": "v2.10", "page_guid": "ffbde3696ef.69632e5014d83cdc8fa2.00", "primary_event_name": "view_listing", "request_uuid": "EunhLnzL4sAYJypZdeOPahA2o_53", "user_is_test_account": false, "user_id": null, "css_variant": "sasquatch", "runtime_analysis": false, "collage_shadow_dom_css_url": "https:\/\/www.etsy.com\/ac\/sasquatch\/css\/collage\/shadow.b60eba69b0e074.css", "fix_domready": true, "auto_yield": true, "vite_public_path": "https:\/\/www.etsy.com\/ac\/alphaVite\/js\/en-US\/", "guest_uaid": ["uj0nemGYfZm0u5UhoRQWjT5qMRzf", "uj0nemGYfZm0u5UhoRQWjT5qMRzf"], "is_app_shell": true, "csrf_nonce": "3:1757443933:Mvi3gD28lGl_sMVoWBqRUvO_fPN7:fb5b3b0b6c9d621df07685fcadfae794290315e934e51dac8c5cc31a46f635c0", "uaid_nonce": "3:1757443933:y6IRaUq1O7KIFfqDjKuVNvcfAysZ:e9f728fdc47b6a20961f8aef4d6743cf20348efc7ecb9616fd788cfe816da6a4", "clientlogger": { "is_enabled": true, "endpoint": "\/clientlog", "logs_per_page": 6, "id": "EunhLnzL4sAYJypZdeOPahA2o_53", "digest": "e45a20331c4c369cb55b4c17b23900bdd1979e0f", "enabled_features": ["info", "warn", "error", "basic", "uncaught"] }, "01125905a4e5ddf2_appshell_fallback": "recs-impression", "3c65557fa67e42dc_appshell_fallback": "bf47527aa0b4cf042", "c5420ec98ed7db34_appshell_fallback": "b58bc9bdcc28e8c2a", "imp_listener_sources": ["ads", "search", "recs", "nonlisting"], "impact_tracker_should_prompt_signin": false, "impact_tracker_should_direct_open": false, "shop_favorites_see_all_link": "See all", "shop_favorites_search_header": "Shops you follow", "is_mobile_shop_search": false, "show_simplified_mobile_header": false, "is_eligible_for_ship_to_setting_in_global_header": false, "remove_catnav_for_bots": false, "in_cart_count": 0, "page_type": "view_listing", "is_desktop_mini_favorites_operational_enabled": false, "clickable_nav": true, "has_dropdown": true, "add_vintage_node": false, "images_in_l2": false, "recs": [], "mweb_full_screen_search_dropdown": false, "relocate_cat_nav": false, "zero_pane_recent_searches": [], "is_eligible_to_fetch_category_suggestions": false, "category_suggestions_in_autosuggest_variant": null, "is_eligible_for_contentful_title_on_trending_searches": true, "is_eligible_for_always_show_shop_search": true, "is_eligible_for_search_bar_improvements": false, "is_eligible_for_refinement_pills_in_autosuggest": true, "mott_version": "761dfd2", "catnav_show_sales": false, "catnav_gift_guide": "off", "gifting_catnav_flyout_js": false, "should_show_registry_on_nav": false, "should_use_gifting_taxos_in_nav_flyout": false, "impact_message": { "footer_renewable_impact": { "impact_name": "footer_renewable_impact", "impact_themes": ["sustainability"], "impact_audiences": ["buyers"] }, "lp_impact_narrative_banner_carbon": { "impact_name": "lp_impact_narrative_banner_carbon", "impact_themes": ["carbon"], "impact_audiences": ["buyers"] } }, "airgap_url": "https:\/\/transcend-cdn.com\/cm\/ac71e058-41b7-4026-b482-3d9b8e31a6d0\/airgap.js", "airgap_bundle": "control_bundle", "dual_write_enabled": true, "google_tag_manager_async_enabled": false, "dynamic_privacy_settings_ui_enabled": false, "forced_data_regimes": "", "has_forced_data_regimes": false, "all_purposes": ["Advertising", "Functional"], "all_regimes": ["us-gpc", "consent-prompt"], "default_consent_expiry": 518400, "disable_advertising_regimes": [], "seller_is_viewing_own_listing": false, "listingId": 4302118744, "listing_price": 22.5, "shopId": 25947065, "shop_id": 25947065, "shop_name": "Toto 4D", "custom_orders_listings2": true, "is_listing_preview": false, "checkout_decorator": "", "was_landing_from_external_referrer": false, "should_collapse_neighbors": false, "should_open_single_content_toggle": false, "is_logged_in": false, "referring_listing_id": 4302118744, "address_formats": { "0": { "postal_code_type": "postal", "postal_code_pattern": null, "postal_code_placeholder": "", "country_iso_code": "ZZ" }, "55": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "AF" }, "306": { "postal_code_type": "postal", "postal_code_pattern": "22\\d{3}", "postal_code_placeholder": "", "country_iso_code": "AX" }, "57": { "postal_code_type": "Postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "AL" }, "95": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "DZ" }, "250": { "postal_code_type": "zip", "postal_code_pattern": "(96799)(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "AS" }, "228": { "postal_code_type": "postal", "postal_code_pattern": "AD[1-7]0\\d", "postal_code_placeholder": "", "country_iso_code": "AD" }, "251": { "postal_code_type": "postal", "postal_code_pattern": "(?:AI-)?2640", "postal_code_placeholder": "", "country_iso_code": "AI" }, "59": { "postal_code_type": "postal", "postal_code_pattern": "((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?", "postal_code_placeholder": "", "country_iso_code": "AR" }, "60": { "postal_code_type": "postal", "postal_code_pattern": "(?:37)?\\d{4}", "postal_code_placeholder": "", "country_iso_code": "AM" }, "61": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "3393", "country_iso_code": "AU" }, "62": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "AT" }, "63": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "AZ" }, "232": { "postal_code_type": "postal", "postal_code_pattern": "(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)", "postal_code_placeholder": "", "country_iso_code": "BH" }, "68": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "BD" }, "237": { "postal_code_type": "Postal", "postal_code_pattern": "BB\\d{5}", "postal_code_placeholder": "", "country_iso_code": "BB" }, "71": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "BY" }, "65": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "BE" }, "225": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{2} ?[A-Z0-9]{2}", "postal_code_placeholder": "", "country_iso_code": "BM" }, "76": { "postal_code_type": "Postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "BT" }, "70": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "BA" }, "74": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}-?\\d{3}", "postal_code_placeholder": "", "country_iso_code": "BR" }, "255": { "postal_code_type": "postal", "postal_code_pattern": "BBND 1ZZ", "postal_code_placeholder": "", "country_iso_code": "IO" }, "231": { "postal_code_type": "postal", "postal_code_pattern": "VG\\d{4}", "postal_code_placeholder": "", "country_iso_code": "VG" }, "75": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{2} ?\\d{4}", "postal_code_placeholder": "", "country_iso_code": "BN" }, "69": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "BG" }, "135": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5,6}", "postal_code_placeholder": "","country_iso_code": "KH" }, "79": { "postal_code_type": "postal", "postal_code_pattern": "[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d", "postal_code_placeholder": "A1A 1A1", "country_iso_code": "CA" }, "222": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "CV" }, "247": { "postal_code_type": "postal", "postal_code_pattern": "KY\\d-\\d{4}", "postal_code_placeholder": "", "country_iso_code": "KY" }, "81": { "postal_code_type": "postal", "postal_code_pattern": "\\d{7}", "postal_code_placeholder": "", "country_iso_code": "CL" }, "82": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "CN" }, "257": { "postal_code_type": "postal", "postal_code_pattern": "6798", "postal_code_placeholder": "", "country_iso_code": "CX" }, "258": { "postal_code_type": "postal", "postal_code_pattern": "6799", "postal_code_placeholder": "", "country_iso_code": "CC" }, "86": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "CO" }, "87": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4,5}|\\d{3}-\\d{4}", "postal_code_placeholder": "", "country_iso_code": "CR" }, "118": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "HR" }, "88": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "CU" }, "89": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "CY" }, "90": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3} ?\\d{2}", "postal_code_placeholder": "", "country_iso_code": "CZ" }, "93": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "DK" }, "94": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "DO" }, "96": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "EC" }, "97": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "EG" }, "187": { "postal_code_type": "postal", "postal_code_pattern": "CP [1-3][1-7][0-2]\\d", "postal_code_placeholder": "CP 1101", "country_iso_code": "SV" }, "100": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "EE" }, "101": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "ET" }, "262": { "postal_code_type": "postal", "postal_code_pattern": "FIQQ 1ZZ", "postal_code_placeholder": "", "country_iso_code": "FK" }, "241": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "FO" }, "102": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "FI" }, "103": { "postal_code_type": "postal", "postal_code_pattern": "\\d{2} ?\\d{3}", "postal_code_placeholder": "75000", "country_iso_code": "FR" }, "115": { "postal_code_type": "postal", "postal_code_pattern": "9[78]3\\d{2}", "postal_code_placeholder": "", "country_iso_code": "GF" }, "263": { "postal_code_type": "postal", "postal_code_pattern": "987\\d{2}", "postal_code_placeholder": "", "country_iso_code": "PF" }, "106": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "GE" }, "91": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "80331", "country_iso_code": "DE" }, "226": { "postal_code_type": "postal", "postal_code_pattern": "GX11 1AA", "postal_code_placeholder": "", "country_iso_code": "GI" }, "112": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3} ?\\d{2}", "postal_code_placeholder": "104 31", "country_iso_code": "GR" }, "113": { "postal_code_type": "postal", "postal_code_pattern": "39\\d{2}", "postal_code_placeholder": "", "country_iso_code": "GL" }, "265": { "postal_code_type": "postal", "postal_code_pattern": "9[78][01]\\d{2}", "postal_code_placeholder": "", "country_iso_code": "GP" }, "266": { "postal_code_type": "zip", "postal_code_pattern": "(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "GU" }, "114": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "GT" }, "305": { "postal_code_type": "postal", "postal_code_pattern": "GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}", "postal_code_placeholder": "", "country_iso_code": "GG" }, "108": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "GN" }, "110": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "GW" }, "119": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "HT" }, "267": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "HM" }, "268": { "postal_code_type": "postal", "postal_code_pattern": "00120", "postal_code_placeholder": "", "country_iso_code": "VA" }, "117": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "HN" }, "120": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "HU" }, "126": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "IS" }, "122": { "postal_code_type": "pin", "postal_code_pattern": "^[1-9][0-9]{5}$", "postal_code_placeholder": "110001", "country_iso_code": "IN" }, "121": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "ID" }, "124": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}-?\\d{5}", "postal_code_placeholder": "", "country_iso_code": "IR" }, "125": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "IQ" }, "123": { "postal_code_type": "eircode", "postal_code_pattern": null, "postal_code_placeholder": "", "country_iso_code": "IE" }, "269": { "postal_code_type": "postal", "postal_code_pattern": "IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}", "postal_code_placeholder": "", "country_iso_code": "IM" }, "127": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}(?:\\d{2})?", "postal_code_placeholder": "", "country_iso_code": "IL" }, "128": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "50100", "country_iso_code": "IT" }, "131": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}-?\\d{4}", "postal_code_placeholder": "100-0001", "country_iso_code": "JP" }, "307": { "postal_code_type": "postal", "postal_code_pattern": "JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}", "postal_code_placeholder": "", "country_iso_code": "JE" }, "130": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "JO" }, "132": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "KZ" }, "133": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "KE" }, "137": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "KW" }, "134": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "KG" }, "138": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "LA" }, "146": { "postal_code_type": "postal", "postal_code_pattern": "LV-\\d{4}", "postal_code_placeholder": "", "country_iso_code": "LV" }, "139": { "postal_code_type": "postal", "postal_code_pattern": "(?:\\d{4})(?: ?(?:\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "LB" }, "143": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "LS" }, "140": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "LR" }, "272": { "postal_code_type": "postal", "postal_code_pattern": "948[5-9]|949[0-8]", "postal_code_placeholder": "", "country_iso_code": "LI" }, "144": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "LT" }, "145": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "LU" }, "151": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "MK" }, "149": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "MG" }, "159": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MY" }, "238": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MV" }, "227": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{3} ?\\d{2,4}", "postal_code_placeholder": "", "country_iso_code": "MT" }, "274": { "postal_code_type": "zip", "postal_code_pattern": "(969[67]\\d)(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "MH" }, "275": { "postal_code_type": "postal", "postal_code_pattern": "9[78]2\\d{2}", "postal_code_placeholder": "", "country_iso_code": "MQ" }, "239": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})", "postal_code_placeholder": "", "country_iso_code": "MU" }, "276": { "postal_code_type": "postal", "postal_code_pattern": "976\\d{2}", "postal_code_placeholder": "", "country_iso_code": "YT" }, "150": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MX" }, "277": { "postal_code_type": "zip", "postal_code_pattern": "(9694[1-4])(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "FM" }, "148": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "MD" }, "278": { "postal_code_type": "postal", "postal_code_pattern": "980\\d{2}", "postal_code_placeholder": "", "country_iso_code": "MC" }, "154": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MN" }, "155": { "postal_code_type": "postal", "postal_code_pattern": "8\\d{4}", "postal_code_placeholder": "", "country_iso_code": "ME" }, "147": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MA" }, "156": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "MZ" }, "153": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MM" }, "160": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "NA" }, "166": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "NP" }, "233": { "postal_code_type": "postal", "postal_code_pattern": "988\\d{2}", "postal_code_placeholder": "", "country_iso_code": "NC" }, "167": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "3974", "country_iso_code": "NZ" }, "163": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "NI" }, "161": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "NE" }, "162": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "NG" }, "282": { "postal_code_type": "postal", "postal_code_pattern": "2899", "postal_code_placeholder": "", "country_iso_code": "NF" }, "283": { "postal_code_type": "zip", "postal_code_pattern": "(9695[012])(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "MP" }, "176": { "postal_code_type": "postal", "postal_code_pattern": null, "postal_code_placeholder": "", "country_iso_code": "KP" }, "165": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "NO" }, "168": { "postal_code_type": "postal", "postal_code_pattern": "(?:PC )?\\d{3}", "postal_code_placeholder": "", "country_iso_code": "OM" }, "169": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "PK" }, "284": { "postal_code_type": "zip", "postal_code_pattern": "(969(?:39|40))(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "PW" }, "173": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "PG" }, "178": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "PY" }, "171": { "postal_code_type": "Postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "PE" }, "172": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "PH" }, "174": { "postal_code_type": "postal", "postal_code_pattern": "\\d{2}-\\d{3}", "postal_code_placeholder": "10-345", "country_iso_code": "PL" }, "177": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}-\\d{3}", "postal_code_placeholder": "1000-205", "country_iso_code": "PT" }, "175": { "postal_code_type": "zip", "postal_code_pattern": "(00[679]\\d{2})(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "PR" }, "304": { "postal_code_type": "postal", "postal_code_pattern": "9[78]4\\d{2}", "postal_code_placeholder": "", "country_iso_code": "RE" }, "180": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "RO" }, "181": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "101000", "country_iso_code": "RU" }, "308": { "postal_code_type": "postal", "postal_code_pattern": "9[78][01]\\d{2}", "postal_code_placeholder": "", "country_iso_code": "BL" }, "286": { "postal_code_type": "postal", "postal_code_pattern": "(?:ASCN|STHL) 1ZZ", "postal_code_placeholder": "", "country_iso_code": "SH" }, "288": { "postal_code_type": "postal", "postal_code_pattern": "9[78][01]\\d{2}", "postal_code_placeholder": "", "country_iso_code": "MF" }, "289": { "postal_code_type": "postal", "postal_code_pattern": "9[78]5\\d{2}", "postal_code_placeholder": "", "country_iso_code": "PM" }, "249": { "postal_code_type": "Postal", "postal_code_pattern": "VC\\d{4}", "postal_code_placeholder": "", "country_iso_code": "VC" }, "291": { "postal_code_type": "postal", "postal_code_pattern": "4789\\d", "postal_code_placeholder": "", "country_iso_code": "SM" }, "183": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "SA" }, "185": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "SN" }, "189": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5,6}", "postal_code_placeholder": "", "country_iso_code": "RS" }, "220": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "SG" }, "191": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3} ?\\d{2}", "postal_code_placeholder": "", "country_iso_code": "SK" }, "192": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "SI" }, "188": {"postal_code_type": "postal", "postal_code_pattern": "[A-Z]{2} ?\\d{5}", "postal_code_placeholder": "", "country_iso_code": "SO" }, "215": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "ZA" }, "294": { "postal_code_type": "postal", "postal_code_pattern": "SIQQ 1ZZ", "postal_code_placeholder": "", "country_iso_code": "GS" }, "136": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "KR" }, "99": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "28013", "country_iso_code": "ES" }, "142": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "LK" }, "184": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "SD" }, "295": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "SJ" }, "194": { "postal_code_type": "postal", "postal_code_pattern": "[HLMS]\\d{3}", "postal_code_placeholder": "", "country_iso_code": "SZ" }, "193": { "postal_code_type": "postal", "postal_code_pattern": "^\\d{5}$", "postal_code_placeholder": "111 22", "country_iso_code": "SE" }, "80": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "CH" }, "204": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}(?:\\d{2,3})?", "postal_code_placeholder": "", "country_iso_code": "TW" }, "199": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "TJ" }, "205": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4,5}", "postal_code_placeholder": "", "country_iso_code": "TZ" }, "198": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "TH" }, "164": { "postal_code_type": "postal", "postal_code_pattern": "[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])", "postal_code_placeholder": "1105 AW", "country_iso_code": "NL" }, "202": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "TN" }, "203": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "TR" }, "200": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "TM" }, "299": { "postal_code_type": "postal", "postal_code_pattern": "TKCA 1ZZ", "postal_code_placeholder": "", "country_iso_code": "TC" }, "207": { "postal_code_type": "postal", "postal_code_pattern": "^([0-8][0-9]{4}|9[0-3][0-9]{3}|94[0-8][0-9]{2}|949[0-8][0-9]|9499[0-9])$", "postal_code_placeholder": "", "country_iso_code": "UA" }, "105": { "postal_code_type": "postal", "postal_code_pattern": "^(GIR ?0AA|((AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4})$", "postal_code_placeholder": "NW1 6XE", "country_iso_code": "GB" }, "209": { "postal_code_type": "zip", "postal_code_pattern": "^\\d{5}(?:-\\d{4})?$", "postal_code_placeholder": "12345", "country_iso_code": "US" }, "302": { "postal_code_type": "zip", "postal_code_pattern": "96898", "postal_code_placeholder": "", "country_iso_code": "UM" }, "208": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "UY" }, "248": { "postal_code_type": "zip", "postal_code_pattern": "(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "VI" }, "210": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "UZ" }, "211": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "VE" }, "212": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}\\d?", "postal_code_placeholder": "", "country_iso_code": "VN" }, "224": { "postal_code_type": "postal", "postal_code_pattern": "986\\d{2}", "postal_code_placeholder": "", "country_iso_code": "WF" }, "213": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "EH" }, "217": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "ZM" } }, "ship_to_preference_capabilities": { "209": { "postal_code": { "is_assignable": true, "is_required": true } }, "79": { "postal_code": { "is_assignable": true, "is_required": true } }, "122": { "postal_code": { "is_assignable": true, "is_required": true } }, "61": { "postal_code": { "is_assignable": true, "is_required": true } }, "105": { "postal_code": { "is_assignable": true, "is_required": true } } }, "category_id": 68887416, "admin_tools_page_data": [], "currency_data": { "currency_id": 826, "code": "GBP", "name": "British Pound", "number_precision": 2, "symbol": "\u00a3", "listing_enabled": true, "browsing_enabled": true, "buyer_location_restricted": false, "rate_updates_enabled": true }, "machine_translation\/listings_click_to_translate": true, "ads.prolist\/log_clicks_and_impressions": false, "mfg\/dovetail": true, "mfg\/buyer_facing_dovetail": true, "searchx\/4q18\/dwell_time_as_backend_event": false, "is_regulatory_buyer_disclosure_enabled": true, "is_convos_condensed_disclosure_enabled": false, "machine_translation": { "mode": "disabled", "listing_id": 4302118744, "to_lang_code": "en-US", "from_lang_code": "en-US", "translated": null, "untranslated": null, "category_tags": null }, "listing_fee": 20, "presented_listing_fee": "$0.20 USD", "listing_period_months": 4, "apple_pay_api_version_number": 12, "render_is_gift_section": true, "coupons_in_buy_box_is_enabled": false, "is_eligible_web_components": false, "should_show_atc_from_listing_cards": true, "should_show_atc_from_listing_cards_mweb": false, "added_to_cart_text": "Added to cart!", "speculation_rules_prefetch": false, "speculation_rules_prefetch_from_search": false, "prefetch_event_cache_key": "", "should_show_sidebar_cart_post_atc_recs": false, "is_eligible_for_trust_suite_section": false, "is_gift_guide_flyout_enabled": false, "should_hide_sub_nav": true, "should_show_breadcrumbs": true, "listing_image_url": "", "eligible_for_mini_collections_and_ignore_menu": false, "image_ids_by_listing_variation_ids": [], "should_show_scrollable_thumbnails": true, "should_show_video": true, "shouldShowThumbnails": true, "carousel_height_percentage_relative_to_width": [80, 80, 80, 80, 80, 80, 80, 80, 80, 80], "is_mobile_experience": false, "is_users_own_listing": false, "listing_sale_price_is_gamed": false, "lp_toffers_v2_true_sale_enabled": false, "sale_ending_soon_countdown": true, "should_show_histogram_panel": false, "anchor_shop_name_to_seller_cred": false, "shop_reviews_count": 62595, "neu_buy_box_type": "offerings", "listing_id": 4302118744, "klarna_osm_js": "https:\/\/js.klarna.com\/web-sdk\/v1\/klarna.js", "is_eligible_for_klarna_osm": false, "is_eligible_for_variations_update": true, "can_listing_have_coupon_applied": false, "quantity_submodule_enabled": true, "is_multiple_questions_enabled_buyer": true, "personalization_is_required": true, "personalization_field_count": 1, "how_its_made_label_type": "seller_designed", "product_details_content_toggle_selector": "[data-wt-content-toggle][aria-controls='content-toggle-product-details-read-more']", "should_show_description_content_toggle": true, "use_shipping_variant_view": true, "shipping_section_default_open": true, "shipping_and_returns_is_eligible_for_sticky_buy_box": true, "estimated_shipping_is_eligible_for_sticky_buy_box": true, "is_eligible_for_shipping_and_returns_cleanup":true, "is_postal_code_empty_on_initial_load": true, "invalid_postal_codes": { "209": ["000", "001", "002", "003", "004", "213", "269", "343", "345", "348", "353", "419", "428", "429", "517", "518", "519", "529", "533", "536", "552", "568", "569", "578", "579", "589", "621", "632", "642", "643", "659", "663", "682", "694", "695", "696", "697", "698", "699", "702", "709", "715", "732", "742", "771", "817", "818", "819", "839", "848", "849", "854", "858", "861", "862", "866", "867", "868", "869", "872", "886", "887", "888", "892", "896", "899", "909", "929", "987"] }, "is_eligible_for_policies_in_overlay": true, "active_tab": "same_listing_reviews", "allow_reviews_debug": false, "using_mweb_tabs": false, "load_tabbed_layout_js": true, "should_show_helpful_count": true, "should_default_chronological_sort": false, "should_include_subratings": true, "current_page": 1, "is_deep_dive": false, "has_appreciation_photos": true, "eligible_for_review_photo_filter_and_sort": true, "is_new_deep_dive": false, "photos_per_page": 4, "review_categorical_tags_enabled": true, "review_hide_sort_by_prefix": true, "mweb_can_scroll_to_seller_cred_module": false, "is_eligible_for_showing_more_items_on_explore_more": false, "structured_policies_messages": { "module_name": "Shop policies", "last_updated_on": "Last updated on", "publish": "Publish Shop Policies", "policies_save": "Save policies", "policies_edit": "Edit policies", "cancel": "Cancel", "revert": "Use previous policies", "edit": "Edit", "loading": "Loading", "preview_banner_kicker": "Policies preview", "not_existing_policies_preview_banner_header": "Review and customize these policies so they work for you", "preview_banner_body": "You can publish these to your shop or edit them if you need to make changes", "preview_publish_confirm": "By clicking Publish, you'll post your Shop Policies and agree to comply with them.", "revert_confirm": "Are you sure you want to revert?", "leave_page_warning": "You are currently editing shop policies", "private_receipt_info_title": "Private receipt info", "private_receipt_info_body": "We have removed the 'Private Receipt Info' section of your policies page. You don't need to populate this section for the purposes of complying with international consumer protection laws anymore because this new Policies feature will automatically display the relevant content of your shop policies within the buyer receipt email instead.", "private_receipt_info_link": "See this FAQ for more information", "structured_banner_title": "Switch to simple shop policies", "structured_banner_title_v2": "Set up simple shop policies", "structured_banner_body": "We'll give you a quick template to create your shop policies in seconds.", "structured_banner_button": "Try it now", "new_simplified_policies": "Your new, simplified policies", "new_policies_banner_description_1": "Buyers prefer policies that are short, clear and address their key concerns, so we've designed them that way.", "new_policies_banner_description_2": "Review and customize these policies so they work for you. We've saved your previous policies, so you can always switch back.", "new_policies_banner_description_3": "We've saved your previous policies, so you can always switch back.", "new_policies_banner_learn_more": "Learn more", "publish_policies_success": "Your new policies have been published!", "publish_policies_error": "There was an error publishing your policies. Please try again.", "policies_failed_to_load": "Shop policies failed to load", "policies_try_again": "Try again", "policies_saving": "Saving...", "policies_publishing": "Publishing...", "listing_preview_shipping": "This section will show shipping or download information once you publish your listing.", "craft_shipping_section_title": "Shipping & policies", "craft_payments_section_title": "Payments", "craft_refunds_section_title": "Returns & exchanges", "craft_terms_section_title": "Terms & conditions", "craft_more_details_accordion_label": "+ See more...", "listing_returns_and_exchanges": "See item details for return and exchange eligibility.", "no_policies": "Looks like this shop doesn't have any custom policies. Have questions?", "message_the_seller": "Message the seller", "shipping_section_title": "Shipping", "payments_section_title": "Payments", "refunds_section_title": "Returns & exchanges", "digital_section_title": "Downloads", "terms_section_title": "Terms & conditions", "more_details_accordion_label": "See more...", "seller_details_section_title": "More information" }, "shop_policy_selector": "[data-content-toggle-uid=shop_policies]", "load_user_faves_option": true, "update_many_faves_option": true, "is_async_only_faves_option": false, "guest_favorites_enabled": true, "collection_count": 0, "favorites_key": "", "use_clearer_privacy_description": true, "conditional_sale_interstitial": true, "google_client_id": "296956783393-2d8r0gljo87gjmdpmvkgbeasdmelq33e.apps.googleusercontent.com", "show_one_tap_modal": false, "is_google_one_tap_cart_page": false });
+            Toto 4D.Context.data = assign(Toto 4D.Context.data ? Toto 4D.Context.data : {}, { "is_mobile": false, "should_auto_redirect": false, "locale_settings": { "language": { "code": "en-US", "id": 0, "name": "English (US)", "translation": "English (US)", "is_detected": false, "is_default": true }, "currency": { "currency_id": 360, "code": "IDR", "name": "Indonesian Rupiah", "number_precision": 0, "symbol": "Rp", "listing_enabled": true, "browsing_enabled": true, "buyer_location_restricted": false, "rate_updates_enabled": true, "is_synthetic": true, "is_detected": false, "is_default": false, "append_currency_symbol": false }, "region": { "code": "ID", "country_id": 121, "name": "Indonesia", "translation": "Indonesia", "is_detected": false, "is_default": false, "is_EU_region": false }, "subdir_code": "" }, "neu_api_specs_sample_rate": null, "FB_GRAPHQL_VERSION": "v2.10", "page_guid": "ffbde3696ef.69632e5014d83cdc8fa2.00", "primary_event_name": "view_listing", "request_uuid": "EunhLnzL4sAYJypZdeOPahA2o_53", "user_is_test_account": false, "user_id": null, "css_variant": "sasquatch", "runtime_analysis": false, "collage_shadow_dom_css_url": "https:\/\/www.etsy.com\/ac\/sasquatch\/css\/collage\/shadow.b60eba69b0e074.css", "fix_domready": true, "auto_yield": true, "vite_public_path": "https:\/\/www.etsy.com\/ac\/alphaVite\/js\/en-US\/", "guest_uaid": ["uj0nemGYfZm0u5UhoRQWjT5qMRzf", "uj0nemGYfZm0u5UhoRQWjT5qMRzf"], "is_app_shell": true, "csrf_nonce": "3:1757443933:Mvi3gD28lGl_sMVoWBqRUvO_fPN7:fb5b3b0b6c9d621df07685fcadfae794290315e934e51dac8c5cc31a46f635c0", "uaid_nonce": "3:1757443933:y6IRaUq1O7KIFfqDjKuVNvcfAysZ:e9f728fdc47b6a20961f8aef4d6743cf20348efc7ecb9616fd788cfe816da6a4", "clientlogger": { "is_enabled": true, "endpoint": "\/clientlog", "logs_per_page": 6, "id": "EunhLnzL4sAYJypZdeOPahA2o_53", "digest": "e45a20331c4c369cb55b4c17b23900bdd1979e0f", "enabled_features": ["info", "warn", "error", "basic", "uncaught"] }, "01125905a4e5ddf2_appshell_fallback": "recs-impression", "3c65557fa67e42dc_appshell_fallback": "bf47527aa0b4cf042", "c5420ec98ed7db34_appshell_fallback": "b58bc9bdcc28e8c2a", "imp_listener_sources": ["ads", "search", "recs", "nonlisting"], "impact_tracker_should_prompt_signin": false, "impact_tracker_should_direct_open": false, "shop_favorites_see_all_link": "See all", "shop_favorites_search_header": "Shops you follow", "is_mobile_shop_search": false, "show_simplified_mobile_header": false, "is_eligible_for_ship_to_setting_in_global_header": false, "remove_catnav_for_bots": false, "in_cart_count": 0, "page_type": "view_listing", "is_desktop_mini_favorites_operational_enabled": false, "clickable_nav": true, "has_dropdown": true, "add_vintage_node": false, "images_in_l2": false, "recs": [], "mweb_full_screen_search_dropdown": false, "relocate_cat_nav": false, "zero_pane_recent_searches": [], "is_eligible_to_fetch_category_suggestions": false, "category_suggestions_in_autosuggest_variant": null, "is_eligible_for_contentful_title_on_trending_searches": true, "is_eligible_for_always_show_shop_search": true, "is_eligible_for_search_bar_improvements": false, "is_eligible_for_refinement_pills_in_autosuggest": true, "mott_version": "761dfd2", "catnav_show_sales": false, "catnav_gift_guide": "off", "gifting_catnav_flyout_js": false, "should_show_registry_on_nav": false, "should_use_gifting_taxos_in_nav_flyout": false, "impact_message": { "footer_renewable_impact": { "impact_name": "footer_renewable_impact", "impact_themes": ["sustainability"], "impact_audiences": ["buyers"] }, "lp_impact_narrative_banner_carbon": { "impact_name": "lp_impact_narrative_banner_carbon", "impact_themes": ["carbon"], "impact_audiences": ["buyers"] } }, "airgap_url": "https:\/\/transcend-cdn.com\/cm\/ac71e058-41b7-4026-b482-3d9b8e31a6d0\/airgap.js", "airgap_bundle": "control_bundle", "dual_write_enabled": true, "google_tag_manager_async_enabled": false, "dynamic_privacy_settings_ui_enabled": false, "forced_data_regimes": "", "has_forced_data_regimes": false, "all_purposes": ["Advertising", "Functional"], "all_regimes": ["us-gpc", "consent-prompt"], "default_consent_expiry": 518400, "disable_advertising_regimes": [], "seller_is_viewing_own_listing": false, "listingId": 4302118744, "listing_price": 22.5, "shopId": 25947065, "shop_id": 25947065, "shop_name": "Toto 4D", "custom_orders_listings2": true, "is_listing_preview": false, "checkout_decorator": "", "was_landing_from_external_referrer": false, "should_collapse_neighbors": false, "should_open_single_content_toggle": false, "is_logged_in": false, "referring_listing_id": 4302118744, "address_formats": { "0": { "postal_code_type": "postal", "postal_code_pattern": null, "postal_code_placeholder": "", "country_iso_code": "ZZ" }, "55": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "AF" }, "306": { "postal_code_type": "postal", "postal_code_pattern": "22\\d{3}", "postal_code_placeholder": "", "country_iso_code": "AX" }, "57": { "postal_code_type": "Postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "AL" }, "95": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "DZ" }, "250": { "postal_code_type": "zip", "postal_code_pattern": "(96799)(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "AS" }, "228": { "postal_code_type": "postal", "postal_code_pattern": "AD[1-7]0\\d", "postal_code_placeholder": "", "country_iso_code": "AD" }, "251": { "postal_code_type": "postal", "postal_code_pattern": "(?:AI-)?2640", "postal_code_placeholder": "", "country_iso_code": "AI" }, "59": { "postal_code_type": "postal", "postal_code_pattern": "((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?", "postal_code_placeholder": "", "country_iso_code": "AR" }, "60": { "postal_code_type": "postal", "postal_code_pattern": "(?:37)?\\d{4}", "postal_code_placeholder": "", "country_iso_code": "AM" }, "61": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "3393", "country_iso_code": "AU" }, "62": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "AT" }, "63": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "AZ" }, "232": { "postal_code_type": "postal", "postal_code_pattern": "(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)", "postal_code_placeholder": "", "country_iso_code": "BH" }, "68": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "BD" }, "237": { "postal_code_type": "Postal", "postal_code_pattern": "BB\\d{5}", "postal_code_placeholder": "", "country_iso_code": "BB" }, "71": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "BY" }, "65": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "BE" }, "225": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{2} ?[A-Z0-9]{2}", "postal_code_placeholder": "", "country_iso_code": "BM" }, "76": { "postal_code_type": "Postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "BT" }, "70": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "BA" }, "74": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}-?\\d{3}", "postal_code_placeholder": "", "country_iso_code": "BR" }, "255": { "postal_code_type": "postal", "postal_code_pattern": "BBND 1ZZ", "postal_code_placeholder": "", "country_iso_code": "IO" }, "231": { "postal_code_type": "postal", "postal_code_pattern": "VG\\d{4}", "postal_code_placeholder": "", "country_iso_code": "VG" }, "75": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{2} ?\\d{4}", "postal_code_placeholder": "", "country_iso_code": "BN" }, "69": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "BG" }, "135": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5,6}", "postal_code_placeholder": "", "country_iso_code": "KH" }, "79": { "postal_code_type": "postal", "postal_code_pattern": "[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d", "postal_code_placeholder": "A1A 1A1", "country_iso_code": "CA" }, "222": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "CV" }, "247": { "postal_code_type": "postal", "postal_code_pattern": "KY\\d-\\d{4}", "postal_code_placeholder": "", "country_iso_code": "KY" }, "81": { "postal_code_type": "postal", "postal_code_pattern": "\\d{7}", "postal_code_placeholder": "", "country_iso_code": "CL" }, "82": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "CN" }, "257": { "postal_code_type": "postal", "postal_code_pattern": "6798", "postal_code_placeholder": "", "country_iso_code": "CX" }, "258": { "postal_code_type": "postal", "postal_code_pattern": "6799", "postal_code_placeholder": "", "country_iso_code": "CC" }, "86": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "CO" }, "87": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4,5}|\\d{3}-\\d{4}", "postal_code_placeholder": "", "country_iso_code": "CR" }, "118": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "HR" }, "88": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "CU" }, "89": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "CY" }, "90": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3} ?\\d{2}", "postal_code_placeholder": "", "country_iso_code": "CZ" }, "93": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "DK" }, "94": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "DO" }, "96": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "EC" }, "97": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "EG" }, "187": { "postal_code_type": "postal", "postal_code_pattern": "CP [1-3][1-7][0-2]\\d", "postal_code_placeholder": "CP 1101", "country_iso_code": "SV" }, "100": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "EE" }, "101": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "ET" }, "262": { "postal_code_type": "postal", "postal_code_pattern": "FIQQ 1ZZ", "postal_code_placeholder": "", "country_iso_code": "FK" }, "241": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "FO" }, "102": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "FI" }, "103": { "postal_code_type": "postal", "postal_code_pattern": "\\d{2} ?\\d{3}", "postal_code_placeholder": "75000", "country_iso_code": "FR" }, "115": { "postal_code_type": "postal", "postal_code_pattern": "9[78]3\\d{2}", "postal_code_placeholder": "", "country_iso_code": "GF" }, "263": { "postal_code_type": "postal", "postal_code_pattern": "987\\d{2}", "postal_code_placeholder": "", "country_iso_code": "PF" }, "106": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "GE" }, "91": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "80331", "country_iso_code": "DE" }, "226": { "postal_code_type": "postal", "postal_code_pattern": "GX11 1AA", "postal_code_placeholder": "", "country_iso_code": "GI" }, "112": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3} ?\\d{2}", "postal_code_placeholder": "104 31", "country_iso_code": "GR" }, "113": { "postal_code_type": "postal", "postal_code_pattern": "39\\d{2}", "postal_code_placeholder": "", "country_iso_code": "GL" }, "265": { "postal_code_type": "postal", "postal_code_pattern": "9[78][01]\\d{2}", "postal_code_placeholder": "", "country_iso_code": "GP" }, "266": { "postal_code_type": "zip", "postal_code_pattern": "(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "GU" }, "114": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "GT" }, "305": { "postal_code_type": "postal", "postal_code_pattern": "GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}", "postal_code_placeholder": "", "country_iso_code": "GG" }, "108": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "GN" }, "110": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "GW" }, "119": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "HT" }, "267": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "HM" }, "268": { "postal_code_type": "postal", "postal_code_pattern": "00120", "postal_code_placeholder": "", "country_iso_code": "VA" }, "117": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "HN" }, "120": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "HU" }, "126": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "IS" }, "122": { "postal_code_type": "pin", "postal_code_pattern": "^[1-9][0-9]{5}$", "postal_code_placeholder": "110001", "country_iso_code": "IN" }, "121": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "ID" }, "124": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}-?\\d{5}", "postal_code_placeholder": "", "country_iso_code": "IR" }, "125": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "IQ" }, "123": { "postal_code_type": "eircode", "postal_code_pattern": null, "postal_code_placeholder": "", "country_iso_code": "IE" }, "269": { "postal_code_type": "postal", "postal_code_pattern": "IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}", "postal_code_placeholder": "", "country_iso_code": "IM" }, "127": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}(?:\\d{2})?", "postal_code_placeholder": "", "country_iso_code": "IL" }, "128": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "50100", "country_iso_code": "IT" }, "131": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}-?\\d{4}", "postal_code_placeholder": "100-0001", "country_iso_code": "JP" }, "307": { "postal_code_type": "postal", "postal_code_pattern": "JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}", "postal_code_placeholder": "", "country_iso_code": "JE" }, "130": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "JO" }, "132": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "KZ" }, "133": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "KE" }, "137": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "KW" }, "134": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "KG" }, "138": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "LA" }, "146": { "postal_code_type": "postal", "postal_code_pattern": "LV-\\d{4}", "postal_code_placeholder": "", "country_iso_code": "LV" }, "139": { "postal_code_type": "postal", "postal_code_pattern": "(?:\\d{4})(?: ?(?:\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "LB" }, "143": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "LS" }, "140": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "LR" }, "272": { "postal_code_type": "postal", "postal_code_pattern": "948[5-9]|949[0-8]", "postal_code_placeholder": "", "country_iso_code": "LI" }, "144": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "LT" }, "145": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "LU" }, "151": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "MK" }, "149": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "MG" }, "159": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MY" }, "238": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MV" }, "227": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{3} ?\\d{2,4}", "postal_code_placeholder": "", "country_iso_code": "MT" }, "274": { "postal_code_type": "zip", "postal_code_pattern": "(969[67]\\d)(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "MH" }, "275": { "postal_code_type": "postal", "postal_code_pattern": "9[78]2\\d{2}", "postal_code_placeholder": "", "country_iso_code": "MQ" }, "239": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})", "postal_code_placeholder": "", "country_iso_code": "MU" }, "276": { "postal_code_type": "postal", "postal_code_pattern": "976\\d{2}", "postal_code_placeholder": "", "country_iso_code": "YT" }, "150": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MX" }, "277": { "postal_code_type": "zip", "postal_code_pattern": "(9694[1-4])(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "FM" }, "148": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "MD" }, "278": { "postal_code_type": "postal", "postal_code_pattern": "980\\d{2}", "postal_code_placeholder": "", "country_iso_code": "MC" }, "154": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MN" }, "155": { "postal_code_type": "postal", "postal_code_pattern": "8\\d{4}", "postal_code_placeholder": "", "country_iso_code": "ME" }, "147": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MA" }, "156": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "MZ" }, "153": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "MM" }, "160": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "NA" }, "166": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "NP" }, "233": { "postal_code_type": "postal", "postal_code_pattern": "988\\d{2}", "postal_code_placeholder": "", "country_iso_code": "NC" }, "167": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "3974", "country_iso_code": "NZ" }, "163": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "NI" }, "161": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "NE" }, "162": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "NG" }, "282": { "postal_code_type": "postal", "postal_code_pattern": "2899", "postal_code_placeholder": "", "country_iso_code": "NF" }, "283": { "postal_code_type": "zip", "postal_code_pattern": "(9695[012])(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "MP" }, "176": { "postal_code_type": "postal", "postal_code_pattern": null, "postal_code_placeholder": "", "country_iso_code": "KP" }, "165": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "NO" }, "168": { "postal_code_type": "postal", "postal_code_pattern": "(?:PC )?\\d{3}", "postal_code_placeholder": "", "country_iso_code": "OM" }, "169": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "PK" }, "284": { "postal_code_type": "zip", "postal_code_pattern": "(969(?:39|40))(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "PW" }, "173": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}", "postal_code_placeholder": "", "country_iso_code": "PG" }, "178": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "PY" }, "171": { "postal_code_type": "Postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "PE" }, "172": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "PH" }, "174": { "postal_code_type": "postal", "postal_code_pattern": "\\d{2}-\\d{3}", "postal_code_placeholder": "10-345", "country_iso_code": "PL" }, "177": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}-\\d{3}", "postal_code_placeholder": "1000-205", "country_iso_code": "PT" }, "175": { "postal_code_type": "zip", "postal_code_pattern": "(00[679]\\d{2})(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "PR" }, "304": { "postal_code_type": "postal", "postal_code_pattern": "9[78]4\\d{2}", "postal_code_placeholder": "", "country_iso_code": "RE" }, "180": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "RO" }, "181": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "101000", "country_iso_code": "RU" }, "308": { "postal_code_type": "postal", "postal_code_pattern": "9[78][01]\\d{2}", "postal_code_placeholder": "", "country_iso_code": "BL" }, "286": { "postal_code_type": "postal", "postal_code_pattern": "(?:ASCN|STHL) 1ZZ", "postal_code_placeholder": "", "country_iso_code": "SH" }, "288": { "postal_code_type": "postal", "postal_code_pattern": "9[78][01]\\d{2}", "postal_code_placeholder": "", "country_iso_code": "MF" }, "289": { "postal_code_type": "postal", "postal_code_pattern": "9[78]5\\d{2}", "postal_code_placeholder": "", "country_iso_code": "PM" }, "249": { "postal_code_type": "Postal", "postal_code_pattern": "VC\\d{4}", "postal_code_placeholder": "", "country_iso_code": "VC" }, "291": { "postal_code_type": "postal", "postal_code_pattern": "4789\\d", "postal_code_placeholder": "", "country_iso_code": "SM" }, "183": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "SA" }, "185": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "SN" }, "189": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5,6}", "postal_code_placeholder": "", "country_iso_code": "RS" }, "220": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "SG" }, "191": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3} ?\\d{2}", "postal_code_placeholder": "", "country_iso_code": "SK" }, "192": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "SI" }, "188": { "postal_code_type": "postal", "postal_code_pattern": "[A-Z]{2} ?\\d{5}", "postal_code_placeholder": "", "country_iso_code": "SO" }, "215": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "ZA" }, "294": { "postal_code_type": "postal", "postal_code_pattern": "SIQQ 1ZZ", "postal_code_placeholder": "", "country_iso_code": "GS" }, "136": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "KR" }, "99": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "28013", "country_iso_code": "ES" }, "142": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "LK" }, "184": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "SD" }, "295": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "SJ" }, "194": { "postal_code_type": "postal", "postal_code_pattern": "[HLMS]\\d{3}", "postal_code_placeholder": "", "country_iso_code": "SZ" }, "193": { "postal_code_type": "postal", "postal_code_pattern": "^\\d{5}$", "postal_code_placeholder": "111 22", "country_iso_code": "SE" }, "80": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "CH" }, "204": { "postal_code_type": "postal", "postal_code_pattern": "\\d{3}(?:\\d{2,3})?", "postal_code_placeholder": "", "country_iso_code": "TW" }, "199": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "TJ" }, "205": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4,5}", "postal_code_placeholder": "", "country_iso_code": "TZ" }, "198": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "TH" }, "164": { "postal_code_type": "postal", "postal_code_pattern": "[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])", "postal_code_placeholder": "1105 AW", "country_iso_code": "NL" }, "202": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "TN" }, "203": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "TR" }, "200": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "TM" }, "299": { "postal_code_type": "postal", "postal_code_pattern": "TKCA 1ZZ", "postal_code_placeholder": "", "country_iso_code": "TC" }, "207": { "postal_code_type": "postal", "postal_code_pattern": "^([0-8][0-9]{4}|9[0-3][0-9]{3}|94[0-8][0-9]{2}|949[0-8][0-9]|9499[0-9])$", "postal_code_placeholder": "", "country_iso_code": "UA" }, "105": { "postal_code_type": "postal", "postal_code_pattern": "^(GIR ?0AA|((AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4})$", "postal_code_placeholder": "NW1 6XE", "country_iso_code": "GB" }, "209": { "postal_code_type": "zip", "postal_code_pattern": "^\\d{5}(?:-\\d{4})?$", "postal_code_placeholder": "12345", "country_iso_code": "US" }, "302": { "postal_code_type": "zip", "postal_code_pattern": "96898", "postal_code_placeholder": "", "country_iso_code": "UM" }, "208": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "UY" }, "248": { "postal_code_type": "zip", "postal_code_pattern": "(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?", "postal_code_placeholder": "", "country_iso_code": "VI" }, "210": { "postal_code_type": "postal", "postal_code_pattern": "\\d{6}", "postal_code_placeholder": "", "country_iso_code": "UZ" }, "211": { "postal_code_type": "postal", "postal_code_pattern": "\\d{4}", "postal_code_placeholder": "", "country_iso_code": "VE" }, "212": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}\\d?", "postal_code_placeholder": "", "country_iso_code": "VN" }, "224": { "postal_code_type": "postal", "postal_code_pattern": "986\\d{2}", "postal_code_placeholder": "", "country_iso_code": "WF" }, "213": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "EH" }, "217": { "postal_code_type": "postal", "postal_code_pattern": "\\d{5}", "postal_code_placeholder": "", "country_iso_code": "ZM" } }, "ship_to_preference_capabilities": { "209": { "postal_code": { "is_assignable": true, "is_required": true } }, "79": { "postal_code": { "is_assignable": true, "is_required": true } }, "122": { "postal_code": { "is_assignable": true, "is_required": true } }, "61": { "postal_code": { "is_assignable": true, "is_required": true } }, "105": { "postal_code": { "is_assignable": true, "is_required": true } } }, "category_id": 68887416, "admin_tools_page_data": [], "currency_data": { "currency_id": 826, "code": "GBP", "name": "British Pound", "number_precision": 2, "symbol": "\u00a3", "listing_enabled": true, "browsing_enabled": true, "buyer_location_restricted": false, "rate_updates_enabled": true }, "machine_translation\/listings_click_to_translate": true, "ads.prolist\/log_clicks_and_impressions": false, "mfg\/dovetail": true, "mfg\/buyer_facing_dovetail": true, "searchx\/4q18\/dwell_time_as_backend_event": false, "is_regulatory_buyer_disclosure_enabled": true, "is_convos_condensed_disclosure_enabled": false, "machine_translation": { "mode": "disabled", "listing_id": 4302118744, "to_lang_code": "en-US", "from_lang_code": "en-US", "translated": null, "untranslated": null, "category_tags": null }, "listing_fee": 20, "presented_listing_fee": "$0.20 USD", "listing_period_months": 4, "apple_pay_api_version_number": 12, "render_is_gift_section": true, "coupons_in_buy_box_is_enabled": false, "is_eligible_web_components": false, "should_show_atc_from_listing_cards": true, "should_show_atc_from_listing_cards_mweb": false, "added_to_cart_text": "Added to cart!", "speculation_rules_prefetch": false, "speculation_rules_prefetch_from_search": false, "prefetch_event_cache_key": "", "should_show_sidebar_cart_post_atc_recs": false, "is_eligible_for_trust_suite_section": false, "is_gift_guide_flyout_enabled": false, "should_hide_sub_nav": true, "should_show_breadcrumbs": true, "listing_image_url": "", "eligible_for_mini_collections_and_ignore_menu": false, "image_ids_by_listing_variation_ids": [], "should_show_scrollable_thumbnails": true, "should_show_video": true, "shouldShowThumbnails": true, "carousel_height_percentage_relative_to_width": [80, 80, 80, 80, 80, 80, 80, 80, 80, 80], "is_mobile_experience": false, "is_users_own_listing": false, "listing_sale_price_is_gamed": false, "lp_toffers_v2_true_sale_enabled": false, "sale_ending_soon_countdown": true, "should_show_histogram_panel": false, "anchor_shop_name_to_seller_cred": false, "shop_reviews_count": 62595, "neu_buy_box_type": "offerings", "listing_id": 4302118744, "klarna_osm_js": "https:\/\/js.klarna.com\/web-sdk\/v1\/klarna.js", "is_eligible_for_klarna_osm": false, "is_eligible_for_variations_update": true, "can_listing_have_coupon_applied": false, "quantity_submodule_enabled": true, "is_multiple_questions_enabled_buyer": true, "personalization_is_required": true, "personalization_field_count": 1, "how_its_made_label_type": "seller_designed", "product_details_content_toggle_selector": "[data-wt-content-toggle][aria-controls='content-toggle-product-details-read-more']", "should_show_description_content_toggle": true, "use_shipping_variant_view": true, "shipping_section_default_open": true, "shipping_and_returns_is_eligible_for_sticky_buy_box": true, "estimated_shipping_is_eligible_for_sticky_buy_box": true, "is_eligible_for_shipping_and_returns_cleanup": true, "is_postal_code_empty_on_initial_load": true, "invalid_postal_codes": { "209": ["000", "001", "002", "003", "004", "213", "269", "343", "345", "348", "353", "419", "428", "429", "517", "518", "519", "529", "533", "536", "552", "568", "569", "578", "579", "589", "621", "632", "642", "643", "659", "663", "682", "694", "695", "696", "697", "698", "699", "702", "709", "715", "732", "742", "771", "817", "818", "819", "839", "848", "849", "854", "858", "861", "862", "866", "867", "868", "869", "872", "886", "887", "888", "892", "896", "899", "909", "929", "987"] }, "is_eligible_for_policies_in_overlay": true, "active_tab": "same_listing_reviews", "allow_reviews_debug": false, "using_mweb_tabs": false, "load_tabbed_layout_js": true, "should_show_helpful_count": true, "should_default_chronological_sort": false, "should_include_subratings": true, "current_page": 1, "is_deep_dive": false, "has_appreciation_photos": true, "eligible_for_review_photo_filter_and_sort": true, "is_new_deep_dive": false, "photos_per_page": 4, "review_categorical_tags_enabled": true, "review_hide_sort_by_prefix": true, "mweb_can_scroll_to_seller_cred_module": false, "is_eligible_for_showing_more_items_on_explore_more": false, "structured_policies_messages": { "module_name": "Shop policies", "last_updated_on": "Last updated on", "publish": "Publish Shop Policies", "policies_save": "Save policies", "policies_edit": "Edit policies", "cancel": "Cancel", "revert": "Use previous policies", "edit": "Edit", "loading": "Loading", "preview_banner_kicker": "Policies preview", "not_existing_policies_preview_banner_header": "Review and customize these policies so they work for you", "preview_banner_body": "You can publish these to your shop or edit them if you need to make changes", "preview_publish_confirm": "By clicking Publish, you'll post your Shop Policies and agree to comply with them.", "revert_confirm": "Are you sure you want to revert?", "leave_page_warning": "You are currently editing shop policies", "private_receipt_info_title": "Private receipt info", "private_receipt_info_body": "We have removed the 'Private Receipt Info' section of your policies page. You don't need to populate this section for the purposes of complying with international consumer protection laws anymore because this new Policies feature will automatically display the relevant content of your shop policies within the buyer receipt email instead.", "private_receipt_info_link": "See this FAQ for more information", "structured_banner_title": "Switch to simple shop policies", "structured_banner_title_v2": "Set up simple shop policies", "structured_banner_body": "We'll give you a quick template to create your shop policies in seconds.", "structured_banner_button": "Try it now", "new_simplified_policies": "Your new, simplified policies", "new_policies_banner_description_1": "Buyers prefer policies that are short, clear and address their key concerns, so we've designed them that way.", "new_policies_banner_description_2": "Review and customize these policies so they work for you. We've saved your previous policies, so you can always switch back.", "new_policies_banner_description_3": "We've saved your previous policies, so you can always switch back.", "new_policies_banner_learn_more": "Learn more", "publish_policies_success": "Your new policies have been published!", "publish_policies_error": "There was an error publishing your policies. Please try again.", "policies_failed_to_load": "Shop policies failed to load", "policies_try_again": "Try again", "policies_saving": "Saving...", "policies_publishing": "Publishing...", "listing_preview_shipping": "This section will show shipping or download information once you publish your listing.", "craft_shipping_section_title": "Shipping & policies", "craft_payments_section_title": "Payments", "craft_refunds_section_title": "Returns & exchanges", "craft_terms_section_title": "Terms & conditions", "craft_more_details_accordion_label": "+ See more...", "listing_returns_and_exchanges": "See item details for return and exchange eligibility.", "no_policies": "Looks like this shop doesn't have any custom policies. Have questions?", "message_the_seller": "Message the seller", "shipping_section_title": "Shipping", "payments_section_title": "Payments", "refunds_section_title": "Returns & exchanges", "digital_section_title": "Downloads", "terms_section_title": "Terms & conditions", "more_details_accordion_label": "See more...", "seller_details_section_title": "More information" }, "shop_policy_selector": "[data-content-toggle-uid=shop_policies]", "load_user_faves_option": true, "update_many_faves_option": true, "is_async_only_faves_option": false, "guest_favorites_enabled": true, "collection_count": 0, "favorites_key": "", "use_clearer_privacy_description": true, "conditional_sale_interstitial": true, "google_client_id": "296956783393-2d8r0gljo87gjmdpmvkgbeasdmelq33e.apps.googleusercontent.com", "show_one_tap_modal": false, "is_google_one_tap_cart_page": false });
         })();
     </script>
 
@@ -812,7 +822,9 @@
 
                 if (falseUA) {
                     return null;
-                }event.request = event.request || {};
+                }
+
+                event.request = event.request || {};
                 event.request.headers = event.request.headers || {};
                 event.extra = event.extra || {};
 
@@ -888,7 +900,7 @@
                             <li data-ui="list-item-breadcrumbs"
                                 class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
                                 <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0"
-                                    href="https://revistas.peruvianscience.org/">Situsjitu</a>
+                                    href="https://revistas.educaidscientific.com/">Angkasa17</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"
                                         focusable="false">
@@ -899,13 +911,13 @@
                             <li data-ui="list-item-breadcrumbs"
                                 class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
                                 <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0"
-                                    href="https://revistas.peruvianscience.org/">Login</a>
+                                    href="https://revistas.educaidscientific.com/">Login</a>
                             </li>
                             <pre> | </pre>
                             </li>
                             <li data-ui="list-item-breadcrumbs"
                                 class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                                SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026
+                                Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026
                             </li>
                         </ul>
                         <span class="active-nav-item-indicator wt-position-absolute wt-display-inline-block"
@@ -960,7 +972,7 @@
                                                     beruntun, jackpot progresif, dan free spin tanpa batas. Bersiaplah
                                                     untuk banjir saldo dan kemenangan spektakuler hanya di Toto 4D,
                                                     tempatnya bermain game Toto 4D resmi paling dicari hari ini. <p
-                                                        class="wt-mt-xs-3"><a href="https://revistas.peruvianscience.org/"
+                                                        class="wt-mt-xs-3"><a href="https://revistas.educaidscientific.com/"
                                                             target="_blank"> Toto 4D </a></p>
                                                 </div>
                                             </div>
@@ -1013,13 +1025,13 @@
                                                         data-carousel-pane data-index="0" data-image-id="6845617078"
                                                         data-palette-listing-image>
                                                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                                                            alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 1"
+                                                            alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 1"
                                                             data-carousel-first-image
                                                             data-perf-group="main-product-image"
-                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             fetchpriority="high" data-original-image-width="3000"
-                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             data-index="0" />
                                                     </li>
                                                     <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane no-zoom"
@@ -1066,7 +1078,7 @@
                                                                 class="wt-display-none wt-vertical-center wt-text-center-xs"
                                                                 aria-hidden="true" aria-role="alert">
                                                                 <p class="wt-text-body-01">
-                                                                    Hm, weÃ¢â‚¬â„¢re having trouble loading this video.
+                                                                    Hm, weâ€™re having trouble loading this video.
                                                                 </p>
                                                                 <p class="wt-text-caption">
                                                                     Try to refresh the page or come back later.
@@ -1078,39 +1090,39 @@
                                                         data-carousel-pane data-index="2" data-image-id="6354031418"
                                                         data-palette-listing-image>
                                                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                                                            alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 2"
+                                                            alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 2"
                                                             loading="lazy"
-                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                             data-perf-group="secondary-product-image"
                                                             data-original-image-width="2000"
-                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             data-index="2" />
                                                     </li>
                                                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane"
                                                         data-carousel-pane data-index="3" data-image-id="6402117407"
                                                         data-palette-listing-image>
                                                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                                                            alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 3"
+                                                            alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 3"
                                                             loading="lazy"
-                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                             data-perf-group="secondary-product-image"
                                                             data-original-image-width="2000"
-                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             data-index="3" />
                                                     </li>
                                                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane"
                                                         data-carousel-pane data-index="4" data-image-id="6354386589"
                                                         data-palette-listing-image>
                                                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                                                            alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 4"
+                                                            alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 4"
                                                             loading="lazy"
-                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                             data-perf-group="secondary-product-image"
                                                             data-original-image-width="2000"
-                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             data-index="4" />
                                                     </li>
                                                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane"
@@ -1118,76 +1130,76 @@
                                                         data-palette-listing-image>
                                                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                                                             alt="name yarn jumper for kids" loading="lazy"
-                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                             data-perf-group="secondary-product-image"
                                                             data-original-image-width="2000"
-                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             data-index="5" />
                                                     </li>
                                                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane"
                                                         data-carousel-pane data-index="6" data-image-id="6430051759"
                                                         data-palette-listing-image>
                                                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                                                            alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 6"
+                                                            alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 6"
                                                             loading="lazy"
-                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                             data-perf-group="secondary-product-image"
                                                             data-original-image-width="2000"
-                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             data-index="6" />
                                                     </li>
                                                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane"
                                                         data-carousel-pane data-index="7" data-image-id="7056312285"
                                                         data-palette-listing-image>
                                                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                                                            alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 7"
+                                                            alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 7"
                                                             loading="lazy"
-                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                             data-perf-group="secondary-product-image"
                                                             data-original-image-width="2000"
-                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             data-index="7" />
                                                     </li>
                                                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane"
                                                         data-carousel-pane data-index="8" data-image-id="6332997945"
                                                         data-palette-listing-image>
                                                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                                                            alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 8"
+                                                            alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 8"
                                                             loading="lazy"
-                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                             data-perf-group="secondary-product-image"
                                                             data-original-image-width="2000"
-                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             data-index="8" />
                                                     </li>
                                                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane"
                                                         data-carousel-pane data-index="9" data-image-id="6722497805"
                                                         data-palette-listing-image>
                                                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                                                            alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 9"
+                                                            alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 9"
                                                             loading="lazy"
-                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                             data-perf-group="secondary-product-image"
                                                             data-original-image-width="2000"
-                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             data-index="9" />
                                                     </li>
                                                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane"
                                                         data-carousel-pane data-index="10" data-image-id="6356157787"
                                                         data-palette-listing-image>
                                                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                                                            alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 10"
+                                                            alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 10"
                                                             loading="lazy"
-                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                             data-perf-group="secondary-product-image"
                                                             data-original-image-width="2000"
-                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                             data-index="10" />
                                                     </li>
                                                 </ul>
@@ -1232,9 +1244,10 @@
                                                             class="wt-mr-xs-1 wt-mb-xs-1 wt-bg-gray wt-flex-shrink-xs-0 wt-rounded wt-overflow-hidden carousel-pagination-item-v2"
                                                             tabindex="0">
                                                             <img class="wt-animated wt-display-none wt-max-width-full"
-                                                                src=""alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 1"
+                                                                src=""
+                                                                alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 1"
                                                                 data-carousel-thumbnail-image
-                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                 aria-label="product image 1 of 10"
                                                                 data-should-fade-in-on-load="true" />
                                                         </li>
@@ -1246,7 +1259,7 @@
                                                             <div class="wt-position-relative wt-height-full">
                                                                 <img class="wt-animated wt-display-none wt-max-width-full"
                                                                     data-carousel-thumbnail-image src=""
-                                                                    data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                    data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                     data-should-fade-in-on-load="true"
                                                                     alt="Product video" />
                                                                 <div data-carousel-video-icon
@@ -1268,9 +1281,9 @@
                                                             tabindex="0">
                                                             <img class="wt-animated wt-display-none wt-max-width-full"
                                                                 src=""
-                                                                alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 2"
+                                                                alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 2"
                                                                 data-carousel-thumbnail-image
-                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                 aria-label="product image 2 of 10"
                                                                 data-should-fade-in-on-load="true" />
                                                         </li>
@@ -1281,9 +1294,9 @@
                                                             tabindex="0">
                                                             <img class="wt-animated wt-display-none wt-max-width-full"
                                                                 src=""
-                                                                alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 3"
+                                                                alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 3"
                                                                 data-carousel-thumbnail-image
-                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                 aria-label="product image 3 of 10"
                                                                 data-should-fade-in-on-load="true" />
                                                         </li>
@@ -1294,9 +1307,9 @@
                                                             tabindex="0">
                                                             <img class="wt-animated wt-display-none wt-max-width-full"
                                                                 src=""
-                                                                alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 4"
+                                                                alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 4"
                                                                 data-carousel-thumbnail-image
-                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                 aria-label="product image 4 of 10"
                                                                 data-should-fade-in-on-load="true" />
                                                         </li>
@@ -1308,7 +1321,7 @@
                                                             <img class="wt-animated wt-display-none wt-max-width-full"
                                                                 src="" alt="name yarn jumper for kids"
                                                                 data-carousel-thumbnail-image
-                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                 aria-label="product image 5 of 10"
                                                                 data-should-fade-in-on-load="true" />
                                                         </li>
@@ -1319,9 +1332,9 @@
                                                             tabindex="0">
                                                             <img class="wt-animated wt-display-none wt-max-width-full"
                                                                 src=""
-                                                                alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 6"
+                                                                alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 6"
                                                                 data-carousel-thumbnail-image
-                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                 aria-label="product image 6 of 10"
                                                                 data-should-fade-in-on-load="true" />
                                                         </li>
@@ -1332,9 +1345,9 @@
                                                             tabindex="0">
                                                             <img class="wt-animated wt-display-none wt-max-width-full"
                                                                 src=""
-                                                                alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 7"
+                                                                alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 7"
                                                                 data-carousel-thumbnail-image
-                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                 aria-label="product image 7 of 10"
                                                                 data-should-fade-in-on-load="true" />
                                                         </li>
@@ -1345,9 +1358,9 @@
                                                             tabindex="0">
                                                             <img class="wt-animated wt-display-none wt-max-width-full"
                                                                 src=""
-                                                                alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 8"
+                                                                alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 8"
                                                                 data-carousel-thumbnail-image
-                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                 aria-label="product image 8 of 10"
                                                                 data-should-fade-in-on-load="true" />
                                                         </li>
@@ -1358,9 +1371,9 @@
                                                             tabindex="0">
                                                             <img class="wt-animated wt-display-none wt-max-width-full"
                                                                 src=""
-                                                                alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 9"
+                                                                alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 9"
                                                                 data-carousel-thumbnail-image
-                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                 aria-label="product image 9 of 10"
                                                                 data-should-fade-in-on-load="true" />
                                                         </li>
@@ -1371,9 +1384,9 @@
                                                             tabindex="0">
                                                             <img class="wt-animated wt-display-none wt-max-width-full"
                                                                 src=""
-                                                                alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 10"
+                                                                alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 10"
                                                                 data-carousel-thumbnail-image
-                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
+                                                                data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
                                                                 aria-label="product image 10 of 10"
                                                                 data-should-fade-in-on-load="true" />
                                                         </li>
@@ -1431,12 +1444,12 @@
                                                                 data-listing-image data-index="0"
                                                                 data-image-id="6845617078">
                                                                 <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 1"
-                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 1"
+                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                                     data-original-image-width="3000"
                                                                     data-original-image-height="3000" data-index="0"
-                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full wt-rounded"
                                                                 data-listing-image data-listing-video="true"
@@ -1462,99 +1475,100 @@
                                                                 data-listing-image data-index="2"
                                                                 data-image-id="6354031418">
                                                                 <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 2"
-                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 2"
+                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                                     data-original-image-width="2000"
                                                                     data-original-image-height="2000" data-index="2"
-                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
                                                                 data-listing-image data-index="3"
                                                                 data-image-id="6402117407">
                                                                 <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 3"
-                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 3"
+                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                                     data-original-image-width="2000"
                                                                     data-original-image-height="2000" data-index="3"
-                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
                                                                 data-listing-image data-index="4"
                                                                 data-image-id="6354386589">
                                                                 <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 4"
-                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
-                                                                    data-original-image-width="2000"data-original-image-height="2000" data-index="4"
-                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 4"
+                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
+                                                                    data-original-image-width="2000"
+                                                                    data-original-image-height="2000" data-index="4"
+                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
                                                                 data-listing-image data-index="5"
                                                                 data-image-id="6285298756">
                                                                 <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                                                                     alt="name yarn jumper for kids"
-                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                                     data-original-image-width="2000"
                                                                     data-original-image-height="2000" data-index="5"
-                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
                                                                 data-listing-image data-index="6"
                                                                 data-image-id="6430051759">
                                                                 <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 6"
-                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 6"
+                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                                     data-original-image-width="2000"
                                                                     data-original-image-height="2000" data-index="6"
-                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
                                                                 data-listing-image data-index="7"
                                                                 data-image-id="7056312285">
                                                                 <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 7"
-                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 7"
+                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                                     data-original-image-width="2000"
                                                                     data-original-image-height="2000" data-index="7"
-                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
                                                                 data-listing-image data-index="8"
                                                                 data-image-id="6332997945">
                                                                 <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                                                                    alt="SitusJitu Special Link SitusToto 4D Resmi Bet 100 Perak Termurah 2026 image 8"
-                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 8"
+                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                                     data-original-image-width="2000"
                                                                     data-original-image-height="2000" data-index="8"
-                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
                                                                 data-listing-image data-index="9"
                                                                 data-image-id="6722497805">
                                                                 <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 9"
-                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 9"
+                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                                     data-original-image-width="2000"
                                                                     data-original-image-height="2000" data-index="9"
-                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
                                                                 data-listing-image data-index="10"
                                                                 data-image-id="6356157787">
                                                                 <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 10"
-                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png"
-                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png 2x"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 10"
+                                                                    data-delay-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png"
+                                                                    data-delay-srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png 2x"
                                                                     data-original-image-width="2000"
                                                                     data-original-image-height="2000" data-index="10"
-                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <div class="wt-z-index-1 click-to-zoom-text wt-position-absolute wt-display-none"
                                                                 data-click-to-zoom-toast>
@@ -1570,7 +1584,8 @@
                                                                                 d="M14,9H11V6A1,1,0,1,0,9,6V9H6a1,1,0,0,0,0,2H9v3a1,1,0,1,0,2,0V11h3A1,1,0,0,0,14,9Z" />
                                                                             <path
                                                                                 d="M21.707,20.293l-4-4a1,1,0,0,0-1.414,1.414l4,4A1,1,0,0,0,21.707,20.293Z" />
-                                                                        </svg></span>Click to zoom
+                                                                        </svg></span>
+                                                                    Click to zoom
 
                                                                 </span>
                                                             </div>
@@ -1584,9 +1599,9 @@
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
                                                                 tabindex="0" data-image-id="6845617078">
                                                                 <img class="wt-skeleton-ui"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 1"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 1"
                                                                     data-carousel-thumbnail-image loading="lazy"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li data-index="1"
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
@@ -1595,7 +1610,7 @@
                                                                 <div class="wt-position-relative wt-height-full">
                                                                     <img class="wt-skeleton-ui"
                                                                         data-carousel-thumbnail-image src=""
-                                                                        data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                        data-src-delay="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
 
                                                                     <div
                                                                         class="wt-circle wt-overflow-hidden video-thumbnail-icon wt-position-top wt-position-bottom wt-position-right wt-position-left wt-bg-white wt-shadow-elevation-3">
@@ -1613,72 +1628,73 @@
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
                                                                 tabindex="0" data-image-id="6354031418">
                                                                 <img class="wt-skeleton-ui"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 2"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 2"
                                                                     data-carousel-thumbnail-image loading="lazy"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li data-index="3"
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
                                                                 tabindex="0" data-image-id="6402117407">
                                                                 <img class="wt-skeleton-ui"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 3"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 3"
                                                                     data-carousel-thumbnail-image loading="lazy"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li data-index="4"
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
                                                                 tabindex="0" data-image-id="6354386589">
                                                                 <img class="wt-skeleton-ui"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 4"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 4"
                                                                     data-carousel-thumbnail-image loading="lazy"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li data-index="5"
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
                                                                 tabindex="0" data-image-id="6285298756">
-                                                                <img class="wt-skeleton-ui"alt="name yarn jumper for kids"
+                                                                <img class="wt-skeleton-ui"
+                                                                    alt="name yarn jumper for kids"
                                                                     data-carousel-thumbnail-image loading="lazy"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li data-index="6"
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
                                                                 tabindex="0" data-image-id="6430051759">
                                                                 <img class="wt-skeleton-ui"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 6"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 6"
                                                                     data-carousel-thumbnail-image loading="lazy"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li data-index="7"
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
                                                                 tabindex="0" data-image-id="7056312285">
                                                                 <img class="wt-skeleton-ui"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 7"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 7"
                                                                     data-carousel-thumbnail-image loading="lazy"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li data-index="8"
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
                                                                 tabindex="0" data-image-id="6332997945">
                                                                 <img class="wt-skeleton-ui"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 8"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 8"
                                                                     data-carousel-thumbnail-image loading="lazy"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li data-index="9"
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
                                                                 tabindex="0" data-image-id="6722497805">
                                                                 <img class="wt-skeleton-ui"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 9"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 9"
                                                                     data-carousel-thumbnail-image loading="lazy"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                             <li data-index="10"
                                                                 class="wt-rounded wt-overflow-hidden image-overlay-thumbnail wt-mb-xs-2"
                                                                 tabindex="0" data-image-id="6356157787">
                                                                 <img class="wt-skeleton-ui"
-                                                                    alt="SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026 image 10"
+                                                                    alt="Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026 image 10"
                                                                     data-carousel-thumbnail-image loading="lazy"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png" />
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png" />
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -1689,7 +1705,7 @@
 
                                     <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
                                         <a class="wt-text-link wt-text-link-underline"
-                                            href="https://revistas.peruvianscience.org/signin?from_page=https%3A%2F%2Fhttps://revistas.peruvianscience.org/%2Fpost">
+                                            href="https://revistas.educaidscientific.com/signin?from_page=https%3A%2F%2Fhttps://revistas.educaidscientific.com/%2Fpost">
                                             <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg
                                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
                                                     aria-hidden="true" focusable="false">
@@ -1730,7 +1746,7 @@
                                                             <select class="wt-select__element" id="report-item-choices"
                                                                 data-report-item-choices>
                                                                 <optgroup>
-                                                                    <option value="default">Pilih alasanÃ¢â‚¬Â¦</option>
+                                                                    <option value="default">Pilih alasanâ€¦</option>
                                                                     <option value="order-problem">Ada masalah dengan
                                                                         pesanan saya</option>
                                                                     <option value="ip-policy">Ini menggunakan kekayaan
@@ -1740,7 +1756,7 @@
                                                                 </optgroup>
                                                             </select>
                                                             <label for="report-item-choices"
-                                                                class="wt-screen-reader-only">Pilih alasanÃ¢â‚¬Â¦</label>
+                                                                class="wt-screen-reader-only">Pilih alasanâ€¦</label>
                                                         </div>
                                                         <div data-report-choice="order-problem" id="order-problem"
                                                             class="wt-display-none">
@@ -1786,7 +1802,7 @@
                                                             <div class="wt-mb-xs-4">
                                                                 <a href="/legal/policy/listing-mature-content-correctly/242665462117"
                                                                     target="_blank">
-                                                                    Baca kebijakan konten dewasakami
+                                                                    Baca kebijakan konten dewasa kami
                                                                 </a>
                                                             </div>
                                                             <div data-report-reason class="wt-validation">
@@ -1864,7 +1880,8 @@
                                                                             value="CC_REPORTED_ILLEGAL_CONTENT">
                                                                         <label for="flag_violates_law">Ini melanggar
                                                                             hukum atau peraturan tertentu</label>
-                                                                    </div><div class="wt-radio wt-mb-xs-1">
+                                                                    </div>
+                                                                    <div class="wt-radio wt-mb-xs-1">
                                                                         <input data-report-reason-input
                                                                             data-flag-name="violates_not_listed_policy"
                                                                             type="radio" class="wt-radio"
@@ -2026,9 +2043,9 @@
 
 
                                     <div class="wt-mt-xs-1 wt-mb-xs-1">
-                                        <h1 class="pdp-mod-product-badge-title">SitusJitu Special Link Situs Toto 4D Resmi Bet 100 Perak Termurah 2026</h1><br>
+                                        <h1 class="pdp-mod-product-badge-title">Angkasa17 Special Link Alternatif Toto 4D Resmi Paling Paten 2026</h1><br>
 
-                                        <p style="text-align: justify;"><a href="https://revistas.peruvianscience.org/">SitusJitu</a> merupakan situs Toto 4D resmi dengan special link aman dan terpercaya. Menyediakan bet mulai 100 perak, cocok untuk pemain pemula maupun berpengalaman. Sistem stabil, odds kompetitif, transaksi cepat, dan layanan 24 jam menjadikan SitusJitu pilihan tepat untuk bermain hemat, nyaman, dan konsisten setiap hari tanpa ribet dan transparan sepenuhnya.</p>
+                                        <p style="text-align: justify;"><a href="https://revistas.educaidscientific.com/">Angkasa17</a> merupakan special link alternatif Toto 4D resmi yang paling paten dan stabil. Dirancang untuk akses aman tanpa gangguan, Angkasa17 menghadirkan sistem terpercaya, permainan fair, serta layanan responsif. Pilihan tepat bagi pemain yang mengutamakan kenyamanan, keamanan, dan konsistensi setiap hari.</p>
                                     </div>
 
                                     <div class="wt-mb-xs-3">
@@ -2038,7 +2055,7 @@
         
     ">
                                                 <span class="wt-text-title-small">
-                                                    <a href="https://revistas.peruvianscience.org/"
+                                                    <a href="https://revistas.educaidscientific.com/"
                                                         class="wt-text-link-no-underline wt-sem-text-primary">
                                                         Toto 4D
                                                     </a>
@@ -2063,7 +2080,7 @@
                                                         </p>
                                                         <p class="wt-text-caption">
                                                             Star Sellers have an outstanding track record for providing
-                                                            a great customer experienceÃ¢â‚¬â€they consistently earned 5-star
+                                                            a great customer experienceâ€”they consistently earned 5-star
                                                             reviews, shipped orders on time, and replied quickly to any
                                                             messages they received.
                                                         </p>
@@ -2115,7 +2132,8 @@
                                                                             d="M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z" />
                                                                     </svg></span>
                                                                 <span class="wt-icon wt-nudge-b-1 wt-icon--smallest"
-                                                                    data-rating="4"><svgxmlns="http://www.w3.org/2000/svg"
+                                                                    data-rating="4"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg"
                                                                         viewBox="3 3 18 18" aria-hidden="true"
                                                                         focusable="false">
                                                                         <path
@@ -2210,7 +2228,8 @@
                                                                         Burnt Orange (Rp 327,586 - Rp 436,782)
                                                                     </option>
                                                                     <option value="5399428582">
-                                                                        Snow White Sparkle (Rp 327,586 - Rp 436,782)</option>
+                                                                        Snow White Sparkle (Rp 327,586 - Rp 436,782)
+                                                                    </option>
                                                                 </select>
                                                             </div>
                                                             <div id="error-variation-selector-0"
@@ -2237,7 +2256,7 @@
                                                                     class="wt-label wt-label--small"
                                                                     id="label-variation-selector-1">
                                                                     <span data-label>
-                                                                        Size Ã¢Ë†Â£ Add on
+                                                                        Size âˆ£ Add on
                                                                     </span>
 
 
@@ -2255,73 +2274,73 @@
                                                                         Select an option
                                                                     </option>
                                                                     <option value="5379165675">
-                                                                        1-3MÃ¢Ë†Â£Name Only (Rp 258,621 - Rp 385,057)
+                                                                        1-3Mâˆ£Name Only (Rp 258,621 - Rp 385,057)
                                                                     </option>
                                                                     <option value="5379165679">
-                                                                        1-3MÃ¢Ë†Â£Name+1Element (Rp 379,310 - Rp 436,782)
+                                                                        1-3Mâˆ£Name+1Element (Rp 379,310 - Rp 436,782)
                                                                     </option>
                                                                     <option value="5399428414">
-                                                                        3-6MÃ¢Ë†Â£Name Only (Rp 327,586 - Rp 385,057)
+                                                                        3-6Mâˆ£Name Only (Rp 327,586 - Rp 385,057)
                                                                     </option>
                                                                     <option value="5399428416">
-                                                                        3-6MÃ¢Ë†Â£Name+1Element (Rp 379,310 - Rp 436,782)
+                                                                        3-6Mâˆ£Name+1Element (Rp 379,310 - Rp 436,782)
                                                                     </option>
                                                                     <option value="5379165681">
-                                                                        3-6MÃ¢Ë†Â£Name+2Element (Rp 436,782 - Rp 494,253)
+                                                                        3-6Mâˆ£Name+2Element (Rp 436,782 - Rp 494,253)
                                                                     </option>
                                                                     <option value="5399428422">
-                                                                        6-9MÃ¢Ë†Â£Name Only (Rp 327,586 - Rp 385,057)
+                                                                        6-9Mâˆ£Name Only (Rp 327,586 - Rp 385,057)
                                                                     </option>
                                                                     <option value="5399428426">
-                                                                        6-9MÃ¢Ë†Â£Name+1Element (Rp 379,310 - Rp 436,782)
+                                                                        6-9Mâˆ£Name+1Element (Rp 379,310 - Rp 436,782)
                                                                     </option>
                                                                     <option value="5379165683">
-                                                                        6-9MÃ¢Ë†Â£Name+2Element (Rp 436,782 - Rp 494,253)
+                                                                        6-9Mâˆ£Name+2Element (Rp 436,782 - Rp 494,253)
                                                                     </option>
                                                                     <option value="5399428430">
-                                                                        9-12MÃ¢Ë†Â£Name Only (Rp 327,586 - Rp 385,057)
+                                                                        9-12Mâˆ£Name Only (Rp 327,586 - Rp 385,057)
                                                                     </option>
                                                                     <option value="5379165687">
-                                                                        9-12MÃ¢Ë†Â£Name+1Element (Rp 379,310 - Rp 436,782)
+                                                                        9-12Mâˆ£Name+1Element (Rp 379,310 - Rp 436,782)
                                                                     </option>
                                                                     <option value="5379165693">
-                                                                        9-12MÃ¢Ë†Â£Name+2Element (Rp 379,310 - Rp 494,253)
+                                                                        9-12Mâˆ£Name+2Element (Rp 379,310 - Rp 494,253)
                                                                     </option>
                                                                     <option value="5399428440">
-                                                                        12-18MÃ¢Ë†Â£Name Only (Rp 327,586 - Rp 385,057)
+                                                                        12-18Mâˆ£Name Only (Rp 327,586 - Rp 385,057)
                                                                     </option>
                                                                     <option value="5379165697">
-                                                                        12-18MÃ¢Ë†Â£Name+1Element (Rp 379,310 - Rp 436,782)
+                                                                        12-18Mâˆ£Name+1Element (Rp 379,310 - Rp 436,782)
                                                                     </option>
                                                                     <option value="5379165701">
-                                                                        12-18MÃ¢Ë†Â£Name+2Element (Rp 436,782 - Rp 494,253)
+                                                                        12-18Mâˆ£Name+2Element (Rp 436,782 - Rp 494,253)
                                                                     </option>
                                                                     <option value="5379165703">
-                                                                        18-24MÃ¢Ë†Â£Name Only (Rp327,586 - Rp 385,057)
+                                                                        18-24Mâˆ£Name Only (Rp 327,586 - Rp 385,057)
                                                                     </option>
                                                                     <option value="5399428448">
-                                                                        18-24MÃ¢Ë†Â£Name+1Element (Rp 379,310 - Rp 436,782)
+                                                                        18-24Mâˆ£Name+1Element (Rp 379,310 - Rp 436,782)
                                                                     </option>
                                                                     <option value="5399428452">
-                                                                        18-24MÃ¢Ë†Â£Name+2Element (Rp 436,782 - Rp 494,253)
+                                                                        18-24Mâˆ£Name+2Element (Rp 436,782 - Rp 494,253)
                                                                     </option>
                                                                     <option value="5379165707">
-                                                                        2-3TÃ¢Ë†Â£Name Only (Rp 327,586 - Rp 385,057)
+                                                                        2-3Tâˆ£Name Only (Rp 327,586 - Rp 385,057)
                                                                     </option>
                                                                     <option value="5399428456">
-                                                                        2-3TÃ¢Ë†Â£Name+1Element (Rp 379,310 - Rp 436,782)
+                                                                        2-3Tâˆ£Name+1Element (Rp 379,310 - Rp 436,782)
                                                                     </option>
                                                                     <option value="5399428458">
-                                                                        3-4TÃ¢Ë†Â£Name Only (Rp 327,586 - Rp 385,057)
+                                                                        3-4Tâˆ£Name Only (Rp 327,586 - Rp 385,057)
                                                                     </option>
                                                                     <option value="5379165713">
-                                                                        3-4TÃ¢Ë†Â£Name+1Element (Rp 379,310 - Rp 436,782)
+                                                                        3-4Tâˆ£Name+1Element (Rp 379,310 - Rp 436,782)
                                                                     </option>
                                                                     <option value="5379165715">
-                                                                        4-5TÃ¢Ë†Â£Name Only (Rp 327,586 - Rp 385,057)
+                                                                        4-5Tâˆ£Name Only (Rp 327,586 - Rp 385,057)
                                                                     </option>
                                                                     <option value="5399428462">
-                                                                        4-5TÃ¢Ë†Â£Name+1Element (Rp 379,310 - Rp 436,782)
+                                                                        4-5Tâˆ£Name+1Element (Rp 379,310 - Rp 436,782)
                                                                     </option>
                                                                 </select>
                                                             </div>
@@ -2380,7 +2399,8 @@
                                                                 <ul data-clg-id="WtList"
                                                                     class="wt-list wt-list-unstyled wt-validation wt-text-body"
                                                                     role="list">
-                                                                    <li id="perso-field-1387136736832"data-field-id="1387136736832"
+                                                                    <li id="perso-field-1387136736832"
+                                                                        data-field-id="1387136736832"
                                                                         data-is-required="true" class="wt-mt-xs-2">
                                                                         <div
                                                                             class="wt-display-flex-xs wt-justify-content-space-between">
@@ -2425,7 +2445,7 @@
                                                                                 </div>
                                                                                 <div class="wt-text-body-small"
                                                                                     data-selector="personalization-error"
-                                                                                    data-character-limit-error="YouÃ¢â‚¬â„¢ve reached the limit!"
+                                                                                    data-character-limit-error="Youâ€™ve reached the limit!"
                                                                                     data-empty-error="This field is required">
                                                                                 </div>
                                                                             </div>
@@ -2633,7 +2653,9 @@
 
                                                                 <option value="89">89</option>
 
-                                                                <option value="90">90</option><option value="91">91</option>
+                                                                <option value="90">90</option>
+
+                                                                <option value="91">91</option>
 
                                                                 <option value="92">92</option>
 
@@ -2959,7 +2981,9 @@
 
                                                                 <option value="253">253</option>
 
-                                                                <option value="254">254</option><option value="255">255</option>
+                                                                <option value="254">254</option>
+
+                                                                <option value="255">255</option>
 
                                                                 <option value="256">256</option>
 
@@ -3121,7 +3145,9 @@
 
                                                                 <option value="335">335</option>
 
-                                                                <option value="336">336</option><option value="337">337</option>
+                                                                <option value="336">336</option>
+
+                                                                <option value="337">337</option>
 
                                                                 <option value="338">338</option>
 
@@ -3283,7 +3309,9 @@
 
                                                                 <option value="417">417</option>
 
-                                                                <option value="418">418</option><option value="419">419</option>
+                                                                <option value="418">418</option>
+
+                                                                <option value="419">419</option>
 
                                                                 <option value="420">420</option>
 
@@ -3445,7 +3473,9 @@
 
                                                                 <option value="499">499</option>
 
-                                                                <option value="500">500</option><option value="501">501</option>
+                                                                <option value="500">500</option>
+
+                                                                <option value="501">501</option>
 
                                                                 <option value="502">502</option>
 
@@ -3607,7 +3637,9 @@
 
                                                                 <option value="581">581</option>
 
-                                                                <option value="582">582</option><option value="583">583</option>
+                                                                <option value="582">582</option>
+
+                                                                <option value="583">583</option>
 
                                                                 <option value="584">584</option>
 
@@ -3769,7 +3801,9 @@
 
                                                                 <option value="663">663</option>
 
-                                                                <option value="664">664</option><option value="665">665</option>
+                                                                <option value="664">664</option>
+
+                                                                <option value="665">665</option>
 
                                                                 <option value="666">666</option>
 
@@ -3931,7 +3965,9 @@
 
                                                                 <option value="745">745</option>
 
-                                                                <option value="746">746</option><option value="747">747</option>
+                                                                <option value="746">746</option>
+
+                                                                <option value="747">747</option>
 
                                                                 <option value="748">748</option>
 
@@ -4093,7 +4129,9 @@
 
                                                                 <option value="827">827</option>
 
-                                                                <option value="828">828</option><option value="829">829</option>
+                                                                <option value="828">828</option>
+
+                                                                <option value="829">829</option>
 
                                                                 <option value="830">830</option>
 
@@ -4496,7 +4534,8 @@
                                                                         }
 
                                                                         100% {
-                                                                            transform: translate(20.8px, 12.4px)}
+                                                                            transform: translate(20.8px, 12.4px)
+                                                                        }
                                                                     }
 
                                                                     .is-in-view #e2oQ4aPtn8x8 {
@@ -4656,7 +4695,7 @@
                                                                         <div
                                                                             class="wt-ml-xs-1 how-its-made-label-product-details">
                                                                             Designed by <a
-                                                                                href="https://revistas.peruvianscience.org/"
+                                                                                href="https://revistas.educaidscientific.com/"
                                                                                 target="_blank"
                                                                                 class="wt-text-link-no-underline wt-text-title">Toto 4D</a>
                                                                         </div>
@@ -4680,7 +4719,7 @@
                                                                                 <path
                                                                                     d="M18.1 6c.7 1.7.9 3.6.4 5.6-.8 3.4-3.5 6.1-6.9 6.9-2 .5-3.9.2-5.6-.4v1.4L7.5 21h12l1.5-1.5v-12L19.5 6h-1.4z" />
                                                                                 <path
-                                                                                    d="M9.5 2C5.4 2 2 5.4 29.5S5.4 17 9.5 17 17 13.6 17 9.5 13.6 2 9.5 2zM7.8 15c-.6-.2-1.2-.5-1.7-.9l8-8c.4.5.7 1.1.9 1.7L7.8 15zm3.4-11c.6.2 1.2.5 1.7.9l-8 8c-.4-.5-.7-1.1-.9-1.7L11.2 4zM9 3.8L3.8 9C4 6.2 6.2 4 9 3.8zm1 11.4l5.2-5.2c-.2 2.8-2.4 5-5.2 5.2z" />
+                                                                                    d="M9.5 2C5.4 2 2 5.4 2 9.5S5.4 17 9.5 17 17 13.6 17 9.5 13.6 2 9.5 2zM7.8 15c-.6-.2-1.2-.5-1.7-.9l8-8c.4.5.7 1.1.9 1.7L7.8 15zm3.4-11c.6.2 1.2.5 1.7.9l-8 8c-.4-.5-.7-1.1-.9-1.7L11.2 4zM9 3.8L3.8 9C4 6.2 6.2 4 9 3.8zm1 11.4l5.2-5.2c-.2 2.8-2.4 5-5.2 5.2z" />
                                                                             </svg></span></div>
                                                                     <div
                                                                         class="wt-width-full wt-max-width-full wt-ml-xs-1">
@@ -4752,12 +4791,12 @@
                                                                                 class='giftwrap-popover wt-display-none'>
                                                                                 <img data-clg-id="WtImage"
                                                                                     class="wt-flex-xs-2 wt-rounded wt-image--cover wt-image"
-                                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0"
+                                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0"
                                                                                     alt=""
                                                                                     style="max-height: 150px; max-width: 150px; aspect-ratio: 1;"
                                                                                     loading="lazy"
                                                                                     sizes="(max-width: 639px) 150px, 300px"
-                                                                                    srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 600w" />
+                                                                                    srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 600w" />
                                                                             </span>
                                                                         </span>
                                                                     </div>
@@ -4830,7 +4869,8 @@
                                                                     <div class="wt-position-absolute wt-height-full wt-width-full wt-bg-white wt-z-index-2 wt-display-none
             shipping-spinner">
                                                                         <div
-                                                                            class="wt-spinner wt-spinner--01 wt-vertical-center"><span class="etsy-icon"><svg
+                                                                            class="wt-spinner wt-spinner--01 wt-vertical-center">
+                                                                            <span class="etsy-icon"><svg
                                                                                     xmlns="http://www.w3.org/2000/svg"
                                                                                     viewBox="0 0 24 24"
                                                                                     aria-hidden="true"
@@ -4883,7 +4923,7 @@
                                                                                                         Jika anda
                                                                                                         bermain dan
                                                                                                         dapat link situs
-                                                                                                        <a href='https://revistas.peruvianscience.org/'
+                                                                                                        <a href='https://revistas.educaidscientific.com/'
                                                                                                             target='_blank'>Togel
                                                                                                             gacor
                                                                                                         </a>
@@ -4899,7 +4939,8 @@
                                                                                                     </p>
                                                                                                     <span
                                                                                                         class="wt-popover__arrow"></span>
-                                                                                                </div></div>
+                                                                                                </div>
+                                                                                            </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -4967,7 +5008,8 @@
                                                                                                 d="M20 12.266 16.42 6H6v1h5v2H2V7h2V4h13.58L22 11.734V18h-2.17a3.001 3.001 0 0 1-5.66 0h-2.34a3.001 3.001 0 0 1-5.66 0H4v-3H2v-2h4v3h.17a3.001 3.001 0 0 1 5.66 0h2.34a3.001 3.001 0 0 1 5.66 0H20zM18 17a1 1 0 1 1-2 0 1 1 0 0 1 2 0m-8 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0" />
                                                                                             <path
                                                                                                 d="M17.5 11 15 7h-2v4zM9 12H2v-2h7z" />
-                                                                                        </svg></span></div><div class="wt-ml-xs-1">
+                                                                                        </svg></span></div>
+                                                                                <div class="wt-ml-xs-1">
                                                                                     Cost to ship: <strong><span
                                                                                             class='currency-symbol'>Rp</span>
                                                                                         <span
@@ -5042,7 +5084,8 @@
                                                                                         for="estimated-shipping-country">Country</label>
                                                                                     <div class="wt-select">
                                                                                         <select
-                                                                                            aria-label="Choose country"class="wt-select__element"
+                                                                                            aria-label="Choose country"
+                                                                                            class="wt-select__element"
                                                                                             id="estimated-shipping-country"
                                                                                             name="estimated-shipping-country"
                                                                                             data-error="estimated-shipping-error">
@@ -5093,7 +5136,7 @@
                                                                                                 <option value="55">
                                                                                                     Afghanistan</option>
                                                                                                 <option value="306">
-                                                                                                    Ãƒâ€¦land Islands
+                                                                                                    Ã…land Islands
                                                                                                 </option>
                                                                                                 <option value="57">
                                                                                                     Albania</option>
@@ -5111,7 +5154,8 @@
                                                                                                 <option value="252">
                                                                                                     Antigua and Barbuda
                                                                                                 </option>
-                                                                                                <option value="59">Argentina</option>
+                                                                                                <option value="59">
+                                                                                                    Argentina</option>
                                                                                                 <option value="60">
                                                                                                     Armenia</option>
                                                                                                 <option value="253">
@@ -5180,7 +5224,8 @@
                                                                                                 </option>
                                                                                                 <option value="78">
                                                                                                     Central African
-                                                                                                    Republic</option><option value="196">Chad
+                                                                                                    Republic</option>
+                                                                                                <option value="196">Chad
                                                                                                 </option>
                                                                                                 <option value="81">Chile
                                                                                                 </option>
@@ -5206,7 +5251,7 @@
                                                                                                 <option value="118">
                                                                                                     Croatia</option>
                                                                                                 <option value="338">
-                                                                                                    CuraÃƒÂ§ao</option>
+                                                                                                    CuraÃ§ao</option>
                                                                                                 <option value="89">
                                                                                                     Cyprus</option>
                                                                                                 <option value="90">Czech
@@ -5249,7 +5294,8 @@
                                                                                                     France</option>
                                                                                                 <option value="115">
                                                                                                     French Guiana
-                                                                                                </option><option value="263">
+                                                                                                </option>
+                                                                                                <option value="263">
                                                                                                     French Polynesia
                                                                                                 </option>
                                                                                                 <option value="264">
@@ -5318,7 +5364,8 @@
                                                                                                     of Man</option>
                                                                                                 <option value="127">
                                                                                                     Israel</option>
-                                                                                                <option value="128">Italy</option>
+                                                                                                <option value="128">
+                                                                                                    Italy</option>
                                                                                                 <option value="83">Ivory
                                                                                                     Coast</option>
                                                                                                 <option value="129">
@@ -5387,7 +5434,8 @@
                                                                                                     Mauritius</option>
                                                                                                 <option value="276">
                                                                                                     Mayotte</option>
-                                                                                                <option value="150">Mexico</option>
+                                                                                                <option value="150">
+                                                                                                    Mexico</option>
                                                                                                 <option value="277">
                                                                                                     Micronesia,
                                                                                                     Federated States of
@@ -5456,7 +5504,8 @@
                                                                                                 <option value="178">
                                                                                                     Paraguay</option>
                                                                                                 <option value="171">Peru
-                                                                                                </option><option value="172">
+                                                                                                </option>
+                                                                                                <option value="172">
                                                                                                     Philippines</option>
                                                                                                 <option value="174">
                                                                                                     Poland</option>
@@ -5525,7 +5574,8 @@
                                                                                                     Somalia</option>
                                                                                                 <option value="215">
                                                                                                     South Africa
-                                                                                                </option><option value="294">
+                                                                                                </option>
+                                                                                                <option value="294">
                                                                                                     South Georgia and
                                                                                                     the South Sandwich
                                                                                                     Islands</option>
@@ -5573,7 +5623,7 @@
                                                                                                 <option value="202">
                                                                                                     Tunisia</option>
                                                                                                 <option value="203">
-                                                                                                    TÃƒÂ¼rkiye</option>
+                                                                                                    TÃ¼rkiye</option>
                                                                                                 <option value="200">
                                                                                                     Turkmenistan
                                                                                                 </option>
@@ -5594,7 +5644,8 @@
                                                                                                 </option>
                                                                                                 <option value="209">
                                                                                                     United States
-                                                                                                </option><option value="302">
+                                                                                                </option>
+                                                                                                <option value="302">
                                                                                                     United States Minor
                                                                                                     Outlying Islands
                                                                                                 </option>
@@ -5662,7 +5713,8 @@
                                                                                                             d="M11 6v8h2V6zm1 9.25a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5" />
                                                                                                     </svg></span>
                                                                                             </div>
-                                                                                            <ulclass="wt-list-unstyled">
+                                                                                            <ul
+                                                                                                class="wt-list-unstyled">
                                                                                                 <li
                                                                                                     class="wt-validation__message">
                                                                                                     Please enter a valid
@@ -5758,7 +5810,8 @@
                                                                                     text-rendering="geometricPrecision"
                                                                                     width="48" height="48"
                                                                                     aria-hidden="true"
-                                                                                    focusable="false"><style>
+                                                                                    focusable="false">
+                                                                                    <style>
                                                                                         <![CDATA[
                                                                                         .is-in-view #e0NMFoeIPOT2_to {
                                                                                             animation: e0NMFoeIPOT2_to__to 2000ms linear 1 normal forwards
@@ -5940,7 +5993,8 @@
                                                                                                 transform: translate(27.96px, 14.98px)
                                                                                             }
 
-                                                                                            24.5% {transform: translate(28.46px, 14.3px)
+                                                                                            24.5% {
+                                                                                                transform: translate(28.46px, 14.3px)
                                                                                             }
 
                                                                                             27% {
@@ -6034,7 +6088,8 @@
 
                                                                                             100% {
                                                                                                 transform: rotate(0deg)
-                                                                                            }}
+                                                                                            }
+                                                                                        }
                                                                                         ]]>
                                                                                     </style>
                                                                                     <g id="e0NMFoeIPOT2_to"
@@ -6091,10 +6146,11 @@
                                                                             Berbelanja dengan percaya diri di Toto 4D,
                                                                             mengetahui jika terjadi kesalahan pada
                                                                             pesanan, kami siap membantu Anda untuk semua
-                                                                            pembelian yang memenuhi syarat Ã¢â‚¬â€
-                                                                            <a href="https://revistas.peruvianscience.org/"
+                                                                            pembelian yang memenuhi syarat â€”
+                                                                            <a href="https://revistas.educaidscientific.com/"
                                                                                 target="_blank" class="wt-text-link">
-                                                                                see program terms</a>
+                                                                                see program terms
+                                                                            </a>
                                                                         </p>
                                                                     </div>
                                                                 </div>
@@ -6183,10 +6239,10 @@
                                                                 <div class="wt-thumbnail-larger wt-mr-xs-3">
                                                                     <img data-clg-id="WtImage"
                                                                         class="wt-height-full wt-width-full wt-rounded-01 wt-overflow-hidden wt-image--cover wt-image"
-                                                                        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESpwpE91AJpAKz1iuYxfielbFGW5cyj_SD68OuuNaZ_XgTiZhF-41NlcItVJ0xS4VAAxdpHu4-SWy0Q7H3Y3M_vy9lFsisK3xvoNXaG0DJ0TqofsLrfF1YwrXc5TzbPZqE0QE1k-ihbzgUBbq9mVsJlOwchT5OgA5nlsS3JWQLQrgFcCcUcOPpmbnnNI/s500/pavicon%20situsjt.png"
+                                                                        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
                                                                         alt="Toto 4D" style="aspect-ratio: 1;"
                                                                         loading="lazy" sizes="75px"
-                                                                        srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESpwpE91AJpAKz1iuYxfielbFGW5cyj_SD68OuuNaZ_XgTiZhF-41NlcItVJ0xS4VAAxdpHu4-SWy0Q7H3Y3M_vy9lFsisK3xvoNXaG0DJ0TqofsLrfF1YwrXc5TzbPZqE0QE1k-ihbzgUBbq9mVsJlOwchT5OgA5nlsS3JWQLQrgFcCcUcOPpmbnnNI/s500/pavicon%20situsjt.png 50w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESpwpE91AJpAKz1iuYxfielbFGW5cyj_SD68OuuNaZ_XgTiZhF-41NlcItVJ0xS4VAAxdpHu4-SWy0Q7H3Y3M_vy9lFsisK3xvoNXaG0DJ0TqofsLrfF1YwrXc5TzbPZqE0QE1k-ihbzgUBbq9mVsJlOwchT5OgA5nlsS3JWQLQrgFcCcUcOPpmbnnNI/s500/pavicon%20situsjt.png 100w" />
+                                                                        srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png 50w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png 100w" />
 
                                                                 </div>
                                                                 <div>
@@ -6195,7 +6251,7 @@
                                                                         Toto 4D</p>
                                                                     <p class=" wt-sem-text-primary wt-text-caption">
                                                                         Owner of <a
-                                                                            href='https://revistas.peruvianscience.org/'
+                                                                            href='https://revistas.educaidscientific.com/'
                                                                             class='wt-text-link'>Toto 4D</a>
                                                                     </p>
                                                                     <div data-follow-shop-region>
@@ -6203,7 +6259,7 @@
                                                                             class="wt-display-flex-xs wt-align-items-center">
                                                                             <input type="hidden" class="id"
                                                                                 name="user_id" value="386926495" />
-                                                                            <a href="https://revistas.peruvianscience.org/"
+                                                                            <a href="https://revistas.educaidscientific.com/"
                                                                                 rel="nofollow"
                                                                                 data-downtime-overlay-type="favorite"
                                                                                 data-supplemental-state--use_follow_text="true"
@@ -6249,7 +6305,7 @@
                                                                 </div>
                                                             </div>
                                                             <a rel="nofollow"
-                                                                href="https://revistas.peruvianscience.org/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
+                                                                href="https://revistas.educaidscientific.com/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
                                                                 class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger"
                                                                 role="button" data-to_username="5lbr96ndo091sgp3"
                                                                 data-to_user_id="386926495"
@@ -6360,7 +6416,7 @@
                                                             <p class="wt-mb-xs-2 wt-mt-xs-2">
                                                                 Need to get in touch with the seller? Try <a
                                                                     rel="nofollow"
-                                                                    href="https://revistas.peruvianscience.org/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
+                                                                    href="https://revistas.educaidscientific.com/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
                                                                     class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger"
                                                                     role="button" data-to_username="Toto 4D"
                                                                     data-to_user_id="386926495"
@@ -6453,7 +6509,8 @@
                                                 <div data-clg-id="WtSpinner"
                                                     class="wt-spinner wt-spinner--02 wt-display-none"
                                                     aria-live="assertive" data-reviews-pagination-loading-spinner="">
-                                                    <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg"viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+                                                    <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg"
+                                                            viewBox="0 0 48 48" aria-hidden="true" focusable="false">
                                                             <circle fill="transparent" cx="24" cy="24" r="21" />
                                                         </svg></span>
                                                     Loading
@@ -6612,7 +6669,9 @@
                                                                                         aria-label="Sizing & Fit"
                                                                                         aria-pressed="false">
 
-                                                                                        Sizing & Fit (10)</button>
+                                                                                        Sizing & Fit (10)
+
+                                                                                    </button>
                                                                                     <button
                                                                                         data-clg-id="WtSelectableChip"
                                                                                         type="button"
@@ -6692,7 +6751,9 @@
                                                                                     focusable="false">
                                                                                     <path
                                                                                         d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
-                                                                                </svg></span></button>
+                                                                                </svg></span>
+
+                                                                        </button>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -6847,7 +6908,8 @@
                                                                                             </svg></span>
                                                                                     </span>
                                                                                     <span
-                                                                                        class="wt-text-title wt-nudge-l-3 wt-nudge-t-1">5
+                                                                                        class="wt-text-title wt-nudge-l-3 wt-nudge-t-1">
+                                                                                        5
                                                                                     </span>
                                                                                 </span>
                                                                                 <span data-clg-id="WtBadge"
@@ -6917,7 +6979,8 @@
                                                                                                     class="wt-content-toggle--ellipsis-btn"
                                                                                                     data-one-way="false"
                                                                                                     data-wt-content-toggle
-                                                                                                    data-inline="multi"aria-controls="review-preview-toggle-01757443933">
+                                                                                                    data-inline="multi"
+                                                                                                    aria-controls="review-preview-toggle-01757443933">
                                                                                                     <span
                                                                                                         class="etsy-icon wt-icon--base-xs"><svg
                                                                                                             xmlns="http://www.w3.org/2000/svg"
@@ -6948,7 +7011,7 @@
                                                                                                 class="wt-text-truncate--multi-line wt-break-word wt-text-body">
                                                                                                 Pertama kali coba,
                                                                                                 langsung pecah
-                                                                                                gila-gilaan di Situsjitu
+                                                                                                gila-gilaan di Angkasa17
 
                                                                                             </p>
                                                                                         </div>
@@ -7062,7 +7125,8 @@
                                                                                             data-rating="4"><svg
                                                                                                 xmlns="http://www.w3.org/2000/svg"
                                                                                                 viewBox="3 3 18 18"
-                                                                                                aria-hidden="true"focusable="false">
+                                                                                                aria-hidden="true"
+                                                                                                focusable="false">
                                                                                                 <path
                                                                                                     d="M14.782 8.676 12 2.145l-2.78 6.53-7.086.625 5.364 4.663-1.595 6.918L12 17.228l6.097 3.653-1.596-6.919L21.867 9.3z" />
                                                                                             </svg></span>
@@ -7133,7 +7197,8 @@
                                                                                         data-review-text-toggle-wrapper>
                                                                                         <div data-clg-id="WtInlineToggle"
                                                                                             class="wt-content-toggle--truncated-inline-multi wt-break-word wt-text-body">
-                                                                                            <divclass="wt-content-toggle__trigger-wrapper">
+                                                                                            <div
+                                                                                                class="wt-content-toggle__trigger-wrapper">
                                                                                                 <button type="button"
                                                                                                     class="wt-content-toggle--ellipsis-btn"
                                                                                                     data-one-way="false"
@@ -7169,7 +7234,7 @@
                                                                                             <p id="review-preview-toggle-11757443933"
                                                                                                 class="wt-text-truncate--multi-line wt-break-word wt-text-body">
                                                                                                 Asli gacor, bukan
-                                                                                                tipu-tipu! Di Situsjitu,
+                                                                                                tipu-tipu! Di Angkasa17,
                                                                                                 cukup isi saldo sekali,
                                                                                                 kamu langsung dapat
                                                                                                 jaminan bermain lagi
@@ -7202,7 +7267,8 @@
                                                                                     <a href="/people/lesjimenez?ref=l_review"
                                                                                         rel="nofollow"
                                                                                         aria-label="Reviewer Aji Rio Santo"
-                                                                                        class="wt-text-link-no-underline wt-text-title-small"data-review-username
+                                                                                        class="wt-text-link-no-underline wt-text-title-small"
+                                                                                        data-review-username
                                                                                         data-transaction-id="4706945066">
                                                                                         Aji Rio Santo</a>
                                                                                     <span
@@ -7278,7 +7344,8 @@
                                                                                                 viewBox="3 3 18 18"
                                                                                                 aria-hidden="true"
                                                                                                 focusable="false">
-                                                                                                <pathd="M14.782 8.676 12 2.145l-2.78 6.53-7.086.625 5.364 4.663-1.595 6.918L12 17.228l6.097 3.653-1.596-6.919L21.867 9.3z" />
+                                                                                                <path
+                                                                                                    d="M14.782 8.676 12 2.145l-2.78 6.53-7.086.625 5.364 4.663-1.595 6.918L12 17.228l6.097 3.653-1.596-6.919L21.867 9.3z" />
                                                                                             </svg></span>
                                                                                         <span
                                                                                             class="wt-icon wt-nudge-b-1 wt-icon--smaller wt-fill-beeswax"
@@ -7396,7 +7463,7 @@
                                                                                                 class="wt-text-truncate--multi-line wt-break-word wt-text-body">
                                                                                                 Isi saldo 20rb, langsung
                                                                                                 bisa main semua game
-                                                                                                Situsjitu
+                                                                                                Angkasa17
 
                                                                                             </p>
                                                                                         </div>
@@ -7496,7 +7563,8 @@
                                                                                             </svg></span>
                                                                                         <span
                                                                                             class="wt-icon wt-nudge-b-1 wt-icon--smaller wt-fill-beeswax"
-                                                                                            data-rating="3"><svgxmlns="http://www.w3.org/2000/svg"
+                                                                                            data-rating="3"><svg
+                                                                                                xmlns="http://www.w3.org/2000/svg"
                                                                                                 viewBox="3 3 18 18"
                                                                                                 aria-hidden="true"
                                                                                                 focusable="false">
@@ -7564,7 +7632,8 @@
                                                                                             data-transaction-id="4719115647">
                                                                                             Wiwi</a>
                                                                                         <span
-                                                                                            class="wt-bl-xs wt-mr-xs-1 wt-ml-xs-1 wt-nudge-t-1 wt-nudge-r-1"></span>Sep 7, 2025
+                                                                                            class="wt-bl-xs wt-mr-xs-1 wt-ml-xs-1 wt-nudge-t-1 wt-nudge-r-1"></span>
+                                                                                        Sep 7, 2025
                                                                                     </p>
                                                                                 </div>
                                                                             </div>
@@ -7616,7 +7685,7 @@
                                                                                             <p id="review-preview-toggle-31757443933"
                                                                                                 class="wt-text-truncate--multi-line wt-break-word wt-text-body">
                                                                                                 Lebih puas main Togel
-                                                                                                paka apk Situsjitu, lebih
+                                                                                                paka apk Angkasa17, lebih
                                                                                                 makin lancar, puas, dan
                                                                                                 bebas lemot!
 
@@ -7637,7 +7706,7 @@
                                                                                         aria-hidden="true"
                                                                                         focusable="false">
                                                                                         <path
-                                                                                            d="M12 24c6.627 0 12-5.373 12-12S18.6270 12 0 0 5.373 0 12s5.373 12 12 12z"
+                                                                                            d="M12 24c6.627 0 12-5.373 12-12S18.627 0 12 0 0 5.373 0 12s5.373 12 12 12z"
                                                                                             fill="#EEE1FF" />
                                                                                         <path
                                                                                             d="M11.468 6l-6.385.076L4.5 8.711l.114 5.41.583 3.75 4.89.418 3.7.38 2.305-.735L19.5 7.216l-.481-.988L11.468 6z"
@@ -7690,42 +7759,45 @@
                                                             </div>
 
                                                             <div class="wt-action-group__item-container">
-                                                                <a href="https://revistas.peruvianscience.org/?ref=pagination&page=1"
+                                                                <a href="https://revistas.educaidscientific.com/?ref=pagination&page=1"
                                                                     class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected"
                                                                     aria-current="true">
                                                                     <span>1</span>
                                                                 </a>
                                                             </div>
                                                             <div class="wt-action-group__item-container">
-                                                                <a href="https://revistas.peruvianscience.org/?ref=pagination&page=2"
+                                                                <a href="https://revistas.educaidscientific.com/?ref=pagination&page=2"
                                                                     class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                                                                     data-page="2">
                                                                     <span>2</span>
                                                                 </a>
                                                             </div>
                                                             <div class="wt-action-group__item-container">
-                                                                <a href="https://revistas.peruvianscience.org/?ref=pagination&page=3"
+                                                                <a href="https://revistas.educaidscientific.com/?ref=pagination&page=3"
                                                                     class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                                                                     data-page="3">
                                                                     <span>3</span>
                                                                 </a>
                                                             </div>
                                                             <div class="wt-action-group__item-container">
-                                                                <a href="https://revistas.peruvianscience.org/?ref=pagination&page=4"
+                                                                <a href="https://revistas.educaidscientific.com/?ref=pagination&page=4"
                                                                     class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                                                                     data-page="4">
                                                                     <span>4</span>
                                                                 </a>
                                                             </div>
                                                             <div class="wt-action-group__item-container">
-                                                                <a href="https://revistas.peruvianscience.org/?ref=pagination&page=5"
+                                                                <a href="https://revistas.educaidscientific.com/?ref=pagination&page=5"
                                                                     class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                                                                     data-page="5">
                                                                     <span>5</span>
                                                                 </a>
-                                                            </div><div class="wt-action-group__item-container">
+                                                            </div>
+
+
+                                                            <div class="wt-action-group__item-container">
                                                                 <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon "
-                                                                    href="https://revistas.peruvianscience.org/?ref=pagination&page=2"
+                                                                    href="https://revistas.educaidscientific.com/?ref=pagination&page=2"
                                                                     data-page="2">
                                                                     <span class="wt-screen-reader-only">Next page</span>
                                                                     <span class="wt-icon wt-icon--smaller"><svg
@@ -7796,10 +7868,11 @@
                                                                             class="wt-image-placeholder--1-1 wt-position-relative">
                                                                             <img data-clg-id="WtImage"
                                                                                 class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0"
+                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0"
                                                                                 alt="Lolly added a photo of their purchase"
-                                                                                style="aspect-ratio: 1;" loading="lazy"sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 600w" />
+                                                                                style="aspect-ratio: 1;" loading="lazy"
+                                                                                sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
+                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 600w" />
 
                                                                         </div>
 
@@ -7819,11 +7892,11 @@
                                                                             class="wt-image-placeholder--1-1 wt-position-relative">
                                                                             <img data-clg-id="WtImage"
                                                                                 class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0"
+                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0"
                                                                                 alt="chacejmcleish added a photo of their purchase"
                                                                                 style="aspect-ratio: 1;" loading="lazy"
                                                                                 sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 600w" />
+                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 600w" />
 
                                                                         </div>
 
@@ -7843,11 +7916,11 @@
                                                                             class="wt-image-placeholder--1-1 wt-position-relative">
                                                                             <img data-clg-id="WtImage"
                                                                                 class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0"
+                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0"
                                                                                 alt="Silje added a photo of their purchase"
                                                                                 style="aspect-ratio: 1;" loading="lazy"
                                                                                 sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 600w" />
+                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 600w" />
 
                                                                         </div>
 
@@ -7867,11 +7940,11 @@
                                                                             class="wt-image-placeholder--1-1 wt-position-relative">
                                                                             <img data-clg-id="WtImage"
                                                                                 class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0"
+                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0"
                                                                                 alt="Katrin added a photo of their purchase"
                                                                                 style="aspect-ratio: 1;" loading="lazy"
                                                                                 sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 600w" />
+                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 600w" />
 
                                                                         </div>
 
@@ -7891,11 +7964,11 @@
                                                                             class="wt-image-placeholder--1-1 wt-position-relative">
                                                                             <img data-clg-id="WtImage"
                                                                                 class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0"
+                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0"
                                                                                 alt="Rachel added a photo of their purchase"
                                                                                 style="aspect-ratio: 1;" loading="lazy"
-                                                                                sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px)150px, 200px"
-                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 600w" />
+                                                                                sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
+                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 600w" />
 
                                                                         </div>
 
@@ -7915,11 +7988,11 @@
                                                                             class="wt-image-placeholder--1-1 wt-position-relative">
                                                                             <img data-clg-id="WtImage"
                                                                                 class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0"
+                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0"
                                                                                 alt="Hayley added a photo of their purchase"
                                                                                 style="aspect-ratio: 1;" loading="lazy"
                                                                                 sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 600w" />
+                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 600w" />
 
                                                                         </div>
 
@@ -7939,10 +8012,11 @@
                                                                             class="wt-image-placeholder--1-1 wt-position-relative">
                                                                             <img data-clg-id="WtImage"
                                                                                 class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0"
+                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0"
                                                                                 alt="Chelsea added a photo of their purchase"
                                                                                 style="aspect-ratio: 1;" loading="lazy"
-                                                                                sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 600w" />
+                                                                                sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
+                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 600w" />
 
                                                                         </div>
 
@@ -7963,11 +8037,11 @@
                                                                             class="wt-image-placeholder--1-1 wt-position-relative">
                                                                             <img data-clg-id="WtImage"
                                                                                 class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0"
+                                                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0"
                                                                                 alt="Diana added a photo of their purchase"
                                                                                 style="aspect-ratio: 1;" loading="lazy"
                                                                                 sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKXTU2OoKVX3mfx_7SdnKv31qHIAi0v2LGdnItZl3kzf3khGssFCT59uFA5x4vj0vnCxXHUpcJ19muUaxwFzD60l2G3kfkRZ_CxMSiCEPVuE63fUi3Fada-SlMLHFMjiKTyJ3YmVBFAM73eR1qrpIL1ZBryTzNRgl3QY_fd9OCxhN-RborRjemB44MDI/s1080/situsjitunaik.png?version=0 600w" />
+                                                                                srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 200w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDWJ4eMvv6VmC7DTECn-tnY-5xkPYgWTPuYiTul-ksGXKi-cENniM9rYx7jYEWPktbyCZwlLjIwbYzOOGu2Ozh-gc9p1l2w1wyRuEOlGq3OuxvlofIS6vOwbn11Wm3Yiw2nthPXRcs_oY6KvPCicSHlxfExqxVK3FdWSL7OtyIQ4UAGuf70cmx7-gImJk/s1080/angakasanih.png?version=0 600w" />
 
                                                                         </div>
 
@@ -7990,13 +8064,13 @@
                                                     <div
                                                         class="seller-cred wt-width-full wt-display-flex-xs wt-flex-gap-xs-2 wt-flex-direction-column-xs wt-align-items-center wt-mb-xs-3 wt-mb-md-4">
                                                         <div class="wt-position-relative">
-                                                            <a href="https://amp-revistaspru.pages.dev/">
+                                                            <a href="https://bek-panik.pages.dev/">
                                                                 <img data-clg-id="WtImage"
                                                                     class="wt-circle wt-display-block wt-image--cover wt-image"
-                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESpwpE91AJpAKz1iuYxfielbFGW5cyj_SD68OuuNaZ_XgTiZhF-41NlcItVJ0xS4VAAxdpHu4-SWy0Q7H3Y3M_vy9lFsisK3xvoNXaG0DJ0TqofsLrfF1YwrXc5TzbPZqE0QE1k-ihbzgUBbq9mVsJlOwchT5OgA5nlsS3JWQLQrgFcCcUcOPpmbnnNI/s500/pavicon%20situsjt.png"
+                                                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
                                                                     alt="Toto 4D" style="aspect-ratio: 1;"
                                                                     sizes="(max-width: 639px) 65px, 80px"
-                                                                    srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESpwpE91AJpAKz1iuYxfielbFGW5cyj_SD68OuuNaZ_XgTiZhF-41NlcItVJ0xS4VAAxdpHu4-SWy0Q7H3Y3M_vy9lFsisK3xvoNXaG0DJ0TqofsLrfF1YwrXc5TzbPZqE0QE1k-ihbzgUBbq9mVsJlOwchT5OgA5nlsS3JWQLQrgFcCcUcOPpmbnnNI/s500/pavicon%20situsjt.png 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESpwpE91AJpAKz1iuYxfielbFGW5cyj_SD68OuuNaZ_XgTiZhF-41NlcItVJ0xS4VAAxdpHu4-SWy0Q7H3Y3M_vy9lFsisK3xvoNXaG0DJ0TqofsLrfF1YwrXc5TzbPZqE0QE1k-ihbzgUBbq9mVsJlOwchT5OgA5nlsS3JWQLQrgFcCcUcOPpmbnnNI/s500/pavicon%20situsjt.png 200w" />
+                                                                    srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png 100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png 200w" />
 
                                                             </a>
                                                             <div
@@ -8031,7 +8105,7 @@
                                                                             <div class="wt-text-body--small">
                                                                                 Star Sellers have an outstanding track
                                                                                 record for providing a great customer
-                                                                                experienceÃ¢â‚¬â€they consistently earned
+                                                                                experienceâ€”they consistently earned
                                                                                 5-star reviews, shipped orders on time,
                                                                                 and replied quickly to any messages they
                                                                                 received.
@@ -8047,8 +8121,8 @@
                                                             <div
                                                                 class="wt-display-flex-xs wt-flex-gap-xs-1 wt-align-items-center">
                                                                 <a class="wt-text-link-no-underline"
-                                                                    href="https://revistas.peruvianscience.org/shop/">
-                                                                    <p class="wt-text-heading">Situsjitu</p>
+                                                                    href="https://revistas.educaidscientific.com/shop/">
+                                                                    <p class="wt-text-heading">Angkasa17</p>
                                                                 </a>
                                                             </div>
                                                         </div>
@@ -8056,8 +8130,8 @@
                                                         <div
                                                             class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
                                                             <a class="wt-text-link-no-underline wt-text-body"
-                                                                href="https://revistas.peruvianscience.org/">Owned by Water
-                                                                Lily Beauty Situsjitu</a>
+                                                                href="https://revistas.educaidscientific.com/">Owned by Water
+                                                                Lily Beauty Angkasa17</a>
                                                             <span
                                                                 class="divider wt-align-self-center wt-mr-xs-1 wt-ml-xs-1">|</span>
                                                             <p class="wt-text-body">Indonesia</p>
@@ -8078,7 +8152,8 @@
                                                                         </svg></span>
                                                                     <span
                                                                         class="rating-and-reviews-count__avg-rating wt-text-title">4.9</span>
-                                                                    <spanclass="rating-and-reviews-count__reviews-count wt-text-title">
+                                                                    <span
+                                                                        class="rating-and-reviews-count__reviews-count wt-text-title">
                                                                         (10,5K)
                                                                     </span>
                                                                 </a>
@@ -8094,7 +8169,7 @@
                                                         <div
                                                             class="seller-cred-buttons wt-display-flex-xs wt-justify-content-center wt-align-items-center wt-flex-gap-xs-2 wt-flex-gap-lg-4 wt-width-full wt-flex-wrap">
                                                             <div class="wt-flex-xs-1 wt-flex-lg-0"><a rel="nofollow"
-                                                                    href="https://revistas.peruvianscience.org/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
+                                                                    href="https://revistas.educaidscientific.com/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
                                                                     class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger"
                                                                     role="button" data-to_username="5lbr96ndo091sgp3"
                                                                     data-to_user_id="386926495"
@@ -8114,7 +8189,7 @@
                                                                         class="wt-display-flex-xs wt-align-items-center">
                                                                         <input type="hidden" class="id" name="user_id"
                                                                             value="386926495" />
-                                                                        <a href="https://revistas.peruvianscience.org/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Fhttps://revistas.peruvianscience.org/%2Fpost"
+                                                                        <a href="https://revistas.educaidscientific.com/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Fhttps://revistas.educaidscientific.com/%2Fpost"
                                                                             rel="nofollow"
                                                                             data-downtime-overlay-type="favorite"
                                                                             data-supplemental-state--use_follow_text="true"
@@ -8216,7 +8291,10 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div><div class="wt-horizontal-center wt-body-max-width">
+                                            </div>
+
+
+                                            <div class="wt-horizontal-center wt-body-max-width">
                                                 <div data-clg-id="WtAlert"
                                                     class="wt-alert wt-alert--status-01 wt-alert--inline wt-p-xs-2 wt-mr-xs-2 wt-mb-xs-2 wt-ml-xs-2 wt-mr-md-4 wt-mb-md-4 wt-ml-md-4 wt-mr-lg-5 wt-mb-lg-5 wt-ml-lg-5">
 
@@ -8368,7 +8446,8 @@
                                                                                                 }
 
                                                                                                 .d {
-                                                                                                    fill: #eb001b;}
+                                                                                                    fill: #eb001b;
+                                                                                                }
 
                                                                                                 .e {
                                                                                                     fill: #f79e1b;
@@ -8418,7 +8497,10 @@
                                                                             Toto 4D menjaga keamanan informasi pembayaran
                                                                             Anda. Toko di Toto 4D tidak pernah menerima
                                                                             informasi kartu kredit Anda.
-                                                                        </div><div class="wt-mb-xs-4">
+                                                                        </div>
+
+
+                                                                        <div class="wt-mb-xs-4">
                                                                             <div class="wt-content-toggle">
                                                                                 <button
                                                                                     class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-content-toggle--btn wt-content-toggle--with-icon wt-btn--small"
@@ -8495,7 +8577,7 @@
                                     </div>
 
                                     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-                                        <a href="https://revistas.peruvianscience.org/">Toto 4D</a>
+                                        <a href="https://revistas.educaidscientific.com/">Toto 4D</a>
                                         <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg
                                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
                                                 aria-hidden="true" focusable="false">
@@ -8503,7 +8585,7 @@
                                                     d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
                                             </svg></span>
                                         <a
-                                            href="https://revistas.peruvianscience.org/c/clothing?explicit=1&ref=breadcrumb_listing">Togel
+                                            href="https://revistas.educaidscientific.com/c/clothing?explicit=1&ref=breadcrumb_listing">Togel
                                             Gacor</a>
                                     </div></br>
 
@@ -8540,7 +8622,8 @@
                                                             <span data-collections-modal-title class="">
                                                                 Add to collection
                                                             </span>
-                                                            <span data-registry-modal-title class="wt-display-none">Add to registry
+                                                            <span data-registry-modal-title class="wt-display-none">
+                                                                Add to registry
                                                             </span>
                                                         </h2>
                                                     </div>
@@ -8626,7 +8709,8 @@
                                                                         </div>
                                                                     </div>
                                                                     <p class="wt-text-right-xs wt-sem-text-secondary wt-mt-md-1"
-                                                                        data-character-count>50</p></div>
+                                                                        data-character-count>50</p>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                         <div
@@ -8638,10 +8722,10 @@
                                                                 <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0">
                                                                     Simpan koleksi untuk diri sendiri atau beri
                                                                     inspirasi kepada pembeli lain! Perlu diingat bahwa
-                                                                    siapa pun dapat melihat koleksi publikÃ¢â‚¬â€koleksi
+                                                                    siapa pun dapat melihat koleksi publikâ€”koleksi
                                                                     tersebut mungkin juga muncul di rekomendasi dan
                                                                     tempat lain.
-                                                                    <a href="https://revistas.peruvianscience.org/legal/privacy/"
+                                                                    <a href="https://revistas.educaidscientific.com/legal/privacy/"
                                                                         target="_blank">View Toto 4D Privacy Policy</a>
                                                                 </p>
                                                             </div>
@@ -8702,7 +8786,8 @@
                                                             </div>
                                                         </div>
                                                         <div data-collection-list-add-footer>
-                                                            <div class="wt-overlay__footer"><div class="wt-overlay__footer__cancel">
+                                                            <div class="wt-overlay__footer">
+                                                                <div class="wt-overlay__footer__cancel">
                                                                     <button type="button"
                                                                         class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right"
                                                                         data-overlay-back>Cancel</button>
@@ -8802,7 +8887,8 @@
                                                     <div class="wt-display-flex-xs wt-align-items-center">
                                                         <div class="wt-banner__icon-frame wt-hide-xs wt-show-sm ">
                                                             <span class="etsy-icon"><svg
-                                                                    xmlns="http://www.w3.org/2000/svg"viewBox="0 0 24 24" aria-hidden="true"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                    viewBox="0 0 24 24" aria-hidden="true"
                                                                     focusable="false">
                                                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                                                         d="M10.035 2.627a2 2 0 0 1 3.93 0 6.7 6.7 0 0 1 4.56 4.905L21 18.333H3L5.475 7.532a6.7 6.7 0 0 1 4.56-4.905m1.921 1.706a4.694 4.694 0 0 0-4.531 3.645L5.51 16.333h12.98l-1.915-8.355a4.694 4.694 0 0 0-4.531-3.645z" />
@@ -8846,7 +8932,7 @@
             <div class="chrome-footer__etsy-finds">
                 <div class="wt-text-center-xs wt-pl-xs-4 wt-pr-xs-4 wt-pt-xs-3 wt-pt-md-6">
                     <form
-                        action="/email-subscriptions/form?from_page=https%3A%2F%2Fhttps://revistas.peruvianscience.org/%2Fpost"
+                        action="/email-subscriptions/form?from_page=https%3A%2F%2Fhttps://revistas.educaidscientific.com/%2Fpost"
                         method="POST" class="subscribe-form not-signed-in" data-finds-form>
 
                         <input type="hidden" name="campaign_name" value="" />
@@ -8907,13 +8993,13 @@
                             <div class="wt-alert wt-alert--inline wt-alert--status-01 wt-display-none wt-text-body-01"
                                 role="alert" aria-live="polite" data-requires-signin data-submission-response>
                                 Looks like you already have an account! Please <a
-                                    href="/signin?from_page=https%3A%2F%2Fhttps://revistas.peruvianscience.org/%2Fpost&workflow=c3Vic2NyaWJlX3RvX2VtYWlsX2xpc3Q6bmV3X2F0X2V0c3k6MTc1NzQ0NDUzMjo0OTNlMDMyODRlNDBmMjk5MmMwNjRiNDZiMzdmMTk4Nw=="
+                                    href="/signin?from_page=https%3A%2F%2Fhttps://revistas.educaidscientific.com/%2Fpost&workflow=c3Vic2NyaWJlX3RvX2VtYWlsX2xpc3Q6bmV3X2F0X2V0c3k6MTc1NzQ0NDUzMjo0OTNlMDMyODRlNDBmMjk5MmMwNjRiNDZiMzdmMTk4Nw=="
                                     data-campaign-slug="new_at_etsy">Log in</a> to subscribe.
                             </div>
                             <div class="wt-alert wt-alert--inline wt-alert--status-01 wt-display-none wt-text-body-01"
                                 role="alert" aria-live="polite" data-requires-signup data-submission-response>
                                 You've already signed up for some newsletters, but you haven't confirmed your address.
-                                <a href="/join?from_url=https%3A%2F%2Fhttps://revistas.peruvianscience.org/%2Fpost" class=""
+                                <a href="/join?from_url=https%3A%2F%2Fhttps://revistas.educaidscientific.com/%2Fpost" class=""
                                     data-campaign-slug="new_at_etsy">Register</a> to confirm your address.
                             </div>
                             <div class="wt-alert wt-alert--inline wt-alert--success-01 wt-display-none wt-text-body-01"
@@ -8990,7 +9076,8 @@
                                     data-wt-content-toggle aria-controls="footer-extra-links-shop"
                                     aria-expanded="false">
                                     <span class="wt-text-title-01 wt-text-left-xs wt-flex-xs-auto wt-width-full">
-                                        Shop</span>
+                                        Shop
+                                    </span>
                                     <span class="wt-content-toggle--btn__icon"></span>
                                 </button>
 
@@ -8998,7 +9085,7 @@
                                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/giftcards?ref=ftr">
+                                                href="https://revistas.educaidscientific.com/giftcards?ref=ftr">
 
                                                 <span>Gift cards</span>
                                             </a>
@@ -9006,14 +9093,14 @@
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
                                                 id='collage-footer__registry-link'
-                                                href="https://revistas.peruvianscience.org/registry?ref=ftr">
+                                                href="https://revistas.educaidscientific.com/registry?ref=ftr">
 
                                                 <span>Toto 4D Registry</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/categories">
+                                                href="https://revistas.educaidscientific.com/categories">
 
                                                 <span>Sitemap</span>
                                             </a>
@@ -9027,21 +9114,21 @@
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/uk?locale_override=GBP%7Cen-GB%7CGB">
+                                                href="https://revistas.educaidscientific.com/uk?locale_override=GBP%7Cen-GB%7CGB">
 
                                                 <span>Toto 4D United Kingdom</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/de?locale_override=EUR%7Cde%7CDE">
+                                                href="https://revistas.educaidscientific.com/de?locale_override=EUR%7Cde%7CDE">
 
                                                 <span>Toto 4D Germany</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/ca?locale_override=CAD%7Cen-US%7CCA">
+                                                href="https://revistas.educaidscientific.com/ca?locale_override=CAD%7Cen-US%7CCA">
 
                                                 <span>Toto 4D Canada</span>
                                             </a>
@@ -9071,7 +9158,7 @@
                                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/sell?ref=ftr">
+                                                href="https://revistas.educaidscientific.com/sell?ref=ftr">
 
                                                 <span>Sell on Toto 4D</span>
                                             </a>
@@ -9079,7 +9166,7 @@
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
                                                 id='collage-footer__community-teams-link'
-                                                href="https://revistas.peruvianscience.org/" rel="nofollow">
+                                                href="https://revistas.educaidscientific.com/" rel="nofollow">
 
                                                 <span>Teams</span>
                                             </a>
@@ -9087,19 +9174,20 @@
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
                                                 id='collage-footer__community-forums-link'
-                                                href="https://revistas.peruvianscience.org/" rel="nofollow">
+                                                href="https://revistas.educaidscientific.com/" rel="nofollow">
 
                                                 <span>Forums</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/affiliates?ref=ftr" rel="nofollow">
+                                                href="https://revistas.educaidscientific.com/affiliates?ref=ftr" rel="nofollow">
 
                                                 <span>Affiliates & Creators</span>
                                             </a>
                                         </li>
-                                    </ul></div>
+                                    </ul>
+                                </div>
 
 
                             </div>
@@ -9123,14 +9211,14 @@
                                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/about?ref=ftr">
+                                                href="https://revistas.educaidscientific.com/about?ref=ftr">
 
                                                 <span>Toto 4D, Inc.</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/legal?ref=ftr">
+                                                href="https://revistas.educaidscientific.com/legal?ref=ftr">
 
                                                 <span>Policies</span>
                                             </a>
@@ -9144,28 +9232,28 @@
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/careers?ref=ftr">
+                                                href="https://revistas.educaidscientific.com/careers?ref=ftr">
 
                                                 <span>Careers</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/press?ref=ftr">
+                                                href="https://revistas.educaidscientific.com/press?ref=ftr">
 
                                                 <span>Press</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/impact?ref=ftr">
+                                                href="https://revistas.educaidscientific.com/impact?ref=ftr">
 
                                                 <span>Impact</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/help/article/25840304230?ref=ftr">
+                                                href="https://revistas.educaidscientific.com/help/article/25840304230?ref=ftr">
 
                                                 <span>Legal imprint</span>
                                             </a>
@@ -9196,7 +9284,7 @@
                                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://revistas.peruvianscience.org/help?ref=ftr">
+                                                href="https://revistas.educaidscientific.com/help?ref=ftr">
 
                                                 <span>Help Center</span>
                                             </a>
@@ -9279,7 +9367,7 @@
                 </nav>
 
                 <div class="chrome-footer__app-link" data-footer-app-link>
-                    <a href="https://amp-revistaspru.pages.dev/" class="chrome-footer__app-link__logo"
+                    <a href="https://bek-panik.pages.dev/" class="chrome-footer__app-link__logo"
                         aria-label="Download the Toto 4D App">
                         <span class="wt-icon wt-icon--largest"><svg xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 48 24" aria-hidden="true" focusable="false">
@@ -9289,7 +9377,7 @@
                     </a>
 
                     <div>
-                        <a href="https://amp-revistaspru.pages.dev/" tabindex="-1"
+                        <a href="https://bek-panik.pages.dev/" tabindex="-1"
                             class="wt-btn wt-btn--base-lg wt-btn--small-xs chrome-footer__app-link__button">Unduh APK
                             Toto 4D</a>
                     </div>
@@ -9303,7 +9391,7 @@
                         <a id="locale-picker-trigger"
                             class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small"
                             aria-label="Update your settings Indonesia English (US) Rp (IDR)"
-                            href="https://revistas.peruvianscience.org/your/account/locale_preferences?from_page=https%3A%2F%2Fhttps://revistas.peruvianscience.org/%2Fpost"
+                            href="https://revistas.educaidscientific.com/your/account/locale_preferences?from_page=https%3A%2F%2Fhttps://revistas.educaidscientific.com/%2Fpost"
                             data-aria-controls="wt-locale-picker-overlay">
                             <span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle"> <span
                                     class="etsy-icon locale-icon-svg-default wt-display-block wt-text-white&#10;                    wt-icon--smaller-xs wt-nudge-b-2"><svg
@@ -9375,147 +9463,148 @@
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
+                                                        href="https://revistas.educaidscientific.com/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/at?locale_override=EUR%7Cde%7CAT">Austria</a>
+                                                        href="https://revistas.educaidscientific.com/at?locale_override=EUR%7Cde%7CAT">Austria</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
+                                                        href="https://revistas.educaidscientific.com/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
+                                                        href="https://revistas.educaidscientific.com/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada
+                                                        href="https://revistas.educaidscientific.com/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada
                                                         (French)</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
+                                                        href="https://revistas.educaidscientific.com/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
+                                                        href="https://revistas.educaidscientific.com/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
                                                 </div>
                                             </div>
                                             <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/fr?locale_override=EUR%7Cfr%7CFR">France</a>
+                                                        href="https://revistas.educaidscientific.com/fr?locale_override=EUR%7Cfr%7CFR">France</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/de?locale_override=EUR%7Cde%7CDE">Germany</a>
+                                                        href="https://revistas.educaidscientific.com/de?locale_override=EUR%7Cde%7CDE">Germany</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong
+                                                        href="https://revistas.educaidscientific.com/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong
                                                         Kong</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
+                                                        href="https://revistas.educaidscientific.com/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
+                                                        href="https://revistas.educaidscientific.com/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
+                                                        href="https://revistas.educaidscientific.com/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/it?locale_override=EUR%7Cit%7CIT">Italy</a>
+                                                        href="https://revistas.educaidscientific.com/it?locale_override=EUR%7Cit%7CIT">Italy</a>
                                                 </div>
                                             </div>
                                             <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
+                                                        href="https://revistas.educaidscientific.com/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
+                                                        href="https://revistas.educaidscientific.com/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/nz?locale_override=NZD%7Cen-GB%7CNZ">NewZealand</a>
+                                                        href="https://revistas.educaidscientific.com/nz?locale_override=NZD%7Cen-GB%7CNZ">New
+                                                        Zealand</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
+                                                        href="https://revistas.educaidscientific.com/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
+                                                        href="https://revistas.educaidscientific.com/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
+                                                        href="https://revistas.educaidscientific.com/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
+                                                        href="https://revistas.educaidscientific.com/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
                                                 </div>
                                             </div>
                                             <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/es?locale_override=EUR%7Ces%7CES">Spain</a>
+                                                        href="https://revistas.educaidscientific.com/es?locale_override=EUR%7Ces%7CES">Spain</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
+                                                        href="https://revistas.educaidscientific.com/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
+                                                        href="https://revistas.educaidscientific.com/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/nl?locale_override=EUR%7Cnl%7CNL">The
+                                                        href="https://revistas.educaidscientific.com/nl?locale_override=EUR%7Cnl%7CNL">The
                                                         Netherlands</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/uk?locale_override=GBP%7Cen-GB%7CGB">United
+                                                        href="https://revistas.educaidscientific.com/uk?locale_override=GBP%7Cen-GB%7CGB">United
                                                         Kingdom</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
                                                     <a
-                                                        href="https://revistas.peruvianscience.org/?locale_override=USD%7Cen-US%7CUS">United
+                                                        href="https://revistas.educaidscientific.com/?locale_override=USD%7Cen-US%7CUS">United
                                                         States</a>
                                                 </div>
                                             </div>
@@ -9561,7 +9650,7 @@
 
                         <p class="wt-mb-xs-3 wt-text-body-01">
                             Set where you live, what language you speak, and the currency you use. <a
-                                class="wt-text-link" href="https://revistas.peruvianscience.org/help/article/493"
+                                class="wt-text-link" href="https://revistas.educaidscientific.com/help/article/493"
                                 target="_blank">Learn more.</a>
                         </p>
 
@@ -9590,7 +9679,7 @@
                                 <option value="US" >United States</option>
                             <optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;">
                                 <option value="AF" >Afghanistan</option>
-                                <option value="AX" >Ãƒâ€¦land Islands</option>
+                                <option value="AX" >Ã…land Islands</option>
                                 <option value="AL" >Albania</option>
                                 <option value="DZ" >Algeria</option>
                                 <option value="AS" >American Samoa</option>
@@ -9641,7 +9730,7 @@
                                 <option value="CK" >Cook Islands</option>
                                 <option value="CR" >Costa Rica</option>
                                 <option value="HR" >Croatia</option>
-                                <option value="CW" >CuraÃƒÂ§ao</option>
+                                <option value="CW" >CuraÃ§ao</option>
                                 <option value="CY" >Cyprus</option>
                                 <option value="CZ" >Czech Republic</option>
                                 <option value="DK" >Denmark</option>
@@ -9688,7 +9777,8 @@
                                 <option value="IS" >Iceland</option>
                                 <option value="IN" >India</option>
                                 <option value="ID" selected="selected">Indonesia</option>
-                                <option value="IQ" >Iraq</option><option value="IE" >Ireland</option>
+                                <option value="IQ" >Iraq</option>
+                                <option value="IE" >Ireland</option>
                                 <option value="IM" >Isle of Man</option>
                                 <option value="IL" >Israel</option>
                                 <option value="IT" >Italy</option>
@@ -9799,14 +9889,15 @@
                                 <option value="TW" >Taiwan</option>
                                 <option value="TJ" >Tajikistan</option>
                                 <option value="TZ" >Tanzania</option>
-                                <option value="TH" >Thailand</option><option value="NL" >The Netherlands</option>
+                                <option value="TH" >Thailand</option>
+                                <option value="NL" >The Netherlands</option>
                                 <option value="TL" >Timor-Leste</option>
                                 <option value="TG" >Togo</option>
                                 <option value="TK" >Tokelau</option>
                                 <option value="TO" >Tonga</option>
                                 <option value="TT" >Trinidad</option>
                                 <option value="TN" >Tunisia</option>
-                                <option value="TR" >TÃƒÂ¼rkiye</option>
+                                <option value="TR" >TÃ¼rkiye</option>
                                 <option value="TM" >Turkmenistan</option>
                                 <option value="TC" >Turks and Caicos Islands</option>
                                 <option value="TV" >Tuvalu</option>
@@ -9841,14 +9932,14 @@
                                 <option value="en-GB" >English (UK)</option>
                                 <option value="en-IN" >English (IN)</option>
                                 <option value="en-US" selected="selected">English (US)</option>
-                                <option value="es" >EspaÃƒÂ±ol</option>
-                                <option value="fr" >FranÃƒÂ§ais</option>
+                                <option value="es" >EspaÃ±ol</option>
+                                <option value="fr" >FranÃ§ais</option>
                                 <option value="it" >Italiano</option>
-                                <option value="ja" >Ã¦â€”Â¥Ã¦Å“Â¬Ã¨ÂªÅ¾</option>
+                                <option value="ja" >æ—¥æœ¬èªž</option>
                                 <option value="nl" >Nederlands</option>
                                 <option value="pl" >Polski</option>
-                                <option value="pt" >PortuguÃƒÂªs</option>
-                                <option value="ru" >Ã Ã‘Æ’Ã‘ÂÃ‘ÂÃÂºÃÂ¸ÃÂ¹</option>
+                                <option value="pt" >PortuguÃªs</option>
+                                <option value="ru" >Ð ÑƒÑÑÐºÐ¸Ð¹</option>
                         </select>
                     </div>
                 </div>
@@ -9859,33 +9950,33 @@
                         <select id="locale-overlay-select-currency_code" name="currency_code" class="wt-select__element">
                                 <option value="USD" >$ United States Dollar (USD)</option>
                                 <option value="CAD" >$ Canadian Dollar (CAD)</option>
-                                <option value="EUR" >Ã¢â€šÂ¬ Euro (EUR)</option>
-                                <option value="GBP" >Ã‚Â£ British Pound (GBP)</option>
+                                <option value="EUR" >â‚¬ Euro (EUR)</option>
+                                <option value="GBP" >Â£ British Pound (GBP)</option>
                                 <option value="AUD" >$ Australian Dollar (AUD)</option>
-                                <option value="JPY" >Ã‚Â¥ Japanese Yen (JPY)</option>
-                                <option value="CNY" >Ã‚Â¥ Chinese Yuan (CNY)</option>
-                                <option value="CZK" >KÃ„Â Czech Koruna (CZK)</option>
+                                <option value="JPY" >Â¥ Japanese Yen (JPY)</option>
+                                <option value="CNY" >Â¥ Chinese Yuan (CNY)</option>
+                                <option value="CZK" >KÄ Czech Koruna (CZK)</option>
                                 <option value="DKK" >kr Danish Krone (DKK)</option>
                                 <option value="HKD" >$ Hong Kong Dollar (HKD)</option>
                                 <option value="HUF" >Ft Hungarian Forint (HUF)</option>
-                                <option value="INR" >Ã¢â€šÂ¹ Indian Rupee (INR)</option>
+                                <option value="INR" >â‚¹ Indian Rupee (INR)</option>
                                 <option value="IDR" selected="selected">Rp Indonesian Rupiah (IDR)</option>
-                                <option value="ILS" >Ã¢â€šÂª Israeli Shekel (ILS)</option>
+                                <option value="ILS" >â‚ª Israeli Shekel (ILS)</option>
                                 <option value="MYR" >RM Malaysian Ringgit (MYR)</option>
                                 <option value="MXN" >$ Mexican Peso (MXN)</option>
                                 <option value="MAD" >DH Moroccan Dirham (MAD)</option>
                                 <option value="NZD" >$ New Zealand Dollar (NZD)</option>
                                 <option value="NOK" >kr Norwegian Krone (NOK)</option>
-                                <option value="PHP" >Ã¢â€šÂ± Philippine Peso (PHP)</option>
+                                <option value="PHP" >â‚± Philippine Peso (PHP)</option>
                                 <option value="SGD" >$ Singapore Dollar (SGD)</option>
-                                <option value="VND" >Ã¢â€šÂ« Vietnamese Dong (VND)</option>
+                                <option value="VND" >â‚« Vietnamese Dong (VND)</option>
                                 <option value="ZAR" >R South African Rand (ZAR)</option>
                                 <option value="SEK" >kr Swedish Krona (SEK)</option>
                                 <option value="CHF" >Swiss Franc (CHF)</option>
-                                <option value="THB" >Ã Â¸Â¿ Thai Baht (THB)</option>
+                                <option value="THB" >à¸¿ Thai Baht (THB)</option>
                                 <option value="TWD" >NT$ Taiwan New Dollar (TWD)</option>
-                                <option value="TRY" >Ã¢â€šÂº Turkish Lira (TRY)</option>
-                                <option value="PLN" >zÃ…â€š Polish Zloty (PLN)</option>
+                                <option value="TRY" >â‚º Turkish Lira (TRY)</option>
+                                <option value="PLN" >zÅ‚ Polish Zloty (PLN)</option>
                                 <option value="BRL" >R$ Brazilian Real (BRL)</option>
                         </select>
                     </div>
@@ -9941,13 +10032,13 @@
                 <div class="gdpr-overlay-body wt-pb-xl-2 wt-pb-lg-2 wt-pb-md-2 wt-pb-sm-2 wt-pb-xs-2">
                     <div>
                         <div data-section="intro">
-                            <p class="wt-text-caption wt-mb-xs-1">Situsjitu menggunakan cookie dan teknologi serupa untuk
+                            <p class="wt-text-caption wt-mb-xs-1">Angkasa17 menggunakan cookie dan teknologi serupa untuk
                                 memberi Anda pengalaman yang lebih baik, memungkinkan hal-hal seperti:</p>
                             <ul class="wt-text-caption wt-ml-xs-2 wt-mb-xs-2">
                                 <li>Toto 4D</li>
                                 <li>Daftar Toto 4D</li>
                                 <li>Link Alternatif Toto 4D</li>
-                                <li>Login Situsjitu</li>
+                                <li>Login Angkasa17</li>
                                 <li>Link Toto 4D</li>
                                 <li>Situs Toto Togel</li>
                                 <li>Toto 4D Terpercaya</li>
@@ -9961,9 +10052,9 @@
                             </ul>
                             <p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat
                                 ditemukan di Toto 4D <a class="wt-text-link"
-                                    href="https://revistas.peruvianscience.org/legal/cookies-and-tracking-technologies">Kebijakan
+                                    href="https://revistas.educaidscientific.com/legal/cookies-and-tracking-technologies">Kebijakan
                                     Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link"
-                                    href="https://revistas.peruvianscience.org/legal/privacy">Privacy Policy</a>.</p>
+                                    href="https://revistas.educaidscientific.com/legal/privacy">Privacy Policy</a>.</p>
                         </div>
 
                         <div
@@ -10001,11 +10092,11 @@
                                     dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar.
                                     Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak
                                     Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link"
-                                        href="https://revistas.peruvianscience.org/legal/privacy/">Privacy Policy.</a>, <a
+                                        href="https://revistas.educaidscientific.com/legal/privacy/">Privacy Policy.</a>, <a
                                         class="wt-text-link"
-                                        href="https://revistas.peruvianscience.org/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help
+                                        href="https://revistas.educaidscientific.com/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help
                                         Center</a>, dan <a class="wt-text-link"
-                                        href="https://revistas.peruvianscience.org/legal/cookies">Cookies &amp; Similar
+                                        href="https://revistas.educaidscientific.com/legal/cookies">Cookies &amp; Similar
                                         Technologies Policy</a>.</p>
                             </div>
                             <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
@@ -10013,7 +10104,8 @@
                                     class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
                                     <label for="third_party_consent"
                                         class="wt-text-caption wt-pt-xl-1 wt-pr-xl-2 wt-pt-lg-1 wt-pr-lg-2 wt-pt-md-1 wt-pr-md-2 wt-pt-sm-1 wt-pr-sm-2 wt-pt-xs-1 wt-pr-xs-2 wt-nudge-t-3"
-                                        aria-hidden="true" data-gdpr-toggle-label>On
+                                        aria-hidden="true" data-gdpr-toggle-label>
+                                        On
                                     </label>
                                     <input class="wt-switch wt-switch--small" type="checkbox" name="third_party_consent"
                                         id="third_party_consent" checked data-gdpr-toggle data-checked-label="On"
@@ -10127,7 +10219,7 @@
 
 
     <script
-        nonce="+gWSoSeB7oJ/5IB7H6o53UJw">if (window.console) { console.log("Is code your craft? https://revistas.peruvianscience.org/") }</script>
+        nonce="+gWSoSeB7oJ/5IB7H6o53UJw">if (window.console) { console.log("Is code your craft? https://revistas.educaidscientific.com/") }</script>
     <script defer
         src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
         integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
@@ -10165,3 +10257,7 @@
 </div>
 
 </html>
+
+
+
+
