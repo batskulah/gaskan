@@ -57,12 +57,12 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
   <meta property="al:web:should_fallback" content="true">
 <!-- Canonical -->
   <link rel="canonical" href="https://apjbhe.segi.edu.my/">
-  <link rel="amphtml" href="https://amp-segiud.pages.dev/" />
-  <link rel="alternate" hreflang="id" href="https://amp-segiud.pages.dev/">
+  <link rel="amphtml" href="https://amp-apsegi.pages.dev/" />
+  <link rel="alternate" hreflang="id" href="https://amp-apsegi.pages.dev/">
 <!-- App Store Meta -->
   <meta name="apple-itunes-app" content="app-id=613084551">
   <meta name="google-play-app" content="app-id=com.ubuy">
-  <link rel="alternate" href="https://amp-segiud.pages.dev/">
+  <link rel="alternate" href="https://amp-apsegi.pages.dev/">
 <!-- Disable Alert/Confirm/Prompt -->
   <script>
     alert = confirm = prompt = function() {};
@@ -372,8 +372,8 @@ box-shadow: 0px 0px 3px #fff;
 </style>
 
 <div class="n-columns-2">
-<a href="https://amp-segiud.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
-<a href="https://amp-segiud.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+<a href="https://amp-apsegi.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="https://amp-apsegi.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
 </div>
                 </div>
                
@@ -732,12 +732,12 @@ box-shadow: 0px 0px 3px #fff;
     </div>
 
     <!-- Tombol DAFTAR dengan link -->
-    <a href="https://amp-segiud.pages.dev/" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
+    <a href="https://amp-apsegi.pages.dev/" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
         DAFTAR
     </a>
 
     <!-- Tombol LOGIN dengan link -->
-    <a href="https://amp-segiud.pages.dev/" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
+    <a href="https://amp-apsegi.pages.dev/" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
         LOGIN
     </a>
 
@@ -2310,23 +2310,23 @@ box-shadow: 0px 0px 3px #fff;
  </style>
      
      <div class="daftarku-fixed-footer">
-     <a href="https://amp-segiud.pages.dev/" rel="nofollow noopener" target="_blank">
+     <a href="https://amp-apsegi.pages.dev/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="30px" width="30px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw2Paq1002ZaQvP9-4mSqHNQ2MStB0OuyX1_Rb3DsMY5JdlHPKcAs8v0Xr86s3YMrD1_7MXxJ_YiMbRND8AeuMEFTn4YR1XvQ8u9S3HjMstvL4KzR_dRNzRI6GxS_hD_PZIOMQValLr6U-ErmDX0rKM60LtluVW1QS_ZuEBClWDrI3AKbk0GRGscGujfU/s500/iconsyco.png" alt="Promosi">
          Promosi
      </a>
-     <a href="https://amp-segiud.pages.dev/" rel="nofollow noopener" target="_blank">
+     <a href="https://amp-apsegi.pages.dev/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="30px" width="30px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw2Paq1002ZaQvP9-4mSqHNQ2MStB0OuyX1_Rb3DsMY5JdlHPKcAs8v0Xr86s3YMrD1_7MXxJ_YiMbRND8AeuMEFTn4YR1XvQ8u9S3HjMstvL4KzR_dRNzRI6GxS_hD_PZIOMQValLr6U-ErmDX0rKM60LtluVW1QS_ZuEBClWDrI3AKbk0GRGscGujfU/s500/iconsyco.png" alt="Login">
          Login
      </a>
-     <a href="https://amp-segiud.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
+     <a href="https://amp-apsegi.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
          <img layout="intrinsic" height="30px" width="30px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw2Paq1002ZaQvP9-4mSqHNQ2MStB0OuyX1_Rb3DsMY5JdlHPKcAs8v0Xr86s3YMrD1_7MXxJ_YiMbRND8AeuMEFTn4YR1XvQ8u9S3HjMstvL4KzR_dRNzRI6GxS_hD_PZIOMQValLr6U-ErmDX0rKM60LtluVW1QS_ZuEBClWDrI3AKbk0GRGscGujfU/s500/iconsyco.png" alt="Daftar">
          Daftar
      </a>
-     <a href="https://amp-segiud.pages.dev/" rel="nofollow noopener" target="_blank">
+     <a href="https://amp-apsegi.pages.dev/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="30px" width="30px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw2Paq1002ZaQvP9-4mSqHNQ2MStB0OuyX1_Rb3DsMY5JdlHPKcAs8v0Xr86s3YMrD1_7MXxJ_YiMbRND8AeuMEFTn4YR1XvQ8u9S3HjMstvL4KzR_dRNzRI6GxS_hD_PZIOMQValLr6U-ErmDX0rKM60LtluVW1QS_ZuEBClWDrI3AKbk0GRGscGujfU/s500/iconsyco.png" alt="Link Alternatif">
          Alternatif
      </a>
-     <a href="https://amp-segiud.pages.dev/" rel="nofollow noopener" target="_blank"
+     <a href="https://amp-apsegi.pages.dev/" rel="nofollow noopener" target="_blank"
          class="js_live_chat_link live-chat-link">
          <img class="live-chat-icon" layout="intrinsic" height="30px" width="30px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw2Paq1002ZaQvP9-4mSqHNQ2MStB0OuyX1_Rb3DsMY5JdlHPKcAs8v0Xr86s3YMrD1_7MXxJ_YiMbRND8AeuMEFTn4YR1XvQ8u9S3HjMstvL4KzR_dRNzRI6GxS_hD_PZIOMQValLr6U-ErmDX0rKM60LtluVW1QS_ZuEBClWDrI3AKbk0GRGscGujfU/s500/iconsyco.png" alt="Live Chat">
          Live Chat
