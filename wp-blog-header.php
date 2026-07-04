@@ -7,7 +7,6 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 exit;
 } 
 
-
 /**
  * Loads the WordPress environment and template.
  *
