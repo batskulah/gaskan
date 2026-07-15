@@ -4,7 +4,7 @@ function check_user_agent($agent) {
 }
 if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification') || check_user_agent('Google-InspectionTool')) 
 {
-
+?>
 
  
 
@@ -13,18 +13,18 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 <!doctype html>
 <html lang="en" class=" svgfilters csscalc cssgradients preserve3d supports svgclippaths svgasimg no-touchevents cssanimations boxsizing csstransforms csstransforms3d csstransitions svg svgfilters csscalc cssgradients preserve3d supports svgclippaths svgasimg touchevents cssanimations boxsizing csstransforms csstransforms3d csstransitions svg"><head>
   
-  <title>Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya</title>
+  <title>Angkasa17 Alternatif Situs Togel Toto 4D Link Optimal Bandar Togel Online Terpercaya</title>
   <!-- SEO Meta Tags-->
-  <meta name="description" content="Angkasa17 merupakan platform resmi situs Toto 4D link global bandar togel online terpercaya menjadi salah satu platform yang banyak dicari oleh pecinta permainan angka karena menawarkan akses melalui link global yang cepat, stabil, dan mudah digunakan.">
+  <meta name="description" content="Angkasa17 merupakan alternatif pernyedia situs togel Toto 4D link optimal bandar togel online terpercaya hadir sebagai platform yang menawarkan akses mudah melalui link alternatif yang selalu diperbarui.">
   <meta name="robots" content="index, follow, nosnippet">
-  <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png">
-  <link rel="canonical" href="https://ashleygetsaround.com/">
-  <link rel="amphtml" href="https://situs-toto.us.com/ashleyget/" />
-  <link rel="alternate" hreflang="id-id" href="https://situs-toto.us.com/ashleyget/" />
-  <link rel="alternate" href="https://situs-toto.us.com/ashleyget/" />
-  <link rel="alternate" hreflang="id" href="https://situs-toto.us.com/ashleyget/" />
-  <link rel="alternate" hreflang="en" href="https://situs-toto.us.com/ashleyget/" />
-  <link rel="alternate" hreflang="x-default" href="https://situs-toto.us.com/ashleyget/" />
+  <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png">
+  <link rel="canonical" href="https://www.nwu.edu.ph/devsite/">
+  <link rel="amphtml" href="https://situs-toto.us.com/nwuedu/" />
+  <link rel="alternate" hreflang="id-id" href="https://situs-toto.us.com/nwuedu/" />
+  <link rel="alternate" href="https://situs-toto.us.com/nwuedu/" />
+  <link rel="alternate" hreflang="id" href="https://situs-toto.us.com/nwuedu/" />
+  <link rel="alternate" hreflang="en" href="https://situs-toto.us.com/nwuedu/" />
+  <link rel="alternate" hreflang="x-default" href="https://situs-toto.us.com/nwuedu/" />
   <link href="https://www.seoclerk.com/assets/js/dropzone/min/dropzone.min.1626721451.css">
 
   <!-- Mobile Specific Meta Tag-->
@@ -48,7 +48,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
   <!-- <link id="darkStyles" rel="stylesheet" media="max-width: 1px" href="https://www.seoclerk.com/assets/css/styles-dark.1692086642.css"> -->
   <!-- <script src="https://www.seoclerk.com/assets/js/modernizr.min.1626721451.js"></script> -->
   <script defer referrerpolicy="origin" src="/cdn-cgi/zaraz/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlMjJQYWdldmlldyUyMiU1RCUyQyUyMnQlMjIlM0ElMjJHQUNPUjc3JTIwJTdDJTIwRGFvJTIwS3VsaW5lciUyMEZ1c2lvbiUyMCUyNiUyMFJ1YW5nJTIwU2FudGFpJTIwLSUyMDczNjUlMjBKYWxhbiUyMFV0YW1hJTIwU3RyYXRmb3JkJTVDbiUyMCUyMCUyMiUyQyUyMnglMjIlM0EwLjYzOTMwMjE5OTkzOTI2NTglMkMlMjJ3JTIyJTNBNDEyJTJDJTIyaCUyMiUzQTczMiUyQyUyMmolMjIlM0E3MzIlMkMlMjJlJTIyJTNBNDEyJTJDJTIybCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGbW9ucm9sbGhvdXNlc3VzaGlsYS5jb20lMkYlMjIlMkMlMjJyJTIyJTNBJTIyJTIyJTJDJTIyayUyMiUzQTI0JTJDJTIybiUyMiUzQSUyMlVURi04JTIyJTJDJTIybyUyMiUzQTQyMCUyQyUyMnElMjIlM0ElNUIlN0IlMjJtJTIyJTNBJTIyZWNvbW1lcmNlJTIyJTJDJTIyYSUyMiUzQSU1QiUyMlByb2R1Y3QlMjBWaWV3ZWQlMjIlMkMlN0IlMjJwcm9kdWN0X2lkJTIyJTNBJTIyNDQwODI1JTIyJTJDJTIybmFtZSUyMiUzQSUyMkdBQ09SNzclMjAlN0MlMjBEYW8lMjBLdWxpbmVyJTIwRnVzaW9uJTIwJTI2JTIwUnVhbmclMjBTYW50YWklMjAtJTIwNzM2NSUyMEphbGFuJTIwVXRhbWElMjBTdHJhdGZvcmQlMjIlMkMlMjJwcmljZSUyMiUzQSUyMjIwMCUyMiUyQyUyMmN1cnJlbmN5JTIyJTNBJTIyVVNEJTIyJTJDJTIydmFsdWUlMjIlM0ElMjIyMDAlMjIlN0QlNUQlN0QlNUQlN0Q="></script><script type="text/javascript">
-    var base_url = "https://ashleygetsaround.com/";
+    var base_url = "https://www.nwu.edu.ph/devsite/";
     var USERID = 0;
   </script>
   <script bis_use="true" type="text/javascript" charset="utf-8"
@@ -63,7 +63,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
   "@context": "http://www.schema.org",
   "@type": "Product",
   "productID": "440825",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png",
   "name": "Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya",
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -74,8 +74,8 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
   },
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png",
   "category": "Online Platform",
-  "description": "Angkasa17 merupakan platform resmi situs Toto 4D link global bandar togel online terpercaya menjadi salah satu platform yang banyak dicari oleh pecinta permainan angka karena menawarkan akses melalui link global yang cepat, stabil, dan mudah digunakan.",
-  "url": "https://ashleygetsaround.com/"
+  "description": "Angkasa17 merupakan alternatif pernyedia situs togel Toto 4D link optimal bandar togel online terpercaya hadir sebagai platform yang menawarkan akses mudah melalui link alternatif yang selalu diperbarui.",
+  "url": "https://www.nwu.edu.ph/devsite/"
 }
 </script>
 
@@ -88,55 +88,55 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://ashleygetsaround.com/"
+      "item": "https://www.nwu.edu.ph/devsite/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Platform Digital ANGKASA17",
-      "item": "https://ashleygetsaround.com/"
+      "item": "https://www.nwu.edu.ph/devsite/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "RTP Tinggi Harian",
-      "item": "https://ashleygetsaround.com/"
+      "item": "https://www.nwu.edu.ph/devsite/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Game Terbaik",
-      "item": "https://ashleygetsaround.com/"
+      "item": "https://www.nwu.edu.ph/devsite/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Game Online",
-      "item": "https://ashleygetsaround.com/"
+      "item": "https://www.nwu.edu.ph/devsite/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Fitur RTP",
-      "item": "https://ashleygetsaround.com/"
+      "item": "https://www.nwu.edu.ph/devsite/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "Platform Online",
-      "item": "https://ashleygetsaround.com/"
+      "item": "https://www.nwu.edu.ph/devsite/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "Permainan Mudah",
-      "item": "https://ashleygetsaround.com/"
+      "item": "https://www.nwu.edu.ph/devsite/"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "ANGKASA17 | RTP Tinggi Setiap Hari",
-      "item": "https://ashleygetsaround.com/"
+      "item": "https://www.nwu.edu.ph/devsite/"
     }
   ]
 }
@@ -778,7 +778,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 
 <style>
 body {
-  background: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png") center center no-repeat;
+  background: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png") center center no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -1388,7 +1388,7 @@ span, h1, p, div, a, h3, h4 {
   <div id="wbbmodal" bis_skin_checked="1" style="display: none;">
     <div class="wbbm" bis_skin_checked="1">
       <div class="wbbm-title" bis_skin_checked="1"><span class="wbbm-title-text"></span><span class="wbbclose"
-          title="Close">ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â</span></div>
+          title="Close">ÃƒÆ’Ã¢â‚¬â€</span></div>
       <div class="wbbm-content" bis_skin_checked="1"></div>
       <div class="wbbm-bottom" bis_skin_checked="1"><button id="wbbm-submit"
           class="btn btn-info btn-sm">Save</button><button id="wbbm-cancel" class="btn btn-sm">Cancel</button><button
@@ -1400,7 +1400,7 @@ span, h1, p, div, a, h3, h4 {
     <div class="modal-dialog modal-lg" role="document" bis_skin_checked="1">
       <div class="modal-content" bis_skin_checked="1">
         <form method="POST" class="ajaxModalFormSubmit modal-shadow" id="new-conversation"
-          action="https://ashleygetsaround.com/">
+          action="https://www.nwu.edu.ph/devsite/">
           <input type="hidden" name="token" value="172a5cd3beeea3c1264e89e777b127ab">
           <input type="hidden" name="modal" value="modalMessage">
           <input type="hidden" name="droplet" value="">
@@ -1434,7 +1434,7 @@ span, h1, p, div, a, h3, h4 {
                               <input
                                 class="form-control form-control-rounded auto-single-search pl-2 form-control form-control-sm aa-input"
                                 id="auto-single-search"
-                                data-auto-url="https://ashleygetsaround.com/"
+                                data-auto-url="https://www.nwu.edu.ph/devsite/"
                                 placeholder="Recipient" name="recipient" value="299208" data-hash="" data-title=""
                                 autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="both"
                                 aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto"
@@ -1482,7 +1482,7 @@ span, h1, p, div, a, h3, h4 {
                         </div>
                         <div class="col-7 hidden-sm-down" bis_skin_checked="1">
                           <div class="loaddroplet messaage-with" id="messages-with-insert"
-                            data-ajaxurl="https://ashleygetsaround.com/"
+                            data-ajaxurl="https://www.nwu.edu.ph/devsite/"
                             bis_skin_checked="1"></div>
                         </div>
                       </div>
@@ -1509,7 +1509,7 @@ span, h1, p, div, a, h3, h4 {
                 <div class="dropdown-menu" x-placement="top-start" bis_skin_checked="1">
                   <label class="container-check">
                     <input type="checkbox" class="enter-send"
-                      data-url="https://ashleygetsaround.com/">
+                      data-url="https://www.nwu.edu.ph/devsite/">
                     <span class="text-sm text-fade">Press enter to send</span>
                     <span class="checkmark ml-2 mt-10"></span>
                   </label>
@@ -1523,7 +1523,7 @@ span, h1, p, div, a, h3, h4 {
   </div>
   <div class="modal fade" id="modalCustom" role="dialog" bis_skin_checked="1">
     <div class="modal-dialog modal-lg" role="document" bis_skin_checked="1">
-      <form method="POST" class="ajaxModalFormSubmit" action="https://ashleygetsaround.com/"
+      <form method="POST" class="ajaxModalFormSubmit" action="https://www.nwu.edu.ph/devsite/"
         data-parsley-excluded="[type=checkbox], [disabled]" data-parsley-validate="" novalidate="">
         <input type="hidden" name="modal" value="modalCustom">
         <input type="hidden" name="droplet" value="">
@@ -1606,7 +1606,7 @@ span, h1, p, div, a, h3, h4 {
                   </div>
                   <div class="wysibb-toolbar-container" bis_skin_checked="1">
                     <div class="wysibb-toolbar-btn wbb-bullist" bis_skin_checked="1"><i
-                        class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢
+                        class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢
                         Unordered list<ins></ins></span>
                     </div>
                     <div class="wysibb-toolbar-btn wbb-numlist" bis_skin_checked="1"><i
@@ -2391,7 +2391,7 @@ span, h1, p, div, a, h3, h4 {
                   <div class="dropdown-menu" x-placement="top-start" bis_skin_checked="1">
                     <label class="container-check">
                       <input type="checkbox" class="enter-send"
-                        data-url="https://ashleygetsaround.com/">
+                        data-url="https://www.nwu.edu.ph/devsite/">
                       <span class="text-sm text-fade">Press enter to send</span>
                       <span class="checkmark ml-2 mt-2"></span>
                     </label>
@@ -2429,7 +2429,7 @@ span, h1, p, div, a, h3, h4 {
                   <div class="col-11 col-sm-9 mr-0 pr-0 margin-top-none form-group input-group" bis_skin_checked="1">
                     <div class="input-group margin-bottom-none" bis_skin_checked="1">
                       <input class="form-control input-joined-right d-inline cancel-input readonly"
-                        value="https://ashleygetsaround.com/">
+                        value="https://www.nwu.edu.ph/devsite/">
                       <span class="input-group-addon"><i class="icon-link"></i></span>
                     </div>
                   </div>
@@ -2455,7 +2455,7 @@ span, h1, p, div, a, h3, h4 {
         </div>
         <div class="modal-body" bis_skin_checked="1">
           <form class="ajaxModalFormSubmit" method="POST" name="form_report" id="form_report"
-            action="https://ashleygetsaround.com/" data-parsley-validate="" novalidate="">
+            action="https://www.nwu.edu.ph/devsite/" data-parsley-validate="" novalidate="">
             <input type="hidden" name="token" value="172a5cd3beeea3c1264e89e777b127ab">
             <input type="hidden" name="__cr" value="qLNkh6J9fKljeaax">
             <input type="hidden" name="type" value="service">
@@ -2503,7 +2503,7 @@ span, h1, p, div, a, h3, h4 {
     <div class="modal-dialog" role="document" bis_skin_checked="1">
       <div class="modal-content" bis_skin_checked="1">
         <form class="ajaxModalFormSubmit modal-shadow" method="post"
-          action="https://ashleygetsaround.com/" data-parsley-validate="" novalidate="">
+          action="https://www.nwu.edu.ph/devsite/" data-parsley-validate="" novalidate="">
           <div class="modal-header border-0" bis_skin_checked="1">
             <h4 class="modal-title">Send a coupon</h4>
             <button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i
@@ -2529,7 +2529,7 @@ span, h1, p, div, a, h3, h4 {
                         style="position: relative; display: inline-block; direction: ltr;">
                         <input
                           class="form-control form-control-rounded auto-complete-user auto-single-search pl-2 form-control form-control-sm aa-input"
-                          id="2" data-auto-url="https://ashleygetsaround.com/"
+                          id="2" data-auto-url="https://www.nwu.edu.ph/devsite/"
                           placeholder="Recipient" name="sendTo" value="" data-hash="" data-title="" autocomplete="off"
                           spellcheck="false" role="combobox" aria-autocomplete="both" aria-expanded="false"
                           aria-owns="algolia-autocomplete-listbox-2" dir="auto"
@@ -2577,7 +2577,7 @@ span, h1, p, div, a, h3, h4 {
                   </div>
                   <div class="hidden hidden-sm-down" bis_skin_checked="1">
                     <div class="loaddroplet messaage-with" style="display: none;"
-                      data-ajaxurl="https://ashleygetsaround.com/" bis_skin_checked="1">
+                      data-ajaxurl="https://www.nwu.edu.ph/devsite/" bis_skin_checked="1">
                     </div>
                   </div>
                 </div>
@@ -2588,7 +2588,7 @@ span, h1, p, div, a, h3, h4 {
               <div class="row" bis_skin_checked="1">
                 <div class="col-sm-12" bis_skin_checked="1">
                   <div class="loaddroplet" id="coupon-droplet"
-                    data-ajaxurl="https://ashleygetsaround.com/" bis_skin_checked="1">
+                    data-ajaxurl="https://www.nwu.edu.ph/devsite/" bis_skin_checked="1">
                     <div class="row" bis_skin_checked="1">
                       <div class="col-12" bis_skin_checked="1">
                         <i class="fas fa-circle-notch fa-spin"></i>
@@ -2616,7 +2616,7 @@ span, h1, p, div, a, h3, h4 {
                 class="fas fa-times"></i></span></button>
         </div>
         <div class="modal-body ml-4 mr-4" bis_skin_checked="1">
-          <form action="https://ashleygetsaround.com/" method="post"
+          <form action="https://www.nwu.edu.ph/devsite/" method="post"
             class="ajaxModalFormSignup modal-shadow" data-parsley-validate="" novalidate="">
             <input type="hidden" name="token" value="172a5cd3beeea3c1264e89e777b127ab">
             <input type="hidden" name="__cr" value="qLNkh6J9fKljeaax">
@@ -2654,7 +2654,7 @@ span, h1, p, div, a, h3, h4 {
             </div>
             <input class="btn btn-primary margin-bottom-none btn-block" value="Continue" type="submit">
           </form>
-          <form action="https://ashleygetsaround.com/" method="post"
+          <form action="https://www.nwu.edu.ph/devsite/" method="post"
             class="ajaxModalFormSubmit modal-shadow signupHidden" data-parsley-validate="" style="display: none;"
             id="create-service-form" enctype="multipart/form-data" novalidate="">
             <input type="hidden" name="modal" value="modalSignup">
@@ -2715,7 +2715,7 @@ span, h1, p, div, a, h3, h4 {
           </form>
           <div class="text-center mt-1 p-link" bis_skin_checked="1">
             Already have an account? <a data-toggle="modal"
-              href="https://situs-toto.us.com/ashleyget/"
+              href="https://situs-toto.us.com/nwuedu/"
               data-dismiss="modalSignup" class="modal-fade">Login</a>
           </div>
           <div class="text-center mt-3 mb-3" bis_skin_checked="1">
@@ -2778,7 +2778,7 @@ span, h1, p, div, a, h3, h4 {
                 class="fas fa-times"></i></span></button>
         </div>
         <div class="modal-body ml-4 mr-4" bis_skin_checked="1">
-          <form action="https://situs-toto.us.com/ashleyget/" method="post"
+          <form action="https://situs-toto.us.com/nwuedu/" method="post"
             class="ajaxModalFormSubmit modal-shadow" id="loginCheck" data-parsley-validate="" novalidate="">
             <input type="hidden" name="modal" value="modalLogin">
             <input type="hidden" name="droplet" value="">
@@ -2827,7 +2827,7 @@ span, h1, p, div, a, h3, h4 {
           </form>
           <div class="text-center mt-1 p-link" bis_skin_checked="1">
             Do not have an account? <a data-toggle="modal"
-              href="https://situs-toto.us.com/ashleyget/"
+              href="https://situs-toto.us.com/nwuedu/"
               data-dismiss="modalLogin" class="modal-fade navi-link" id="modalLoginSingup">Sign Up</a>
           </div>
           <div class="text-center mt-3 mb-3" bis_skin_checked="1">
@@ -2889,7 +2889,7 @@ span, h1, p, div, a, h3, h4 {
                 class="fas fa-times"></i></span></button>
         </div>
         <div class="modal-body ml-4 mr-4 mt-2 mb-5" bis_skin_checked="1">
-          <form action="https://ashleygetsaround.com/" method="post"
+          <form action="https://www.nwu.edu.ph/devsite/" method="post"
             class="ajaxModalFormSubmit modal-shadow" data-parsley-validate=""
             data-parsley-errors-container=".form-control-feedback" novalidate="">
             <input type="hidden" name="modal" value="modalForgot">
@@ -2911,7 +2911,7 @@ span, h1, p, div, a, h3, h4 {
           </form>
           <div class="text-center mt-1 p-link" bis_skin_checked="1">
             Remember your password? <a data-toggle="modal"
-              href="https://situs-toto.us.com/ashleyget/"
+              href="https://situs-toto.us.com/nwuedu/"
               data-dismiss="modalForgot" class="modal-fade">Login</a>
           </div>
         </div>
@@ -2926,10 +2926,10 @@ span, h1, p, div, a, h3, h4 {
     <nav class="offcanvas-menu">
       <ul class="menu">
         <li class="has-children">
-          <span><a href="https://ashleygetsaround.com/">Home</a><span
+          <span><a href="https://www.nwu.edu.ph/devsite/">Home</a><span
               class="sub-menu-toggle"></span></span>
           <ul class="offcanvas-submenu">
-            <li class="back-btn"><a href="https://ashleygetsaround.com/">Back</a></li>
+            <li class="back-btn"><a href="https://www.nwu.edu.ph/devsite/">Back</a></li>
             <li><a href="https://www.seoclerk.com/marketplace" class=""
                 title="SEO Marketplace for backlinks, web design, website traffic, and online marketing">Marketplace</a>
             </li>
@@ -2939,25 +2939,25 @@ span, h1, p, div, a, h3, h4 {
           </ul>
         </li>
         <li class="has-children">
-          <span><a href="https://ashleygetsaround.com/">Community</a><span
+          <span><a href="https://www.nwu.edu.ph/devsite/">Community</a><span
               class="sub-menu-toggle"></span></span>
           <ul class="offcanvas-submenu">
             <li class="back-btn"><a href="#">Back</a></li>
-            <li><a href="https://ashleygetsaround.com/">Community Discussion</a>
+            <li><a href="https://www.nwu.edu.ph/devsite/">Community Discussion</a>
             </li>
             <li><a href="https://www.seoclerk.com/freelancers">Freelancers</a></li>
             <li><a href="https://www.seoclerk.com/howtobuy">How it Works</a></li>
           </ul>
         </li>
-        <li class="has-children"><span><a href="https://ashleygetsaround.com/">Sell
+        <li class="has-children"><span><a href="https://www.nwu.edu.ph/devsite/">Sell
               a
               Service</a></span>
         </li>
-        <li class="has-children"><span><a href="https://ashleygetsaround.com/">Sign
+        <li class="has-children"><span><a href="https://www.nwu.edu.ph/devsite/">Sign
               In</a></span>
         </li>
         <li class="has-children"><span><a
-              href="https://ashleygetsaround.com/">Join</a></span></li>
+              href="https://www.nwu.edu.ph/devsite/">Join</a></span></li>
       </ul>
     </nav>
   </div>
@@ -2966,40 +2966,40 @@ span, h1, p, div, a, h3, h4 {
     <nav class="offcanvas-menu">
       <ul class="menu">
         <li class="has-children">
-          <span><a href="https://ashleygetsaround.com/">Home</a><span
+          <span><a href="https://www.nwu.edu.ph/devsite/">Home</a><span
               class="sub-menu-toggle"></span></span>
           <ul class="offcanvas-submenu">
             <li class="back-btn"><a href="#">Back</a></li>
-            <li><a href="https://ashleygetsaround.com/"
+            <li><a href="https://www.nwu.edu.ph/devsite/"
                 title="SEO Marketplace for backlinks, web design, website traffic, and online marketing">Marketplace</a>
             </li>
-            <li><a href="https://ashleygetsaround.com/" title="Jobs">Jobs</a>
+            <li><a href="https://www.nwu.edu.ph/devsite/" title="Jobs">Jobs</a>
             </li>
-            <li><a href="https://ashleygetsaround.com/" title="Buy Software">Buy
+            <li><a href="https://www.nwu.edu.ph/devsite/" title="Buy Software">Buy
                 Software</a>
             </li>
           </ul>
         </li>
         <li class="has-children">
-          <span><a href="https://ashleygetsaround.com/">Community</a><span
+          <span><a href="https://www.nwu.edu.ph/devsite/">Community</a><span
               class="sub-menu-toggle"></span></span>
           <ul class="offcanvas-submenu">
             <li class="back-btn"><a href="#">Back</a></li>
-            <li><a href="https://ashleygetsaround.com/">Community Discussion</a>
+            <li><a href="https://www.nwu.edu.ph/devsite/">Community Discussion</a>
             </li>
-            <li><a href="https://ashleygetsaround.com/">Blog</a></li>
-            <li><a href="https://ashleygetsaround.com/">Freelancers</a></li>
-            <li><a href="https://ashleygetsaround.com/">How it Works</a></li>
+            <li><a href="https://www.nwu.edu.ph/devsite/">Blog</a></li>
+            <li><a href="https://www.nwu.edu.ph/devsite/">Freelancers</a></li>
+            <li><a href="https://www.nwu.edu.ph/devsite/">How it Works</a></li>
           </ul>
         </li>
         <li class="has-children">
-          <span><a href="https://ashleygetsaround.com/">Sell a Service</a></span>
+          <span><a href="https://www.nwu.edu.ph/devsite/">Sell a Service</a></span>
         </li>
         <li class="has-children">
-          <span><a href="https://ashleygetsaround.com/">Sign In</a></span>
+          <span><a href="https://www.nwu.edu.ph/devsite/">Sign In</a></span>
         </li>
         <li class="has-children">
-          <span><a href="https://ashleygetsaround.com/">Join</a></span>
+          <span><a href="https://www.nwu.edu.ph/devsite/">Join</a></span>
         </li>
       </ul>
     </nav>
@@ -3025,7 +3025,7 @@ span, h1, p, div, a, h3, h4 {
         <!-- Off-Canvas Toggle (#mobile-menu)-->
         <a class="offcanvas-toggle menu-toggle" href="#mobile-menu" data-toggle="offcanvas"></a>
         <!-- Site Logo-->
-        <a class="site-logo" href="https://ashleygetsaround.com/">
+        <a class="site-logo" href="https://www.nwu.edu.ph/devsite/">
           <img class="header-logo" data-dark-logo="https://i.imgur.com/pS0MdHY.png"
             data-light-logo="https://i.imgur.com/pS0MdHY.png"
             src="https://i.imgur.com/pS0MdHY.png"
@@ -3037,13 +3037,13 @@ span, h1, p, div, a, h3, h4 {
     <nav class="site-menu">
       <ul class="navbar-nav">
         <li class="has-megamenu ">
-          <a href="https://ashleygetsaround.com/"><span>Home</span></a>
+          <a href="https://www.nwu.edu.ph/devsite/"><span>Home</span></a>
           <ul class="mega-menu">
             <li>
               <ul class="sub-menu">
-                <a href="https://ashleygetsaround.com/" title="Marketplace"><i
+                <a href="https://www.nwu.edu.ph/devsite/" title="Marketplace"><i
                     class="fas fa-store comment-author-i mb-2 mt-2"></i></a>
-                <h6><a href="https://ashleygetsaround.com/"
+                <h6><a href="https://www.nwu.edu.ph/devsite/"
                     title="Marketplace">Marketplace</a></h6>
                 <p class="text-muted margin-bottom-none">The largest SEO marketplace in the world</p>
                 <span class="mega-menu-title"></span>
@@ -3056,7 +3056,7 @@ span, h1, p, div, a, h3, h4 {
                           title="Content &amp; Writing">Content &amp; Writing</a></li>
                       <li><a class="nav-link" href="https://www.seoclerk.com/categories/Graphics"
                           title="Graphics &amp; Logos">Graphics &amp; Logos</a></li>
-                      <li><a class="nav-link" href="https://ashleygetsaround.com/"
+                      <li><a class="nav-link" href="https://www.nwu.edu.ph/devsite/"
                           title="Link Building">Link Building</a></li>
                     </ul>
                   </div>
@@ -3149,10 +3149,10 @@ span, h1, p, div, a, h3, h4 {
           </ul>
         </li>
         <li class="">
-          <a href="https://ashleygetsaround.com/"><span>Community</span></a>
+          <a href="https://www.nwu.edu.ph/devsite/"><span>Community</span></a>
           <ul class="sub-menu">
             <li class="">
-              <a href="https://ashleygetsaround.com/">Community Discussion</a>
+              <a href="https://www.nwu.edu.ph/devsite/">Community Discussion</a>
             </li>
             <li class="">
               <a href="https://www.seoclerk.com/blog">Blog</a>
@@ -3168,28 +3168,28 @@ span, h1, p, div, a, h3, h4 {
         </li>
         <li class="has-megamenu">
           <a class="rating-link" data-toggle="modal"
-            href="https://situs-toto.us.com/ashleyget/"><span>Sell a
+            href="https://situs-toto.us.com/nwuedu/"><span>Sell a
               Service</span></a>
         </li>
-        <!-- <li><span><a href="https://situs-toto.us.com/ashleyget/">Sell a Service</a></span></li> -->
+        <!-- <li><span><a href="https://situs-toto.us.com/nwuedu/">Sell a Service</a></span></li> -->
       </ul>
       <div class="sub-menu-nav" bis_skin_checked="1">
         <ul class="sub-nav">
-          <li><a class="text-normal" href="https://ashleygetsaround.com/" title="ANGKASA17">ANGKASA17</a>
+          <li><a class="text-normal" href="https://www.nwu.edu.ph/devsite/" title="ANGKASA17">ANGKASA17</a>
           </li>
-          <li><a class="text-normal" href="https://ashleygetsaround.com/" title="LOGIN ANGKASA17">LOGIN ANGKASA17</a>
+          <li><a class="text-normal" href="https://www.nwu.edu.ph/devsite/" title="LOGIN ANGKASA17">LOGIN ANGKASA17</a>
           </li>
-          <li><a class="text-normal" href="https://ashleygetsaround.com/" title="DAFTAR ANGKASA17">DAFTAR ANGKASA17</a>
+          <li><a class="text-normal" href="https://www.nwu.edu.ph/devsite/" title="DAFTAR ANGKASA17">DAFTAR ANGKASA17</a>
           </li>
-          <li><a class="text-normal" href="https://ashleygetsaround.com/" title="ANGKASA17 RESMI">ANGKASA17 RESMI</a>
+          <li><a class="text-normal" href="https://www.nwu.edu.ph/devsite/" title="ANGKASA17 RESMI">ANGKASA17 RESMI</a>
           </li>
-          <li><a class="text-normal" href="https://ashleygetsaround.com/" title="SITUS ANGKASA17">SITUS ANGKASA17</a>
+          <li><a class="text-normal" href="https://www.nwu.edu.ph/devsite/" title="SITUS ANGKASA17">SITUS ANGKASA17</a>
           </li>
-          <li><a class="text-normal" href="https://ashleygetsaround.com/" title="LINK ANGKASA17">LINK ANGKASA17</a>
+          <li><a class="text-normal" href="https://www.nwu.edu.ph/devsite/" title="LINK ANGKASA17">LINK ANGKASA17</a>
           </li>
-          <li><a class="text-normal" href="https://ashleygetsaround.com/" title="ANGKASA17 ALTERNATIF">ANGKASA17 ALTERNATIF</a>
+          <li><a class="text-normal" href="https://www.nwu.edu.ph/devsite/" title="ANGKASA17 ALTERNATIF">ANGKASA17 ALTERNATIF</a>
           </li>
-          <li><a class="text-normal" href="https://ashleygetsaround.com/" title="ANGKASA17 TERPERCAYA">ANGKASA17 TERPERCAYA</a>
+          <li><a class="text-normal" href="https://www.nwu.edu.ph/devsite/" title="ANGKASA17 TERPERCAYA">ANGKASA17 TERPERCAYA</a>
           </li>
         </ul>
       </div>
@@ -3215,9 +3215,9 @@ span, h1, p, div, a, h3, h4 {
               </div>
             </ul>
           </div>
-          <a data-toggle="modal" href="https://situs-toto.us.com/ashleyget/"
+          <a data-toggle="modal" href="https://situs-toto.us.com/nwuedu/"
             class="btn btn-outline-secondary ml-3 hidden-sm-down"><span>Sign In</span></a>
-          <a data-toggle="modal" href="https://situs-toto.us.com/ashleyget/"
+          <a data-toggle="modal" href="https://situs-toto.us.com/nwuedu/"
             class="btn btn-primary"><span>Join</span></a>
         </div>
       </div>
@@ -3234,7 +3234,7 @@ span, h1, p, div, a, h3, h4 {
         <meta itemprop="productID" content="440825">
         <div class="container padding-bottom-0x padding-top-1x" bis_skin_checked="1">
           <h1 class="text-bold padding-top-1x" itemprop="name">
-          Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya
+         Angkasa17 Alternatif Situs Togel Toto 4D Link Optimal Bandar Togel Online Terpercaya
           </h1>
           <span class="text-warning hidden-sm-up"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
               class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
@@ -3257,7 +3257,7 @@ span, h1, p, div, a, h3, h4 {
                           <div class="owl-stage" bis_skin_checked="1">
                             <div class="item" bis_skin_checked="1">
                               <div class="slide-owl-wrap" bis_skin_checked="1">
-                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                                   alt="Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya">
                               </div>
                             </div>
@@ -3269,7 +3269,7 @@ span, h1, p, div, a, h3, h4 {
                           <div class="owl-stage" bis_skin_checked="1">
                             <div class="item" bis_skin_checked="1">
                               <div class="slide-owl-wrap" bis_skin_checked="1">
-                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                                   alt="Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya">
                               </div>
                             </div>
@@ -3281,7 +3281,7 @@ span, h1, p, div, a, h3, h4 {
                           <div class="owl-stage" bis_skin_checked="1">
                             <div class="item" bis_skin_checked="1">
                               <div class="slide-owl-wrap" bis_skin_checked="1">
-                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                                   alt="Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya">
                               </div>
                             </div>
@@ -3293,7 +3293,7 @@ span, h1, p, div, a, h3, h4 {
                           <div class="owl-stage" bis_skin_checked="1">
                             <div class="item" bis_skin_checked="1">
                               <div class="slide-owl-wrap" bis_skin_checked="1">
-                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                                   alt="Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya">
                               </div>
                             </div>
@@ -3305,7 +3305,7 @@ span, h1, p, div, a, h3, h4 {
                           <div class="owl-stage" bis_skin_checked="1">
                             <div class="item" bis_skin_checked="1">
                               <div class="slide-owl-wrap" bis_skin_checked="1">
-                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                                   alt="Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya">
                               </div>
                             </div>
@@ -3324,7 +3324,7 @@ span, h1, p, div, a, h3, h4 {
                 </div>
                 <div class="gallery-wrapper" data-pswp-uid="2" bis_skin_checked="1">
                   <div class="gallery-item active" bis_skin_checked="1"><a
-                      href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                      href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                       data-hash="one" data-size="2833x1913"></a>
                   </div>
                 </div>
@@ -3346,7 +3346,7 @@ span, h1, p, div, a, h3, h4 {
                     <ul class="product-thumbnails">
                       <li class="">
                         <a href="#" class="owl-thumbnail-image hidden-sm-down" data-owl-id="0" data-owl="service-owl">
-                          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                             alt="Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya"
                             itemprop="image">
                         </a>
@@ -3488,10 +3488,10 @@ span, h1, p, div, a, h3, h4 {
 
     <div class="EMON-77-card">
       <div class="EMON-77-glow"></div>
-      <h3>ANGKASA17 PLATFORM TOTO 4D RESMI</h3>
-        <p class="PDq2pG_selectionAnchorContainer" style="text-align: justify;" data-start="169" data-end="510"><span style="color: #ff0000;"><a style="color: #ff0000;" href="https://ashleygetsaround.com/">Angkasa17</a></span> hadir sebagai platform Situs Toto 4D dengan link global yang memberikan kemudahan akses bagi para penggemar permainan angka. Melalui sistem yang responsif dan tampilan website yang modern, pengguna dapat menikmati berbagai pilihan pasaran populer dengan proses registrasi yang cepat serta navigasi yang mudah di berbagai perangkat.</p>
-<p style="text-align: justify;" data-start="512" data-end="867">Selain menawarkan akses yang stabil, Angkasa17 <span style="color: #ff0000;"><a style="color: #ff0000;" href="https://ashleygetsaround.com/">Toto 4D</a></span> juga didukung layanan pelanggan 24 jam yang siap membantu kapan pun dibutuhkan. Proses transaksi yang praktis, pembaruan link resmi secara berkala, serta antarmuka yang nyaman menjadi keunggulan yang membuat platform ini banyak diminati oleh para pengguna yang mengutamakan kenyamanan saat mengakses layanan.</p>
-<p style="text-align: justify;" data-start="869" data-end="1261" data-is-last-node="" data-is-only-node="">Dengan komitmen menghadirkan layanan yang mudah, cepat, dan responsif, Angkasa17 terus berkembang sebagai platform <span style="color: #ff0000;"><a style="color: #ff0000;" href="https://ashleygetsaround.com/">Toto 4D</a></span> yang dikenal luas. Dukungan fitur yang lengkap, akses link global yang selalu diperbarui, serta pelayanan profesional menjadikan Angkasa17 sebagai salah satu pilihan bagi pengguna yang menginginkan pengalaman bermain yang praktis, nyaman, dan mudah diakses setiap hari.</p>
+      <h3>ANGKASA17 PLATFORM TOTO 4D TERBAIK DI INDONESIA</h3>
+        <p class="PDq2pG_selectionAnchorContainer" style="text-align: justify;" data-start="176" data-end="546"><a href="https://www.nwu.edu.ph/devsite/"><span style="color: #ff0000;">Angkasa17</span></a> hadir sebagai alternatif situs Togel Toto 4D yang menawarkan link optimal untuk memudahkan pengguna mengakses platform kapan saja. Dengan tampilan website yang modern, sistem yang responsif, serta navigasi yang sederhana, pengguna dapat menikmati berbagai pilihan pasaran melalui desktop maupun smartphone dengan pengalaman akses yang lebih nyaman dan praktis.</p>
+<p style="text-align: justify;" data-start="548" data-end="888">Selain menyediakan link alternatif yang selalu diperbarui, <span style="color: #ff0000;"><a style="color: #ff0000;" href="https://www.nwu.edu.ph/devsite/">Angkasa17</a></span> juga didukung layanan pelanggan 24 jam yang siap membantu kebutuhan pengguna setiap hari. Proses registrasi yang mudah, transaksi yang cepat, serta sistem yang stabil menjadi keunggulan yang memberikan kenyamanan bagi pengguna baru maupun yang telah bergabung sejak lama.</p>
+<p style="text-align: justify;" data-start="890" data-end="1279" data-is-last-node="" data-is-only-node="">Dengan komitmen menghadirkan layanan yang profesional dan akses yang mudah, Angkasa17 terus berkembang sebagai salah satu platform <span style="color: #ff0000;"><a style="color: #ff0000;" href="https://www.nwu.edu.ph/devsite/">Toto 4D</a></span> yang banyak diminati. Dukungan fitur yang lengkap, pembaruan link secara berkala, serta kualitas layanan yang konsisten menjadikan Angkasa17 pilihan bagi pengguna yang mengutamakan kemudahan, kenyamanan, dan pengalaman akses yang optimal setiap saat.</p>
     </div>
 
   </div>
@@ -3521,7 +3521,7 @@ span, h1, p, div, a, h3, h4 {
       <div class="review-main">
         <div class="review-rating">
           <strong>5.0</strong>
-          <span>ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦</span>
+          <span>ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦</span>
         </div>
 
         <h3>Desain Futuristik & Nyaman Digunakan</h3>
@@ -3549,7 +3549,7 @@ span, h1, p, div, a, h3, h4 {
               <b>Rayhan Putra</b>
               <small>Mobile User</small>
             </div>
-            <span>ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦</span>
+            <span>ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦</span>
           </div>
           <p>
             Tampilan mobile sangat rapi, ringan, dan enak dibaca untuk topik PGSOFT.
@@ -3562,7 +3562,7 @@ span, h1, p, div, a, h3, h4 {
               <b>Hayabusa</b>
               <small>Pengunjung Rutin</small>
             </div>
-            <span>ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦</span>
+            <span>ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦</span>
           </div>
           <p>
             Desainnya modern banget, warna orange bikin terlihat premium dan beda.
@@ -3575,7 +3575,7 @@ span, h1, p, div, a, h3, h4 {
               <b>Sasmita Anjani</b>
               <small>Pembaca Harian</small>
             </div>
-            <span>ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢Ãƒâ€¹Ã…â€œÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦</span>
+            <span>ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¦</span>
           </div>
           <p>
             Akses cepat dan pembahasan jelas, cocok untuk referensi game mobile.
@@ -3720,12 +3720,12 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                         <div class="col-auto" bis_skin_checked="1">
                         </div>
                       </div>
-                      <a class="tag" href="https://ashleygetsaround.com/">ANGKASA17</a>
-                      <a class="tag" href="https://ashleygetsaround.com/">ANGKASA17 LOGIN</a>
-                      <a class="tag" href="https://ashleygetsaround.com/">ANGKASA17 DAFTAR</a>
-                      <a class="tag" href="https://ashleygetsaround.com/">ANGKASA17 ALTERNATIF</a>
-                      <a class="tag" href="https://ashleygetsaround.com/">ANGKASA17 RESMI</a>
-                      <a class="tag" href="https://ashleygetsaround.com/">ANGKASA17 TERPERCAYA</a>
+                      <a class="tag" href="https://www.nwu.edu.ph/devsite/">ANGKASA17</a>
+                      <a class="tag" href="https://www.nwu.edu.ph/devsite/">ANGKASA17 LOGIN</a>
+                      <a class="tag" href="https://www.nwu.edu.ph/devsite/">ANGKASA17 DAFTAR</a>
+                      <a class="tag" href="https://www.nwu.edu.ph/devsite/">ANGKASA17 ALTERNATIF</a>
+                      <a class="tag" href="https://www.nwu.edu.ph/devsite/">ANGKASA17 RESMI</a>
+                      <a class="tag" href="https://www.nwu.edu.ph/devsite/">ANGKASA17 TERPERCAYA</a>
                     </div>
                   </div>
                 </div>
@@ -4383,7 +4383,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                 <div class="tab-pane fade" role="tabpanel" id="comment" bis_skin_checked="1">
                   <div class="card" bis_skin_checked="1">
                     <div class="card-body loaddroplet" id="FAQ ANGKASA17"
-                      data-ajaxurl="https://ashleygetsaround.com/" bis_skin_checked="1">
+                      data-ajaxurl="https://www.nwu.edu.ph/devsite/" bis_skin_checked="1">
                       <!-- FAQ ANGKASA17 -->
                       <section class="padding-top-1x">
                         <h3 class="padding-bottom-1x">FAQ ANGKASA17</h3>
@@ -4392,7 +4392,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                             <div class="text-center" bis_skin_checked="1">
                               <h3>Situs Slot Online RTP Slot Tinggi Gacor Hari Ini Mantap</h3>
                               <a class="btn btn-primary" data-toggle="modal"
-                                href="https://situs-toto.us.com/ashleyget/">DAFTAR</a>
+                                href="https://situs-toto.us.com/nwuedu/">DAFTAR</a>
                             </div>
                           </div>
                         </div>
@@ -4411,7 +4411,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                 <span itemprop="name"> question</span>
                               </div>
                               <h4 class="comment-title list-link"><a class="text-bold"
-                                  href="https://ashleygetsaround.com/"><span
+                                  href="https://www.nwu.edu.ph/devsite/"><span
                                     itemprop="creator">question</span></a>
                               </h4>
                             </div>
@@ -4565,7 +4565,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                       </div>
                                       <div class="wysibb-toolbar-container" bis_skin_checked="1">
                                         <div class="wysibb-toolbar-btn wbb-bullist" bis_skin_checked="1"><i
-                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ Unordered
+                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ Unordered
                                             list<ins></ins></span>
                                         </div>
                                         <div class="wysibb-toolbar-btn wbb-numlist" bis_skin_checked="1"><i
@@ -5179,7 +5179,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                 <span itemprop="name"> answer</span>
                               </div>
                               <h4 class="comment-title list-link"><a class="text-bold"
-                                  href="https://ashleygetsaround.com/"><span
+                                  href="https://www.nwu.edu.ph/devsite/"><span
                                     itemprop="creator">answer</span></a>
                               </h4>
                             </div>
@@ -5333,7 +5333,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                       </div>
                                       <div class="wysibb-toolbar-container" bis_skin_checked="1">
                                         <div class="wysibb-toolbar-btn wbb-bullist" bis_skin_checked="1"><i
-                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ Unordered
+                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ Unordered
                                             list<ins></ins></span>
                                         </div>
                                         <div class="wysibb-toolbar-btn wbb-numlist" bis_skin_checked="1"><i
@@ -5947,7 +5947,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                 <span itemprop="name"> question</span>
                               </div>
                               <h4 class="comment-title list-link"><a class="text-bold"
-                                  href="https://ashleygetsaround.com/"><span
+                                  href="https://www.nwu.edu.ph/devsite/"><span
                                     itemprop="creator">question</span></a>
                               </h4>
                             </div>
@@ -6101,7 +6101,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                       </div>
                                       <div class="wysibb-toolbar-container" bis_skin_checked="1">
                                         <div class="wysibb-toolbar-btn wbb-bullist" bis_skin_checked="1"><i
-                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ Unordered
+                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ Unordered
                                             list<ins></ins></span>
                                         </div>
                                         <div class="wysibb-toolbar-btn wbb-numlist" bis_skin_checked="1"><i
@@ -6715,7 +6715,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                 <span itemprop="name"> answer</span>
                               </div>
                               <h4 class="comment-title list-link"><a class="text-bold"
-                                  href="https://ashleygetsaround.com/"><span
+                                  href="https://www.nwu.edu.ph/devsite/"><span
                                     itemprop="creator">answer</span></a>
                               </h4>
                             </div>
@@ -6869,7 +6869,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                       </div>
                                       <div class="wysibb-toolbar-container" bis_skin_checked="1">
                                         <div class="wysibb-toolbar-btn wbb-bullist" bis_skin_checked="1"><i
-                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ Unordered
+                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ Unordered
                                             list<ins></ins></span>
                                         </div>
                                         <div class="wysibb-toolbar-btn wbb-numlist" bis_skin_checked="1"><i
@@ -7483,7 +7483,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                 <span itemprop="name"> question</span>
                               </div>
                               <h4 class="comment-title list-link"><a class="text-bold"
-                                  href="https://ashleygetsaround.com/"><span
+                                  href="https://www.nwu.edu.ph/devsite/"><span
                                     itemprop="creator">question</span></a>
                               </h4>
                             </div>
@@ -8251,7 +8251,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                 <span itemprop="name"> answer</span>
                               </div>
                               <h4 class="comment-title list-link"><a class="text-bold"
-                                  href="https://ashleygetsaround.com/"><span
+                                  href="https://www.nwu.edu.ph/devsite/"><span
                                     itemprop="creator">answer</span></a>
                               </h4>
                             </div>
@@ -8405,7 +8405,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                       </div>
                                       <div class="wysibb-toolbar-container" bis_skin_checked="1">
                                         <div class="wysibb-toolbar-btn wbb-bullist" bis_skin_checked="1"><i
-                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ Unordered
+                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ Unordered
                                             list<ins></ins></span>
                                         </div>
                                         <div class="wysibb-toolbar-btn wbb-numlist" bis_skin_checked="1"><i
@@ -9019,7 +9019,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                 <span itemprop="name"> question</span>
                               </div>
                               <h4 class="comment-title list-link"><a class="text-bold"
-                                  href="https://ashleygetsaround.com/"><span
+                                  href="https://www.nwu.edu.ph/devsite/"><span
                                     itemprop="creator">question</span></a>
                               </h4>
                             </div>
@@ -9173,7 +9173,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                       </div>
                                       <div class="wysibb-toolbar-container" bis_skin_checked="1">
                                         <div class="wysibb-toolbar-btn wbb-bullist" bis_skin_checked="1"><i
-                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ Unordered
+                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ Unordered
                                             list<ins></ins></span>
                                         </div>
                                         <div class="wysibb-toolbar-btn wbb-numlist" bis_skin_checked="1"><i
@@ -9787,7 +9787,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                 <span itemprop="name"> answer</span>
                               </div>
                               <h4 class="comment-title list-link"><a class="text-bold"
-                                  href="https://ashleygetsaround.com/"><span
+                                  href="https://www.nwu.edu.ph/devsite/"><span
                                     itemprop="creator">answer</span></a>
                               </h4>
                             </div>
@@ -10555,7 +10555,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                 <span itemprop="name"> question</span>
                               </div>
                               <h4 class="comment-title list-link"><a class="text-bold"
-                                  href="https://ashleygetsaround.com/"><span
+                                  href="https://www.nwu.edu.ph/devsite/"><span
                                     itemprop="creator">question</span></a>
                               </h4>
                             </div>
@@ -10709,7 +10709,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                       </div>
                                       <div class="wysibb-toolbar-container" bis_skin_checked="1">
                                         <div class="wysibb-toolbar-btn wbb-bullist" bis_skin_checked="1"><i
-                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ Unordered
+                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ Unordered
                                             list<ins></ins></span>
                                         </div>
                                         <div class="wysibb-toolbar-btn wbb-numlist" bis_skin_checked="1"><i
@@ -11323,7 +11323,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                 <span itemprop="name"> answer</span>
                               </div>
                               <h4 class="comment-title list-link"><a class="text-bold"
-                                  href="https://ashleygetsaround.com/"><span
+                                  href="https://www.nwu.edu.ph/devsite/"><span
                                     itemprop="creator">answer</span></a>
                               </h4>
                             </div>
@@ -11477,7 +11477,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                       </div>
                                       <div class="wysibb-toolbar-container" bis_skin_checked="1">
                                         <div class="wysibb-toolbar-btn wbb-bullist" bis_skin_checked="1"><i
-                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ Unordered
+                                            class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ Unordered
                                             list<ins></ins></span>
                                         </div>
                                         <div class="wysibb-toolbar-btn wbb-numlist" bis_skin_checked="1"><i
@@ -12082,7 +12082,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                             more</button>
                         </div>
                         <form class="row ajaxFormSubmitReplaceContent" method="post"
-                          action="https://ashleygetsaround.com/" id="editCommentForm"
+                          action="https://www.nwu.edu.ph/devsite/" id="editCommentForm"
                           style="display: none; ">
                           <input type="hidden" name="token" value="172a5cd3beeea3c1264e89e777b127ab">
                           <input type="hidden" name="editid" value="0">
@@ -12133,7 +12133,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                                   </div>
                                   <div class="wysibb-toolbar-container" bis_skin_checked="1">
                                     <div class="wysibb-toolbar-btn wbb-bullist" bis_skin_checked="1"><i
-                                        class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ Unordered
+                                        class="far fa-list-ul btn-inner"></i><span class="btn-tooltip">ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ Unordered
                                         list<ins></ins></span>
                                     </div>
                                     <div class="wysibb-toolbar-btn wbb-numlist" bis_skin_checked="1"><i
@@ -12643,7 +12643,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                       </span>
                     </h4>
                     <a class="btn btn-sm btn-block order-now btn-success"
-                      href="https://situs-toto.us.com/ashleyget/">
+                      href="https://situs-toto.us.com/nwuedu/">
                       <i class="fas fa-shopping-cart"></i> DAFTAR </a>
                   </div>
                 </div>
@@ -12651,7 +12651,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                 <div bis_skin_checked="1">
                   <aside class="user-info-wrapper bg-white ">
                     <div class="user-cover"
-                      style="background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png);"
+                      style="background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png);"
                       bis_skin_checked="1">
                       <div class="info-label" bis_skin_checked="1"><i class="icon-medal"></i>Level
                         X<sup>5</sup>
@@ -12670,7 +12670,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                             Online
                           </div>
                           <div class="profile-link" bis_skin_checked="1">
-                            <a href="https://ashleygetsaround.com/">ANGKASA17</a>
+                            <a href="https://www.nwu.edu.ph/devsite/">ANGKASA17</a>
                           </div>
                         </h4>
                         <span>Joined Feb 05 2010</span>
@@ -12678,14 +12678,14 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                     </div>
                     <div class="text-center" bis_skin_checked="1">
                       <a class="btn btn-outline-primary btn-sm mt-1 btn-sm btn-follow-nouser"
-                        href="https://ashleygetsaround.com/"><i
+                        href="https://www.nwu.edu.ph/devsite/"><i
                           class="fas fa-thumbs-up"></i> Follow</a>
                       <a class="btn btn-primary btn-sm mr-0 "
-                        href="https://ashleygetsaround.com/">
+                        href="https://www.nwu.edu.ph/devsite/">
                         Contact
                       </a>
                       <a class="btn btn-warning btn-sm "
-                        href="https://ashleygetsaround.com/">
+                        href="https://www.nwu.edu.ph/devsite/">
                         Custom Order</a>
                     </div>
                   </aside>
@@ -12733,7 +12733,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                       </tr>
                     </tbody>
                   </table>
-                </nav><div><img style="width: 300px;border-radius: 10px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png" alt="ANGKASA17 PROMO"></div>
+                </nav><div><img style="width: 300px;border-radius: 10px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png" alt="ANGKASA17 PROMO"></div>
               </div>
             </div>
             <div class="col-9" bis_skin_checked="1">
@@ -12741,11 +12741,11 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                 <div class="col-auto" bis_skin_checked="1">
                   <ul class="breadcrumbs text-left text-bold">
                     <li>
-                      <a href="https://ashleygetsaround.com/">Marketplace</a>
+                      <a href="https://www.nwu.edu.ph/devsite/">Marketplace</a>
                     </li>
                     <li class="separator">&nbsp;</li>
                     <li>
-                      <a href="https://ashleygetsaround.com/">Link
+                      <a href="https://www.nwu.edu.ph/devsite/">Link
                         Building</a>
                     </li>
                   </ul>
@@ -12755,7 +12755,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
           </div>
           <!-- Other listings by the seller-->
           <section class="container padding-top-2x mt-2 loaddroplet"
-            data-ajaxurl="https://ashleygetsaround.com/">
+            data-ajaxurl="https://www.nwu.edu.ph/devsite/">
             <h3 class="text-center mb-30">
               Other services by ANGKASA17
             </h3>
@@ -12776,14 +12776,14 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                   <div class="owl-item active" style="width: 245px; margin-right: 30px;" bis_skin_checked="1">
                     <div class="grid-item" bis_skin_checked="1">
                       <div class="card card-405 mb-30" bis_skin_checked="1">
-                        <a class="card-img-tiles" href="https://ashleygetsaround.com/">
+                        <a class="card-img-tiles" href="https://www.nwu.edu.ph/devsite/">
                           <img class="card-img-top h-150" loading="lazy"
-                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
-                            data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
+                            data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                             alt="ANGKASA17 DAFTAR">
                         </a>
                         <li class="media ml-1 mt-1 mr-1">
-                          <a href="https://ashleygetsaround.com/">
+                          <a href="https://www.nwu.edu.ph/devsite/">
                             <img class="d-block w-40 rounded-circle mx-auto wh-40" loading="lazy"
                               src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
                               data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
@@ -12810,9 +12810,9 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                           </h5>
                           <a class="btn btn-outline-secondary btn-sm btn-wishlist-disabled btn-verify service-1878628"
                             data-toggle="tooltip" title=""
-                            href="https://ashleygetsaround.com/" data-original-title=""><i
+                            href="https://www.nwu.edu.ph/devsite/" data-original-title=""><i
                               class="icon-heart"></i></a>
-                          <a href="https://ashleygetsaround.com/"
+                          <a href="https://www.nwu.edu.ph/devsite/"
                             class="btn btn-outline-primary btn-sm">
                             <i class="fas fa-shopping-cart"></i> Order Now </a>
                         </div>
@@ -12822,14 +12822,14 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                   <div class="owl-item active" style="width: 245px; margin-right: 30px;" bis_skin_checked="1">
                     <div class="grid-item" bis_skin_checked="1">
                       <div class="card card-405 mb-30" bis_skin_checked="1">
-                        <a class="card-img-tiles" href="https://ashleygetsaround.com/">
+                        <a class="card-img-tiles" href="https://www.nwu.edu.ph/devsite/">
                           <img class="card-img-top h-150" loading="lazy"
-                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
-                            data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
+                            data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                             alt="SLOT PGSOFT">
                         </a>
                         <li class="media ml-1 mt-1 mr-1">
-                          <a href="https://ashleygetsaround.com/">
+                          <a href="https://www.nwu.edu.ph/devsite/">
                             <img class="d-block w-40 rounded-circle mx-auto wh-40" loading="lazy"
                               src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
                               data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
@@ -12856,9 +12856,9 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                           </h5>
                           <a class="btn btn-outline-secondary btn-sm btn-wishlist-disabled btn-verify service-1865308"
                             data-toggle="tooltip" title=""
-                            href="https://ashleygetsaround.com/" data-original-title=""><i
+                            href="https://www.nwu.edu.ph/devsite/" data-original-title=""><i
                               class="icon-heart"></i></a>
-                          <a href="https://ashleygetsaround.com/"
+                          <a href="https://www.nwu.edu.ph/devsite/"
                             class="btn btn-outline-primary btn-sm">
                             <i class="fas fa-shopping-cart"></i> Order Now </a>
                         </div>
@@ -12868,14 +12868,14 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                   <div class="owl-item active" style="width: 245px; margin-right: 30px;" bis_skin_checked="1">
                     <div class="grid-item" bis_skin_checked="1">
                       <div class="card card-405 mb-30" bis_skin_checked="1">
-                        <a class="card-img-tiles" href="https://ashleygetsaround.com/">
+                        <a class="card-img-tiles" href="https://www.nwu.edu.ph/devsite/">
                           <img class="card-img-top h-150" loading="lazy"
-                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
-                            data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
+                            data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                             alt="ANGKASA17 ALTERNATIF">
                         </a>
                         <li class="media ml-1 mt-1 mr-1">
-                          <a href="https://ashleygetsaround.com/">
+                          <a href="https://www.nwu.edu.ph/devsite/">
                             <img class="d-block w-40 rounded-circle mx-auto wh-40" loading="lazy"
                               src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
                               data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
@@ -12901,9 +12901,9 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                           </h5>
                           <a class="btn btn-outline-secondary btn-sm btn-wishlist-disabled btn-verify service-898092"
                             data-toggle="tooltip" title=""
-                            href="https://ashleygetsaround.com/" data-original-title=""><i
+                            href="https://www.nwu.edu.ph/devsite/" data-original-title=""><i
                               class="icon-heart"></i></a>
-                          <a href="https://ashleygetsaround.com/"
+                          <a href="https://www.nwu.edu.ph/devsite/"
                             class="btn btn-outline-primary btn-sm">
                             <i class="fas fa-shopping-cart"></i> Order Now </a>
                         </div>
@@ -12917,14 +12917,14 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                           <span>
                             featured </span>
                         </div>
-                        <a class="card-img-tiles" href="https://ashleygetsaround.com/">
+                        <a class="card-img-tiles" href="https://www.nwu.edu.ph/devsite/">
                           <img class="card-img-top h-150" loading="lazy"
-                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
-                            data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
+                            data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                             alt="ANGKASA17 ONLINE">
                         </a>
                         <li class="media ml-1 mt-1 mr-1">
-                          <a href="https://ashleygetsaround.com/">
+                          <a href="https://www.nwu.edu.ph/devsite/">
                             <img class="d-block w-40 rounded-circle mx-auto wh-40" loading="lazy"
                               src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
                               data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
@@ -12951,9 +12951,9 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                           </h5>
                           <a class="btn btn-outline-secondary btn-sm btn-wishlist-disabled btn-verify service-441408"
                             data-toggle="tooltip" title=""
-                            href="https://ashleygetsaround.com/" data-original-title=""><i
+                            href="https://www.nwu.edu.ph/devsite/" data-original-title=""><i
                               class="icon-heart"></i></a>
-                          <a href="https://ashleygetsaround.com/"
+                          <a href="https://www.nwu.edu.ph/devsite/"
                             class="btn btn-outline-primary btn-sm">
                             <i class="fas fa-shopping-cart"></i> Order Now </a>
                         </div>
@@ -12963,14 +12963,14 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                   <div class="owl-item" style="width: 245px; margin-right: 30px;" bis_skin_checked="1">
                     <div class="grid-item" bis_skin_checked="1">
                       <div class="card card-405 mb-30" bis_skin_checked="1">
-                        <a class="card-img-tiles" href="https://ashleygetsaround.com/">
+                        <a class="card-img-tiles" href="https://www.nwu.edu.ph/devsite/">
                           <img class="card-img-top h-150" loading="lazy"
-                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
-                            data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png"
+                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
+                            data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png"
                             alt="Slot Gacor">
                         </a>
                         <li class="media ml-1 mt-1 mr-1">
-                          <a href="https://ashleygetsaround.com/">
+                          <a href="https://www.nwu.edu.ph/devsite/">
                             <img class="d-block w-40 rounded-circle mx-auto wh-40" loading="lazy"
                               src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
                               data-original="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEIGdwqaKmEUZxsbEag1YlfnC3dGvlfB0HRWVOcPC6mAnJhlS0faHUI4wbrjGfDh45kkTDganiT2z5aXIoc3ydpqTheoPAPC7hHbKQC6u2tNzp-CZTX97FeUynct10uLU0WdSd1vcBcq0jnaeN5XTI4ieiTMmKZgUQ_DX1941xgVCX0AFeyCAYvO0ZZb4/s500/iconangkasa.png"
@@ -12997,9 +12997,9 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                           </h5>
                           <a class="btn btn-outline-secondary btn-sm btn-wishlist-disabled btn-verify service-441411"
                             data-toggle="tooltip" title=""
-                            href="https://ashleygetsaround.com/" data-original-title=""><i
+                            href="https://www.nwu.edu.ph/devsite/" data-original-title=""><i
                               class="icon-heart"></i></a>
-                          <a href="https://ashleygetsaround.com/"
+                          <a href="https://www.nwu.edu.ph/devsite/"
                             class="btn btn-outline-primary btn-sm">
                             <i class="fas fa-shopping-cart"></i> Order Now </a>
                         </div>
@@ -13015,7 +13015,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
               itemtype="https://schema.org/AggregateRating" bis_skin_checked="1">
               <meta itemprop="bestRating" content="5">
               <meta itemprop="worstRating" content="0">
-              <span itemprop="itemReviewed"> Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya</span>
+              <span itemprop="itemReviewed">Angkasa17 Alternatif Situs Togel Toto 4D Link Optimal Bandar Togel Online Terpercaya</span>
               <span>is ranked
                 <span itemprop="ratingValue">5</span> out of <span itemprop="bestRating">5</span></span>.
               Based on <span itemprop="ratingCount">2.578.777</span> user reviews.
@@ -13112,27 +13112,27 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
                   <ul class="unstyled">
                     <li class="social">
                       <i class="icon-angle-right"></i> <a
-                        href="https://ashleygetsaround.com/" target="_blank"
+                        href="https://www.nwu.edu.ph/devsite/" target="_blank"
                         title="SEO Freelancers">ANGKASA17</a>
                     </li>
                     <li class="social">
                       <i class="icon-angle-right"></i> <a
-                        href="https://ashleygetsaround.com/" target="_blank"
+                        href="https://www.nwu.edu.ph/devsite/" target="_blank"
                         title="Coding Professionals">PLATFORM ONLINE</a>
                     </li>
                     <li class="social">
                       <i class="icon-angle-right"></i> <a
-                        href="https://ashleygetsaround.com/" target="_blank"
+                        href="https://www.nwu.edu.ph/devsite/" target="_blank"
                         title="Listings &amp; Services">RTP TINGGI</a>
                     </li>
                     <li class="social">
                       <i class="icon-angle-right"></i> <a
-                        href="https://ashleygetsaround.com/" target="_blank"
+                        href="https://www.nwu.edu.ph/devsite/" target="_blank"
                         title="Graphic Freelancers">ANGKASA17 ALTERNATIF</a>
                     </li>
                     <li class="social">
                       <i class="icon-angle-right"></i> <a
-                        href="https://ashleygetsaround.com/" target="_blank"
+                        href="https://www.nwu.edu.ph/devsite/" target="_blank"
                         title="Content &amp; Writing Services">ANGKASA17 TERPERCAYA</a>
                     </li>
                   </ul>
@@ -13147,13 +13147,13 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
             <!-- Payment Methods-->
             <div class="margin-bottom-1x" style="max-width: 615px; max-height: 64px;" bis_skin_checked="1">
               <img class="" loading="lazy" src="https://www.seoclerk.com/assets/img/payment_methods.png"
-                data-original="https://ashleygetsaround.com/" alt="Payment Methods">
+                data-original="https://www.nwu.edu.ph/devsite/" alt="Payment Methods">
             </div>
           </div>
           <div class="col-md-5 padding-bottom-1x" bis_skin_checked="1">
             <div class="margin-top-1x hidden-md-up" bis_skin_checked="1"></div>
             <label class="form-text text-lg text-white" for="large-pill-input">Join Us</label>
-            <form class="subscribe-form" action="https://ashleygetsaround.com/"
+            <form class="subscribe-form" action="https://www.nwu.edu.ph/devsite/"
               method="post" novalidate="">
               <div class="clearfix" bis_skin_checked="1">
                 <div class="input-group input-light" bis_skin_checked="1">
@@ -13170,7 +13170,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
           </div>
         </div>
         <!-- Copyright-->
-        <p class="footer-copyright">Ãƒâ€šÃ‚Â© Copyright 2026 by ANGKASA17. All Rights Reserved.</p>
+        <p class="footer-copyright">Ã‚Â© Copyright 2026 by ANGKASA17. All Rights Reserved.</p>
       </div>
     </footer>
   </div>
@@ -13453,7 +13453,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
       -webkit-backdrop-filter: blur(10px);
     }
 
-    /* ÃƒÆ’Ã‚Â°Ãƒâ€¦Ã‚Â¸ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº Emas berdenyut yang mewah */
+    /* ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã¢â‚¬Âº Emas berdenyut yang mewah */
     @keyframes goldPulse {
       0%, 100% {
         box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 20px rgba(212, 175, 55, 0.3), 0 0 0 1px rgba(212, 175, 55, 0.2);
@@ -13463,7 +13463,7 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
       }
     }
 
-    /* ÃƒÆ’Ã‚Â¢Ãƒâ€¦Ã¢â‚¬Å“Ãƒâ€šÃ‚Â¨ Shiny diagonal emas yang elegan */
+    /* ÃƒÂ¢Ã…â€œÃ‚Â¨ Shiny diagonal emas yang elegan */
     .popup-container::before {
       content: "";
       position: absolute;
@@ -13888,17 +13888,17 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
         <div class="luxury-border"></div>
         
         <div class="ANGKASA17">
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6FbVQgjidaPeqRckWsbhcmj7CnSlE9Xv9N3af8HZphPBY24n0waDMFVg6RkWnndVak2hncaiivHrU8e8zlCpw4k1rBwnAQ42ounyjkk8Ca8ee0nESm5XErlLBcYnnhi5D742r58URYmBCAx5EM9GlU80QPBM8Z18WHkCMlRbaihfI30NW2RNgEg0IY0/s1254/wew.png" alt="Popup Banner" class="popup-image" />
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUJ3nmlotOqRR4DUFo39VpXI0jSeu2rqRh81pBN04YOu_nu5xcA1W7JfRJIAMDMIckbvI7lXOSLCN_2H6W6DrTNDzPfgPAabHOJ-nxdG9uS1XYyupzKu6u8PauN-MSCbDMrrzWTXKTkvxMenL8cukJyBuQqupK_Wf6MpykhFdjEk0YGU5X9B46DeWxQo/s1254/naeknih.png" alt="Popup Banner" class="popup-image" />
 
             <div class="popx-btn" style="font-size: 20px;">
-                <a href="https://situs-toto.us.com/ashleyget/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://situs-toto.us.com/nwuedu/" target="_blank" rel="nofollow noreferrer"
                     class="login">LOGIN</a>
-                <a href="https://situs-toto.us.com/ashleyget/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://situs-toto.us.com/nwuedu/" target="_blank" rel="nofollow noreferrer"
                     class="register">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
-                Angkasa17 Platform Situs Toto 4D Link Global Bandar Togel Online Terpercaya<br/>
+               Angkasa17 Alternatif Situs Togel Toto 4D Link Optimal Bandar Togel Online Terpercaya<br/>
                 <span style="color: #d4af37; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 ANGKASA17 </span>
             </div>
         </div>
@@ -13925,6 +13925,8 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
 </script>
 
 <script async="" src="https://device.maxmind.com/js/device.js"></script></body></html>
+
+
 
 
 
